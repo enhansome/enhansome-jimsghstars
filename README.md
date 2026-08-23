@@ -161,7 +161,7 @@
 
 ## Adblock Filter List
 
-* [easylist/easylist](https://github.com/easylist/easylist) ⭐ 3,101 | 🐛 1,260 | 🌐 Adblock Filter List | 📅 2026-08-22 - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+* [easylist/easylist](https://github.com/easylist/easylist) ⭐ 3,100 | 🐛 1,261 | 🌐 Adblock Filter List | 📅 2026-08-23 - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 
 ## AppleScript
 
@@ -174,10 +174,10 @@
 ## Astro
 
 * [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) ⭐ 45,550 | 🐛 0 | 🌐 Astro | 📅 2026-08-20 - AdminLTE - Free admin dashboard template based on Bootstrap 5
-* [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) ⭐ 7,430 | 🐛 19 | 🌐 Astro | 📅 2026-08-19 - 💼 A curated list of technical talks and articles about real world enterprise frontend development
+* [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) ⭐ 7,431 | 🐛 19 | 🌐 Astro | 📅 2026-08-19 - 💼 A curated list of technical talks and articles about real world enterprise frontend development
 * [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) ⭐ 3,657 | 🐛 1 | 🌐 Astro | 📅 2026-07-17 - A curated list of awesome minimalist frameworks (simple and lightweight).
-* [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) ⭐ 3,305 | 🐛 23 | 🌐 Astro | 📅 2026-07-30 - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-* [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) ⭐ 1,951 | 🐛 357 | 🌐 Astro | 📅 2026-02-22 - list of free stuff for developer
+* [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) ⭐ 3,306 | 🐛 23 | 🌐 Astro | 📅 2026-07-30 - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+* [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) ⭐ 1,951 | 🐛 359 | 🌐 Astro | 📅 2026-02-22 - list of free stuff for developer
 * [DevRohit06/blog](https://github.com/DevRohit06/blog) ⭐ 8 | 🐛 0 | 🌐 Astro | 📅 2023-08-23 - A Blogging website made using Astro and Tailwind css
 * [OliverSpeir/notes](https://github.com/OliverSpeir/notes) ⭐ 6 | 🐛 0 | 🌐 Astro | 📅 2023-09-13 -
 * [ganesshkumar/ganesshkumar.github.io](https://github.com/ganesshkumar/ganesshkumar.github.io) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-11 - Personal Blog
@@ -186,7 +186,7 @@
 ## AutoHotkey
 
 * [aviaryan/Clipjump](https://github.com/aviaryan/Clipjump) ⭐ 397 | 🐛 46 | 🌐 AutoHotkey | 📅 2021-04-06 - :clipboard: Clipboard Manager for Windows, built in AutoHotkey
-* [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) ⭐ 240 | 🐛 0 | 🌐 Lua | 📅 2026-08-22 - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
+* [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) ⭐ 240 | 🐛 0 | 🌐 Lua | 📅 2026-08-23 - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts.
 * [denolfe/AutoHotkey](https://github.com/denolfe/AutoHotkey) ⭐ 181 | 🐛 4 | 🌐 AutoHotkey | 📅 2020-06-05 - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 * [JuanmaMenendez/AutoHotkey-script-Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) ⭐ 148 | 🐛 7 | 🌐 AutoHotkey | 📅 2025-07-06 - AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys
 * [7plus/7plus](https://github.com/7plus/7plus) ⭐ 97 | 🐛 41 | 🌐 AutoHotkey | 📅 2026-08-02 - Improving Windows, one by one
@@ -207,8 +207,8 @@
 
 ## AutoIt
 
-* [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) ⭐ 6,388 | 🐛 22 | 🌐 AutoIt | 📅 2026-05-14 - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
-* [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) ⭐ 5,867 | 🐛 101 | 🌐 AutoIt | 📅 2026-06-24 - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+* [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) ⭐ 6,387 | 🐛 22 | 🌐 AutoIt | 📅 2026-05-14 - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
+* [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) ⭐ 5,869 | 🐛 101 | 🌐 AutoIt | 📅 2026-06-24 - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 * [jschicht/LogFileParser](https://github.com/jschicht/LogFileParser) ⭐ 218 | 🐛 2 | 🌐 AutoIt | 📅 2026-06-05 - Parser for $LogFile on NTFS
 * [jschicht/UsnJrnl2Csv](https://github.com/jschicht/UsnJrnl2Csv) ⭐ 125 | 🐛 1 | 🌐 AutoIt | 📅 2022-11-27 - Parser for $UsnJrnl on NTFS
 * [Chainski/ForceAdmin](https://github.com/Chainski/ForceAdmin) ⭐ 120 | 🐛 0 | 🌐 AutoIt | 📅 2026-02-12 - Collection of script templates to create infinite UAC prompts forcing a user to run as admin ⚠
@@ -225,16 +225,16 @@
 
 ## Batchfile
 
-* [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) ⭐ 10,280 | 🐛 109 | 🌐 Batchfile | 📅 2024-08-15 - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
-* [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) ⭐ 3,530 | 🐛 13 | 🌐 Batchfile | 📅 2025-09-25 - 🌎 Windows 11 Settings, Tweaks, Scripts
+* [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) ⭐ 10,282 | 🐛 109 | 🌐 Batchfile | 📅 2024-08-15 - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
+* [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) ⭐ 3,532 | 🐛 13 | 🌐 Batchfile | 📅 2025-09-25 - 🌎 Windows 11 Settings, Tweaks, Scripts
 * [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) ⭐ 1,995 | 🐛 6 | 🌐 Batchfile | 📅 2026-06-08 - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-* [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) ⭐ 1,338 | 🐛 3 | 🌐 Batchfile | 📅 2026-03-17 - USB Mice Overclocking Software (for Windows)
+* [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) ⭐ 1,337 | 🐛 3 | 🌐 Batchfile | 📅 2026-03-17 - USB Mice Overclocking Software (for Windows)
 * [npocmaka/batch.scripts](https://github.com/npocmaka/batch.scripts) ⭐ 1,134 | 🐛 36 | 🌐 Batchfile | 📅 2024-08-29 - batch script utils and examples by npocmaka -
 * [AveYo/fox](https://github.com/AveYo/fox) ⭐ 796 | 🐛 18 | 🌐 Batchfile | 📅 2024-06-10 - Firefox stuff
 * [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) ⚠️ Archived - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 * [rossy/mpv-install](https://github.com/rossy/mpv-install) ⭐ 470 | 🐛 7 | 🌐 Batchfile | 📅 2021-09-03 - Sets up file associations for mpv on Windows
 * [davidmarble/virtualenvwrapper-win](https://github.com/davidmarble/virtualenvwrapper-win) ⭐ 458 | 🐛 24 | 🌐 Batchfile | 📅 2022-03-18 - Port of Doug Hellmann's virtualenvwrapper to Windows batch scripts
-* [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) ⭐ 417 | 🐛 8 | 🌐 Batchfile | 📅 2026-04-02 - snippets for power users
+* [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) ⭐ 416 | 🐛 8 | 🌐 Batchfile | 📅 2026-04-02 - snippets for power users
 * [TheWorldOfPC/Windows11-Debloat-Privacy-Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide) ⚠️ Archived -
 * [Iridium-IO/SiriShortcuts](https://github.com/Iridium-IO/SiriShortcuts) ⭐ 253 | 🐛 7 | 🌐 Batchfile | 📅 2025-04-26 - Scripts to control Windows PC over SSH
 * [vegardit/cygwin-portable-installer](https://github.com/vegardit/cygwin-portable-installer) ⭐ 211 | 🐛 0 | 🌐 Batchfile | 📅 2026-08-01 - Windows batch file to perform unattended installations of a portable Cygwin environment.
@@ -313,8 +313,8 @@
 
 ## Bicep
 
-* [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,866 | 🐛 988 | 🌐 Bicep | 📅 2026-08-19 - Azure Quickstart Templates
-* [Azure/bicep](https://github.com/Azure/bicep) ⭐ 3,631 | 🐛 1,074 | 🌐 Bicep | 📅 2026-08-22 - Bicep is a declarative language for describing and deploying Azure resources
+* [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,864 | 🐛 988 | 🌐 Bicep | 📅 2026-08-19 - Azure Quickstart Templates
+* [Azure/bicep](https://github.com/Azure/bicep) ⭐ 3,631 | 🐛 1,074 | 🌐 Bicep | 📅 2026-08-23 - Bicep is a declarative language for describing and deploying Azure resources
 * [Azure/avdaccelerator](https://github.com/Azure/avdaccelerator) ⭐ 428 | 🐛 16 | 🌐 Bicep | 📅 2026-08-19 - AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices
 * [Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts) ⭐ 319 | 🐛 82 | 🌐 Bicep | 📅 2026-06-03 - Azure Monitor Baseline Alerts
 * [Azure/aca-landing-zone-accelerator](https://github.com/Azure/aca-landing-zone-accelerator) ⭐ 217 | 🐛 9 | 🌐 Bicep | 📅 2026-01-26 - The Azure Container Apps landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment of Azure Container Apps at scale.
@@ -332,105 +332,105 @@
 
 ## Blade
 
-* [krayin/laravel-crm](https://github.com/krayin/laravel-crm) ⭐ 23,701 | 🐛 128 | 🌐 PHP | 📅 2026-08-20 - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+* [krayin/laravel-crm](https://github.com/krayin/laravel-crm) ⭐ 23,703 | 🐛 128 | 🌐 PHP | 📅 2026-08-20 - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 * [tailwindcomponents/dashboard](https://github.com/tailwindcomponents/dashboard) ⭐ 641 | 🐛 2 | 🌐 Blade | 📅 2024-11-06 - 🛩 🧶 Dashboard template built with Tailwind CSS.
 * [overtrue/wisteria](https://github.com/overtrue/wisteria) ⚠️ Archived - Beautiful document tool for your project.
 * [tailwindcomponents/e-commerce](https://github.com/tailwindcomponents/e-commerce) ⭐ 158 | 🐛 0 | 🌐 Blade | 📅 2021-10-16 - 🧧🕹 E-commerce website built with Tailwind CSS
 
 ## C
 
-* [netdata/netdata](https://github.com/netdata/netdata) ⭐ 80,261 | 🐛 393 | 🌐 Go | 📅 2026-08-22 - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
-* [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 78,890 | 🐛 1,016 | 🌐 C | 📅 2026-08-06 - A new bootable USB solution.
-* [obsproject/obs-studio](https://github.com/obsproject/obs-studio) ⭐ 75,314 | 🐛 1,162 | 🌐 C | 📅 2026-08-22 - OBS Studio - Free and open source software for live streaming and screen recording
-* [curl/curl](https://github.com/curl/curl) ⭐ 42,662 | 🐛 27 | 🌐 C | 📅 2026-08-22 - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-* [php/php-src](https://github.com/php/php-src) ⭐ 40,311 | 🐛 1,994 | 🌐 C | 📅 2026-08-22 - The PHP Interpreter
-* [pbatard/rufus](https://github.com/pbatard/rufus) ⭐ 37,389 | 🐛 16 | 🌐 C | 📅 2026-08-03 - The Reliable USB Formatting Utility
-* [mpv-player/mpv](https://github.com/mpv-player/mpv) ⭐ 36,630 | 🐛 1,139 | 🌐 C | 📅 2026-08-21 - 🎥 Command line video player
-* [jqlang/jq](https://github.com/jqlang/jq) ⭐ 35,468 | 🐛 472 | 🌐 C | 📅 2026-08-12 - Command-line JSON processor
-* [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ⭐ 33,687 | 🐛 365 | 🌐 C | 📅 2026-07-06 - This project aims to enhance the working environment on Windows
-* [nginx/nginx](https://github.com/nginx/nginx) ⭐ 31,472 | 🐛 470 | 🌐 C | 📅 2026-08-21 - The official NGINX Open Source repository.
-* [libuv/libuv](https://github.com/libuv/libuv) ⭐ 27,125 | 🐛 227 | 🌐 C | 📅 2026-08-20 - Cross-platform asynchronous I/O
-* [ggreer/the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,102 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code-searching tool similar to ack, but faster.
-* [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,323 | 🐛 76 | 🌐 C | 📅 2026-08-21 - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-* [timescale/timescaledb](https://github.com/timescale/timescaledb) ⭐ 23,399 | 🐛 394 | 🌐 C | 📅 2026-08-20 - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-* [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,705 | 🐛 13 | 🌐 C | 📅 2026-08-20 - Open-source vector similarity search for Postgres
-* [micropython/micropython](https://github.com/micropython/micropython) ⭐ 22,006 | 🐛 1,537 | 🌐 C | 📅 2026-08-18 - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
-* [postgres/postgres](https://github.com/postgres/postgres) ⭐ 21,865 | 🐛 0 | 🌐 C | 📅 2026-08-22 - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see <https://wiki.postgresql.org/wiki/Submitting>\_
-* [jarun/nnn](https://github.com/jarun/nnn) ⭐ 21,819 | 🐛 5 | 🌐 C | 📅 2026-08-17 - n³ The unorthodox terminal file manager
-* [ish-app/ish](https://github.com/ish-app/ish) ⭐ 20,347 | 🐛 701 | 🌐 C | 📅 2026-08-22 - Linux shell for iOS
-* [reactos/reactos](https://github.com/reactos/reactos) ⭐ 17,943 | 🐛 205 | 🌐 C | 📅 2026-08-22 - A free Windows-compatible Operating System
-* [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 17,371 | 🐛 89 | 🌐 C | 📅 2026-08-22 - SumatraPDF reader
-* [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) ⭐ 15,673 | 🐛 288 | 🌐 C | 📅 2026-08-21 - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ <http://www.windows-internals.co>
-* [haiwen/seafile](https://github.com/haiwen/seafile) ⭐ 15,157 | 🐛 89 | 🌐 C | 📅 2026-08-08 - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
-* [nmap/nmap](https://github.com/nmap/nmap) ⭐ 13,409 | 🐛 674 | 🌐 C | 📅 2026-08-21 - Nmap - the Network Mapper. Github mirror of official SVN repository.
-* [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) ⭐ 13,383 | 🐛 25 | 🌐 C | 📅 2026-06-06 - A Compiler Writing Journey
-* [jonas/tig](https://github.com/jonas/tig) ⭐ 13,313 | 🐛 230 | 🌐 C | 📅 2026-07-27 - Text-mode interface for git
-* [BasedHardware/omi](https://github.com/BasedHardware/omi) ⭐ 13,237 | 🐛 598 | 🌐 Swift | 📅 2026-08-22 - AI wearables
-* [citusdata/citus](https://github.com/citusdata/citus) ⭐ 12,719 | 🐛 1,064 | 🌐 C | 📅 2026-08-22 - Distributed PostgreSQL as an extension
+* [netdata/netdata](https://github.com/netdata/netdata) ⭐ 80,265 | 🐛 394 | 🌐 Go | 📅 2026-08-23 - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+* [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 78,902 | 🐛 1,017 | 🌐 C | 📅 2026-08-06 - A new bootable USB solution.
+* [obsproject/obs-studio](https://github.com/obsproject/obs-studio) ⭐ 75,351 | 🐛 1,164 | 🌐 C | 📅 2026-08-23 - OBS Studio - Free and open source software for live streaming and screen recording
+* [curl/curl](https://github.com/curl/curl) ⭐ 42,671 | 🐛 34 | 🌐 C | 📅 2026-08-23 - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+* [php/php-src](https://github.com/php/php-src) ⭐ 40,314 | 🐛 1,994 | 🌐 C | 📅 2026-08-23 - The PHP Interpreter
+* [pbatard/rufus](https://github.com/pbatard/rufus) ⭐ 37,404 | 🐛 16 | 🌐 C | 📅 2026-08-03 - The Reliable USB Formatting Utility
+* [mpv-player/mpv](https://github.com/mpv-player/mpv) ⭐ 36,644 | 🐛 1,137 | 🌐 C | 📅 2026-08-23 - 🎥 Command line video player
+* [jqlang/jq](https://github.com/jqlang/jq) ⭐ 35,474 | 🐛 466 | 🌐 C | 📅 2026-08-23 - Command-line JSON processor
+* [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ⭐ 33,695 | 🐛 366 | 🌐 C | 📅 2026-07-06 - This project aims to enhance the working environment on Windows
+* [nginx/nginx](https://github.com/nginx/nginx) ⭐ 31,474 | 🐛 473 | 🌐 C | 📅 2026-08-21 - The official NGINX Open Source repository.
+* [libuv/libuv](https://github.com/libuv/libuv) ⭐ 27,127 | 🐛 227 | 🌐 C | 📅 2026-08-20 - Cross-platform asynchronous I/O
+* [ggreer/the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) ⭐ 27,103 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code-searching tool similar to ack, but faster.
+* [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,339 | 🐛 77 | 🌐 C | 📅 2026-08-21 - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+* [timescale/timescaledb](https://github.com/timescale/timescaledb) ⭐ 23,402 | 🐛 394 | 🌐 C | 📅 2026-08-20 - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+* [pgvector/pgvector](https://github.com/pgvector/pgvector) ⭐ 22,718 | 🐛 13 | 🌐 C | 📅 2026-08-20 - Open-source vector similarity search for Postgres
+* [micropython/micropython](https://github.com/micropython/micropython) ⭐ 22,009 | 🐛 1,539 | 🌐 C | 📅 2026-08-18 - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+* [postgres/postgres](https://github.com/postgres/postgres) ⭐ 21,877 | 🐛 0 | 🌐 C | 📅 2026-08-22 - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see <https://wiki.postgresql.org/wiki/Submitting>\_
+* [jarun/nnn](https://github.com/jarun/nnn) ⭐ 21,822 | 🐛 5 | 🌐 C | 📅 2026-08-17 - n³ The unorthodox terminal file manager
+* [ish-app/ish](https://github.com/ish-app/ish) ⭐ 20,352 | 🐛 701 | 🌐 C | 📅 2026-08-22 - Linux shell for iOS
+* [reactos/reactos](https://github.com/reactos/reactos) ⭐ 17,946 | 🐛 204 | 🌐 C | 📅 2026-08-23 - A free Windows-compatible Operating System
+* [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 17,377 | 🐛 83 | 🌐 C | 📅 2026-08-23 - SumatraPDF reader
+* [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) ⭐ 15,678 | 🐛 290 | 🌐 C | 📅 2026-08-21 - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ <http://www.windows-internals.co>
+* [haiwen/seafile](https://github.com/haiwen/seafile) ⭐ 15,162 | 🐛 90 | 🌐 C | 📅 2026-08-08 - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+* [nmap/nmap](https://github.com/nmap/nmap) ⭐ 13,421 | 🐛 673 | 🌐 C | 📅 2026-08-23 - Nmap - the Network Mapper. Github mirror of official SVN repository.
+* [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) ⭐ 13,385 | 🐛 25 | 🌐 C | 📅 2026-06-06 - A Compiler Writing Journey
+* [jonas/tig](https://github.com/jonas/tig) ⭐ 13,314 | 🐛 230 | 🌐 C | 📅 2026-07-27 - Text-mode interface for git
+* [BasedHardware/omi](https://github.com/BasedHardware/omi) ⭐ 13,246 | 🐛 594 | 🌐 Swift | 📅 2026-08-23 - AI wearables
+* [citusdata/citus](https://github.com/citusdata/citus) ⭐ 12,721 | 🐛 1,062 | 🌐 C | 📅 2026-08-23 - Distributed PostgreSQL as an extension
 * [krallin/tini](https://github.com/krallin/tini) ⭐ 11,218 | 🐛 45 | 🌐 C | 📅 2025-05-08 - A tiny but valid `init` for containers
-* [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) ⭐ 10,490 | 🐛 8,293 | 🌐 C | 📅 2026-08-22 - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-* [henrypp/memreduct](https://github.com/henrypp/memreduct) ⭐ 10,243 | 🐛 26 | 🌐 C | 📅 2026-08-13 - Lightweight real-time memory management application to monitor and clean system memory on your computer.
-* [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) ⭐ 9,535 | 🐛 126 | 🌐 C++ | 📅 2026-05-27 - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
-* [winfsp/winfsp](https://github.com/winfsp/winfsp) ⭐ 8,817 | 🐛 94 | 🌐 C | 📅 2026-08-03 - Windows File System Proxy - FUSE for Windows
-* [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,705 | 🐛 238 | 🌐 C | 📅 2026-07-10 - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-* [wasm3/wasm3](https://github.com/wasm3/wasm3) ⭐ 7,992 | 🐛 38 | 🌐 C | 📅 2026-08-22 - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
+* [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) ⭐ 10,492 | 🐛 8,292 | 🌐 C | 📅 2026-08-23 - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+* [henrypp/memreduct](https://github.com/henrypp/memreduct) ⭐ 10,253 | 🐛 26 | 🌐 C | 📅 2026-08-13 - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+* [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) ⭐ 9,537 | 🐛 126 | 🌐 C++ | 📅 2026-05-27 - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+* [winfsp/winfsp](https://github.com/winfsp/winfsp) ⭐ 8,816 | 🐛 96 | 🌐 C | 📅 2026-08-03 - Windows File System Proxy - FUSE for Windows
+* [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,707 | 🐛 238 | 🌐 C | 📅 2026-07-10 - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
+* [wasm3/wasm3](https://github.com/wasm3/wasm3) ⭐ 7,994 | 🐛 40 | 🌐 C | 📅 2026-08-23 - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 * [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) ⭐ 7,827 | 🐛 126 | 🌐 C | 📅 2026-08-12 - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-* [libfuse/sshfs](https://github.com/libfuse/sshfs) ⭐ 7,629 | 🐛 61 | 🌐 C | 📅 2026-08-08 - A network filesystem client to connect to SSH servers
+* [libfuse/sshfs](https://github.com/libfuse/sshfs) ⭐ 7,631 | 🐛 61 | 🌐 C | 📅 2026-08-08 - A network filesystem client to connect to SSH servers
 * [haproxy/haproxy](https://github.com/haproxy/haproxy) ⭐ 6,796 | 🐛 380 | 🌐 C | 📅 2026-08-21 - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
-* [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) ⭐ 6,715 | 🐛 489 | 🌐 C | 📅 2026-08-21 - A free, open source, multi-platform SQLite database manager.
-* [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) ⭐ 6,330 | 🐛 305 | 🌐 C | 📅 2026-07-12 - SSHFS For Windows
+* [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) ⭐ 6,714 | 🐛 489 | 🌐 C | 📅 2026-08-21 - A free, open source, multi-platform SQLite database manager.
+* [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) ⭐ 6,332 | 🐛 305 | 🌐 C | 📅 2026-07-12 - SSHFS For Windows
 * [cmus/cmus](https://github.com/cmus/cmus) ⭐ 6,223 | 🐛 217 | 🌐 C | 📅 2026-08-12 - Small, fast and powerful console music player for Unix-like operating systems.
-* [ponylang/ponyc](https://github.com/ponylang/ponyc) ⭐ 6,171 | 🐛 178 | 🌐 Pony | 📅 2026-08-21 - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
-* [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) ⭐ 5,939 | 🐛 37 | 🌐 C++ | 📅 2026-08-21 - Desktop customization tool for Windows
+* [ponylang/ponyc](https://github.com/ponylang/ponyc) ⭐ 6,173 | 🐛 177 | 🌐 Pony | 📅 2026-08-23 - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
+* [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) ⭐ 5,942 | 🐛 37 | 🌐 C++ | 📅 2026-08-21 - Desktop customization tool for Windows
 * [dokan-dev/dokany](https://github.com/dokan-dev/dokany) ⭐ 5,911 | 🐛 102 | 🌐 C | 📅 2026-05-06 - User mode file system library for windows with FUSE Wrapper
-* [eradman/entr](https://github.com/eradman/entr) ⭐ 5,654 | 🐛 1 | 🌐 C | 📅 2026-06-27 - Run arbitrary commands when files change
-* [visit1985/mdp](https://github.com/visit1985/mdp) ⭐ 5,273 | 🐛 12 | 🌐 C | 📅 2025-07-09 - A command-line based markdown presentation tool.
-* [RsyncProject/rsync](https://github.com/RsyncProject/rsync) ⭐ 5,145 | 🐛 328 | 🌐 C | 📅 2026-08-20 - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+* [eradman/entr](https://github.com/eradman/entr) ⭐ 5,656 | 🐛 1 | 🌐 C | 📅 2026-06-27 - Run arbitrary commands when files change
+* [visit1985/mdp](https://github.com/visit1985/mdp) ⭐ 5,275 | 🐛 12 | 🌐 C | 📅 2025-07-09 - A command-line based markdown presentation tool.
+* [RsyncProject/rsync](https://github.com/RsyncProject/rsync) ⭐ 5,147 | 🐛 328 | 🌐 C | 📅 2026-08-20 - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * [taviso/loadlibrary](https://github.com/taviso/loadlibrary) ⭐ 4,501 | 🐛 45 | 🌐 C | 📅 2025-04-10 - Porting Windows Dynamic Link Libraries to Linux
-* [dvorka/hstr](https://github.com/dvorka/hstr) ⭐ 4,451 | 🐛 185 | 🌐 C | 📅 2026-05-29 - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+* [dvorka/hstr](https://github.com/dvorka/hstr) ⭐ 4,452 | 🐛 185 | 🌐 C | 📅 2026-05-29 - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 * [sandboxie/sandboxie](https://github.com/sandboxie/sandboxie) ⭐ 3,631 | 🐛 63 | 🌐 C | 📅 2022-09-22 - The Sandboxie application
 * [yandex/odyssey](https://github.com/yandex/odyssey) ⭐ 3,617 | 🐛 102 | 🌐 C | 📅 2026-08-22 - Scalable PostgreSQL connection pooler
 * [gtworek/PSBits](https://github.com/gtworek/PSBits) ⭐ 3,519 | 🐛 0 | 🌐 C | 📅 2026-08-13 - Simple (relatively) things allowing you to dig a bit deeper than usual.
 * [mintty/wsltty](https://github.com/mintty/wsltty) ⭐ 3,196 | 🐛 27 | 🌐 C | 📅 2025-09-02 - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 * [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) ⭐ 3,078 | 🐛 14 | 🌐 C | 📅 2025-02-24 - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
-* [IoLanguage/io](https://github.com/IoLanguage/io) ⭐ 2,787 | 🐛 23 | 🌐 C | 📅 2026-08-15 - Io programming language. Inspired by Self, Smalltalk and LISP.
+* [IoLanguage/io](https://github.com/IoLanguage/io) ⭐ 2,788 | 🐛 23 | 🌐 C | 📅 2026-08-15 - Io programming language. Inspired by Self, Smalltalk and LISP.
 * [zodiacon/WindowsInternals](https://github.com/zodiacon/WindowsInternals) ⭐ 2,767 | 🐛 6 | 🌐 C | 📅 2024-04-11 - Windows Internals Book 7th edition Tools
 * [pbatard/libwdi](https://github.com/pbatard/libwdi) ⭐ 2,321 | 🐛 4 | 🌐 C | 📅 2025-07-17 - Windows Driver Installer library for USB devices
 * [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) ⚠️ Archived - Reversing Google's 3D satellite mode
-* [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) ⭐ 2,314 | 🐛 18 | 🌐 C | 📅 2024-06-18 - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
+* [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) ⭐ 2,315 | 🐛 18 | 🌐 C | 📅 2024-06-18 - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 * [reorg/pg\_repack](https://github.com/reorg/pg_repack) ⭐ 2,291 | 🐛 90 | 🌐 C | 📅 2026-05-08 - Reorganize tables in PostgreSQL databases with minimal locks
 * [AOMediaCodec/libavif](https://github.com/AOMediaCodec/libavif) ⭐ 2,159 | 🐛 174 | 🌐 C | 📅 2026-08-21 - libavif - Library for encoding and decoding .avif files
-* [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,914 | 🐛 331 | 🌐 C | 📅 2026-06-26 - Restore/upgrade firmware of iOS devices
+* [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,914 | 🐛 332 | 🌐 C | 📅 2026-08-23 - Restore/upgrade firmware of iOS devices
 * [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,905 | 🐛 22 | 🌐 C | 📅 2021-12-07 - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 * [vstakhov/libucl](https://github.com/vstakhov/libucl) ⭐ 1,742 | 🐛 116 | 🌐 C | 📅 2026-08-16 - Universal configuration library parser
 * [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) ⭐ 1,707 | 🐛 138 | 🌐 C | 📅 2026-03-28 - A lightweight replication manager for PostgreSQL (Postgres)
 * [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) ⭐ 1,694 | 🐛 0 | 🌐 C | 📅 2026-07-30 - PostgreSQL Audit Extension
-* [haileys/doslinux](https://github.com/haileys/doslinux) ⭐ 1,591 | 🐛 14 | 🌐 C | 📅 2022-07-14 - Run Linux programs on DOS
+* [haileys/doslinux](https://github.com/haileys/doslinux) ⭐ 1,592 | 🐛 14 | 🌐 C | 📅 2022-07-14 - Run Linux programs on DOS
 * [nginx/njs](https://github.com/nginx/njs) ⭐ 1,590 | 🐛 54 | 🌐 C | 📅 2026-08-20 - A subset of JavaScript language to use in nginx
 * [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) ⭐ 1,548 | 🐛 25 | 🌐 C | 📅 2026-07-03 - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids)
 * [henkman/virgo](https://github.com/henkman/virgo) ⭐ 1,462 | 🐛 17 | 🌐 C | 📅 2023-08-18 - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
-* [ring-lang/ring](https://github.com/ring-lang/ring) ⭐ 1,459 | 🐛 0 | 🌐 C | 📅 2026-08-20 - Simple and flexible programming language for applications development
+* [ring-lang/ring](https://github.com/ring-lang/ring) ⭐ 1,459 | 🐛 0 | 🌐 C | 📅 2026-08-23 - Simple and flexible programming language for applications development
 * [malxau/yori](https://github.com/malxau/yori) ⭐ 1,316 | 🐛 32 | 🌐 C | 📅 2026-08-15 - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
-* [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) ⭐ 1,286 | 🐛 7 | 🌐 C | 📅 2026-08-05 - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
+* [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) ⭐ 1,286 | 🐛 5 | 🌐 C | 📅 2026-08-23 - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 * [cdown/clipmenu](https://github.com/cdown/clipmenu) ⭐ 1,248 | 🐛 5 | 🌐 C | 📅 2026-04-03 - Clipboard management using dmenu
 * [hasura/skor](https://github.com/hasura/skor) ⭐ 1,243 | 🐛 8 | 🌐 C | 📅 2022-01-21 - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 * [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) ⭐ 1,238 | 🐛 190 | 🌐 C | 📅 2026-07-28 - Logical Replication extension for PostgreSQL 17, 16, 15, 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgra
-* [MapServer/MapServer](https://github.com/MapServer/MapServer) ⭐ 1,212 | 🐛 304 | 🌐 C | 📅 2026-08-22 - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
+* [MapServer/MapServer](https://github.com/MapServer/MapServer) ⭐ 1,212 | 🐛 305 | 🌐 C | 📅 2026-08-22 - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 * [galkahana/HummusJS](https://github.com/galkahana/HummusJS) ⭐ 1,180 | 🐛 217 | 🌐 C | 📅 2026-08-13 - Node.js module for high performance creation, modification and parsing of PDF files and streams
 * [troglobit/inadyn](https://github.com/troglobit/inadyn) ⚠️ Archived - In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support
-* [valinet/Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) ⭐ 1,051 | 🐛 44 | 🌐 C | 📅 2023-07-18 - A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
-* [jpr5/ngrep](https://github.com/jpr5/ngrep) ⭐ 1,018 | 🐛 1 | 🌐 C | 📅 2026-02-08 - ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It under
+* [valinet/Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) ⭐ 1,049 | 🐛 44 | 🌐 C | 📅 2023-07-18 - A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
+* [jpr5/ngrep](https://github.com/jpr5/ngrep) ⭐ 1,019 | 🐛 1 | 🌐 C | 📅 2026-02-08 - ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It under
 * [MidnightCommander/mc](https://github.com/MidnightCommander/mc) ⭐ 951 | 🐛 687 | 🌐 C | 📅 2026-08-16 - Midnight Commander's repository
 * [uroni/urbackup\_backend](https://github.com/uroni/urbackup_backend) ⭐ 895 | 🐛 2 | 🌐 C | 📅 2026-06-17 - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux
 * [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) ⭐ 889 | 🐛 2 | 🌐 C | 📅 2026-07-04 - Windows System Explorer
 * [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) ⭐ 841 | 🐛 101 | 🌐 C | 📅 2025-08-20 - A Redis module for serving tensors and executing deep learning graphs
 * [tcltk/tcl](https://github.com/tcltk/tcl) ⭐ 826 | 🐛 0 | 🌐 C | 📅 2026-08-17 - The Tcl Core. (Mirror of core.tcl-lang.org)
-* [r-lib/pak](https://github.com/r-lib/pak) ⭐ 821 | 🐛 271 | 🌐 C | 📅 2026-08-22 - A fresh approach to package installation
+* [r-lib/pak](https://github.com/r-lib/pak) ⭐ 821 | 🐛 271 | 🌐 C | 📅 2026-08-23 - A fresh approach to package installation
 * [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) ⭐ 798 | 🐛 11 | 🌐 C | 📅 2026-08-13 - Fuzzy hashing API and fuzzy hashing tool
 * [okbob/plpgsql\_check](https://github.com/okbob/plpgsql_check) ⭐ 777 | 🐛 0 | 🌐 C | 📅 2026-08-16 - plpgsql\_check is a linter tool (does source code static analyze) for the PostgreSQL language plpgsql (the native language for PostgreSQL store procedures).
 * [SebKrantz/collapse](https://github.com/SebKrantz/collapse) ⭐ 704 | 🐛 18 | 🌐 C | 📅 2026-08-11 - Advanced and Fast Data Transformation in R
 * [mozilla-services/hindsight](https://github.com/mozilla-services/hindsight) ⚠️ Archived - Hindsight - light weight data processing skeleton
-* [MobilityDB/MobilityDB](https://github.com/MobilityDB/MobilityDB) ⭐ 623 | 🐛 9 | 🌐 C | 📅 2026-08-22 - MobilityDB is a geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS.
+* [MobilityDB/MobilityDB](https://github.com/MobilityDB/MobilityDB) ⭐ 623 | 🐛 8 | 🌐 C | 📅 2026-08-23 - MobilityDB is a geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS.
 * [awslabs/pgbouncer-fast-switchover](https://github.com/awslabs/pgbouncer-fast-switchover) ⭐ 453 | 🐛 25 | 🌐 C | 📅 2025-09-03 - Adds query routing and rewriting extensions to pgbouncer
 * [qsbase/qs](https://github.com/qsbase/qs) ⭐ 444 | 🐛 1 | 🌐 C | 📅 2025-11-07 - Quick serialization of R objects
 * [tds-fdw/tds\_fdw](https://github.com/tds-fdw/tds_fdw) ⭐ 432 | 🐛 144 | 🌐 C | 📅 2026-07-21 - A PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server)
@@ -532,88 +532,88 @@
 * [Sage-Bionetworks/Rsftp](https://github.com/Sage-Bionetworks/Rsftp) ⚠️ Archived - R package for sftp and other ssh-related functionality
 * [theory/dynamodb\_fdw](https://github.com/theory/dynamodb_fdw) ⭐ 1 | 🐛 0 | 📅 2022-01-02 -
 * [eddelbuettel/pkg-aws-checksums](https://github.com/eddelbuettel/pkg-aws-checksums) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2020-10-31 - (Unofficial) Debian packaging for AWS CRC32c and CRC32 C interface
-* [z-shell/zinit](https://github.com/z-shell/zinit) - Please visit <https://github.com/z-shell/zi> ⭐ 907 | 🐛 23 | 🌐 Shell | 📅 2026-08-22. As this repository is no longer supported.
+* [z-shell/zinit](https://github.com/z-shell/zinit) - Please visit <https://github.com/z-shell/zi> ⭐ 907 | 🐛 21 | 🌐 Shell | 📅 2026-08-23. As this repository is no longer supported.
 
 ## C\#
 
-* [microsoft/PowerToys](https://github.com/microsoft/PowerToys) ⭐ 137,958 | 🐛 7,514 | 🌐 C | 📅 2026-08-22 - Windows system utilities to maximize productivity
-* [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) ⭐ 55,056 | 🐛 1,604 | 🌐 C# | 📅 2026-08-20 - PowerShell for every system!
-* [files-community/Files](https://github.com/files-community/Files) ⭐ 44,705 | 🐛 461 | 🌐 C# | 📅 2026-08-21 - A modern file manager that helps users organize their files and folders.
-* [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐ 39,241 | 🐛 663 | 🌐 C# | 📅 2026-08-22 - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
-* [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) ⭐ 31,879 | 🐛 338 | 🌐 C# | 📅 2026-02-25 - A Swiss Army knife for developers.
-* [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,478 | 🐛 252 | 🌐 C# | 📅 2026-08-21 - Integrate cutting-edge LLM technology quickly and easily into your apps
-* [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ⭐ 27,534 | 🐛 329 | 🌐 C# | 📅 2026-07-28 - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-* [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,915 | 🐛 190 | 🌐 C# | 📅 2026-08-22 - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
-* [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) ⭐ 25,724 | 🐛 470 | 🌐 C# | 📅 2026-08-21 - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-* [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) ⭐ 24,470 | 🐛 195 | 🌐 C# | 📅 2026-08-18 - Bring macOS “Quick Look” feature to Windows
-* [dotnet/maui](https://github.com/dotnet/maui) ⭐ 23,310 | 🐛 3,738 | 🌐 C# | 📅 2026-08-22 - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+* [microsoft/PowerToys](https://github.com/microsoft/PowerToys) ⭐ 137,989 | 🐛 7,521 | 🌐 C | 📅 2026-08-22 - Windows system utilities to maximize productivity
+* [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) ⭐ 55,075 | 🐛 1,604 | 🌐 C# | 📅 2026-08-20 - PowerShell for every system!
+* [files-community/Files](https://github.com/files-community/Files) ⭐ 44,721 | 🐛 461 | 🌐 C# | 📅 2026-08-23 - A modern file manager that helps users organize their files and folders.
+* [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐ 39,261 | 🐛 662 | 🌐 C# | 📅 2026-08-22 - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+* [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) ⭐ 31,887 | 🐛 338 | 🌐 C# | 📅 2026-02-25 - A Swiss Army knife for developers.
+* [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,481 | 🐛 258 | 🌐 C# | 📅 2026-08-21 - Integrate cutting-edge LLM technology quickly and easily into your apps
+* [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ⭐ 27,541 | 🐛 330 | 🌐 C# | 📅 2026-07-28 - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+* [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,922 | 🐛 190 | 🌐 C# | 📅 2026-08-23 - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
+* [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) ⭐ 25,736 | 🐛 471 | 🌐 C# | 📅 2026-08-21 - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+* [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) ⭐ 24,484 | 🐛 195 | 🌐 C# | 📅 2026-08-18 - Bring macOS “Quick Look” feature to Windows
+* [dotnet/maui](https://github.com/dotnet/maui) ⭐ 23,310 | 🐛 3,741 | 🌐 C# | 📅 2026-08-23 - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 * [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) ⚠️ Archived - CodeHub is an iOS application written using Xamarin
-* [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,364 | 🐛 211 | 🌐 C# | 📅 2026-02-27 - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-* [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) ⭐ 20,903 | 🐛 155 | 🌐 C# | 📅 2026-08-11 - Remove large amounts of unwanted applications quickly.
-* [dotnet/roslyn](https://github.com/dotnet/roslyn) ⭐ 20,618 | 🐛 6,290 | 🌐 C# | 📅 2026-08-22 - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-* [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) ⭐ 20,351 | 🐛 2 | 🌐 C# | 📅 2026-08-17 - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-* [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) ⭐ 19,860 | 🐛 175 | 🌐 C# | 📅 2024-08-17 - 🖱️ 纯粹的Windows右键菜单管理程序
+* [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,368 | 🐛 211 | 🌐 C# | 📅 2026-02-27 - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+* [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) ⭐ 20,929 | 🐛 155 | 🌐 C# | 📅 2026-08-11 - Remove large amounts of unwanted applications quickly.
+* [dotnet/roslyn](https://github.com/dotnet/roslyn) ⭐ 20,619 | 🐛 6,292 | 🌐 C# | 📅 2026-08-23 - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+* [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) ⭐ 20,360 | 🐛 2 | 🌐 C# | 📅 2026-08-17 - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+* [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) ⭐ 19,865 | 🐛 175 | 🌐 C# | 📅 2024-08-17 - 🖱️ 纯粹的Windows右键菜单管理程序
 * [hellzerg/optimizer](https://github.com/hellzerg/optimizer) ⚠️ Archived - The finest Windows Optimizer
-* [dotnet/runtime](https://github.com/dotnet/runtime) ⭐ 18,224 | 🐛 7,572 | 🌐 C# | 📅 2026-08-22 - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-* [Tichau/FileConverter](https://github.com/Tichau/FileConverter) ⭐ 15,060 | 🐛 349 | 🌐 C# | 📅 2026-02-27 - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-* [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) ⭐ 14,621 | 🐛 38 | 🌐 C | 📅 2026-08-16 - Everything integration for the Windows taskbar.
-* [dotnet/csharplang](https://github.com/dotnet/csharplang) ⭐ 12,690 | 🐛 289 | 🌐 C# | 📅 2026-08-21 - The official repo for the design of the C# programming language
-* [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 12,001 | 🐛 63 | 🌐 C# | 📅 2026-08-20 - ASP.NET Boilerplate - Web Application Framework
-* [lucasg/Dependencies](https://github.com/lucasg/Dependencies) ⭐ 11,765 | 🐛 142 | 🌐 C# | 📅 2024-05-15 - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
-* [chocolatey/choco](https://github.com/chocolatey/choco) ⭐ 11,489 | 🐛 514 | 🌐 C# | 📅 2026-08-19 - Chocolatey - the package manager for Windows
-* [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ⭐ 11,472 | 🐛 24 | 🌐 C# | 📅 2026-08-09 - Driver Store Explorer \[RAPR]
-* [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ⭐ 11,300 | 🐛 110 | 🌐 C# | 📅 2026-08-16 - EarTrumpet - Volume Control for Windows
+* [dotnet/runtime](https://github.com/dotnet/runtime) ⭐ 18,224 | 🐛 7,582 | 🌐 C# | 📅 2026-08-23 - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+* [Tichau/FileConverter](https://github.com/Tichau/FileConverter) ⭐ 15,071 | 🐛 349 | 🌐 C# | 📅 2026-02-27 - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+* [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) ⭐ 14,630 | 🐛 39 | 🌐 C | 📅 2026-08-16 - Everything integration for the Windows taskbar.
+* [dotnet/csharplang](https://github.com/dotnet/csharplang) ⭐ 12,692 | 🐛 289 | 🌐 C# | 📅 2026-08-21 - The official repo for the design of the C# programming language
+* [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 12,003 | 🐛 62 | 🌐 C# | 📅 2026-08-20 - ASP.NET Boilerplate - Web Application Framework
+* [lucasg/Dependencies](https://github.com/lucasg/Dependencies) ⭐ 11,767 | 🐛 142 | 🌐 C# | 📅 2024-05-15 - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+* [chocolatey/choco](https://github.com/chocolatey/choco) ⭐ 11,493 | 🐛 514 | 🌐 C# | 📅 2026-08-19 - Chocolatey - the package manager for Windows
+* [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ⭐ 11,475 | 🐛 24 | 🌐 C# | 📅 2026-08-09 - Driver Store Explorer \[RAPR]
+* [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ⭐ 11,304 | 🐛 110 | 🌐 C# | 📅 2026-08-23 - EarTrumpet - Volume Control for Windows
 * [MathewSachin/Captura](https://github.com/MathewSachin/Captura) ⭐ 10,795 | 🐛 116 | 🌐 C# | 📅 2026-05-25 - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-* [0x7c13/Notepads](https://github.com/0x7c13/Notepads) ⭐ 10,223 | 🐛 463 | 🌐 C# | 📅 2026-04-20 - A modern, lightweight text editor with a minimalist design.
+* [0x7c13/Notepads](https://github.com/0x7c13/Notepads) ⭐ 10,225 | 🐛 464 | 🌐 C# | 📅 2026-04-20 - A modern, lightweight text editor with a minimalist design.
 * [quasar/Quasar](https://github.com/quasar/Quasar) ⚠️ Archived - Remote Administration Tool for Windows
-* [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) ⭐ 9,652 | 🐛 76 | 🌐 C# | 📅 2026-08-16 - Automatically switches between the dark and light theme of Windows 10 and Windows 11
-* [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) ⭐ 9,214 | 🐛 172 | 🌐 C# | 📅 2026-08-17 - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-* [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) ⭐ 8,532 | 🐛 594 | 🌐 C# | 📅 2026-08-22 - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
-* [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) ⭐ 8,173 | 🐛 162 | 🌐 C# | 📅 2026-08-21 - GUI Application to work with engine assets, asset bundles, and serialized files
-* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) ⭐ 7,599 | 🐛 8 | 🌐 C# | 📅 2025-03-10 - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-* [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) ⭐ 7,046 | 🐛 241 | 🌐 C# | 📅 2026-07-16 -
-* [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,729 | 🐛 21 | 🌐 C# | 📅 2026-08-08 - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
-* [actions/runner](https://github.com/actions/runner) ⭐ 6,206 | 🐛 531 | 🌐 C# | 📅 2026-08-17 - The Runner for GitHub Actions :rocket:
+* [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) ⭐ 9,657 | 🐛 76 | 🌐 C# | 📅 2026-08-16 - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+* [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) ⭐ 9,215 | 🐛 172 | 🌐 C# | 📅 2026-08-17 - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+* [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) ⭐ 8,535 | 🐛 594 | 🌐 C# | 📅 2026-08-22 - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
+* [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) ⭐ 8,178 | 🐛 160 | 🌐 C# | 📅 2026-08-23 - GUI Application to work with engine assets, asset bundles, and serialized files
+* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) ⭐ 7,603 | 🐛 8 | 🌐 C# | 📅 2025-03-10 - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+* [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) ⭐ 7,054 | 🐛 241 | 🌐 C# | 📅 2026-07-16 -
+* [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) ⭐ 6,731 | 🐛 21 | 🌐 C# | 📅 2026-08-08 - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
+* [actions/runner](https://github.com/actions/runner) ⭐ 6,208 | 🐛 531 | 🌐 C# | 📅 2026-08-17 - The Runner for GitHub Actions :rocket:
 * [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) ⚠️ Archived - Windows tray utility / filesystem watcher / launcher for Syncthing
-* [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) ⭐ 6,124 | 🐛 320 | 🌐 C# | 📅 2026-08-20 - Virtual File System for Git: Enable Git at Enterprise Scale
+* [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) ⭐ 6,125 | 🐛 320 | 🌐 C# | 📅 2026-08-20 - Virtual File System for Git: Enable Git at Enterprise Scale
 * [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) ⚠️ Archived - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
-* [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) ⭐ 6,049 | 🐛 83 | 🌐 C# | 📅 2026-08-21 - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+* [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) ⭐ 6,052 | 🐛 83 | 🌐 C# | 📅 2026-08-21 - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 * [gerardog/gsudo](https://github.com/gerardog/gsudo) ⭐ 6,029 | 🐛 50 | 🌐 C# | 📅 2026-08-12 - Sudo for Windows
 * [lambci/docker-lambda](https://github.com/lambci/docker-lambda) ⚠️ Archived - Docker images and test runners that replicate the live AWS Lambda environment
-* [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) ⭐ 5,601 | 🐛 6 | 🌐 C# | 📅 2025-01-14 - The Bloaty and the Nosy: No Bloat, No Problem!
-* [xoofx/markdig](https://github.com/xoofx/markdig) ⭐ 5,303 | 🐛 115 | 🌐 C# | 📅 2026-08-18 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+* [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) ⭐ 5,603 | 🐛 6 | 🌐 C# | 📅 2025-01-14 - The Bloaty and the Nosy: No Bloat, No Problem!
+* [xoofx/markdig](https://github.com/xoofx/markdig) ⭐ 5,304 | 🐛 115 | 🌐 C# | 📅 2026-08-18 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 * [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) ⚠️ Archived - The real PowerToys for Windows 11
-* [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) ⭐ 5,166 | 🐛 105 | 🌐 C# | 📅 2026-08-22 - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
-* [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) ⭐ 5,149 | 🐛 7 | 🌐 C# | 📅 2026-08-14 - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+* [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) ⭐ 5,168 | 🐛 103 | 🌐 C# | 📅 2026-08-22 - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
+* [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) ⭐ 5,150 | 🐛 7 | 🌐 C# | 📅 2026-08-23 - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 * [dotnet/winforms](https://github.com/dotnet/winforms) ⭐ 4,847 | 🐛 861 | 🌐 C# | 📅 2026-08-22 - Windows Forms is a .NET UI framework for building Windows desktop applications.
-* [Azure/azure-powershell](https://github.com/Azure/azure-powershell) ⭐ 4,773 | 🐛 1,559 | 🌐 C# | 📅 2026-08-22 - Microsoft Azure PowerShell
+* [Azure/azure-powershell](https://github.com/Azure/azure-powershell) ⭐ 4,773 | 🐛 1,560 | 🌐 C# | 📅 2026-08-23 - Microsoft Azure PowerShell
 * [zalo/MathUtilities](https://github.com/zalo/MathUtilities) ⭐ 4,755 | 🐛 0 | 🌐 C# | 📅 2024-08-24 - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 * [microsoft/perfview](https://github.com/microsoft/perfview) ⭐ 4,739 | 🐛 94 | 🌐 C# | 📅 2026-08-20 - PerfView is a CPU and memory performance-analysis tool
-* [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) ⭐ 4,587 | 🐛 123 | 🌐 C# | 📅 2026-08-18 - Open XML SDK by Microsoft
+* [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) ⭐ 4,588 | 🐛 123 | 🌐 C# | 📅 2026-08-18 - Open XML SDK by Microsoft
 * [dotnet/docfx](https://github.com/dotnet/docfx) ⭐ 4,446 | 🐛 451 | 🌐 C# | 📅 2026-08-21 - Static site generator for .NET API documentation.
 * [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) ⭐ 4,406 | 🐛 34 | 🌐 C# | 📅 2026-07-06 - Lightweight and fast library written in C# for reading Microsoft Excel files
-* [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) ⭐ 4,339 | 🐛 278 | 🌐 C# | 📅 2026-04-08 - A bash inspired readline implementation for PowerShell
+* [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) ⭐ 4,338 | 🐛 278 | 🌐 C# | 📅 2026-04-08 - A bash inspired readline implementation for PowerShell
 * [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) ⭐ 4,045 | 🐛 1,155 | 🌐 C# | 📅 2025-04-14 - Windows Application Driver
-* [ZiggyCreatures/FusionCache](https://github.com/ZiggyCreatures/FusionCache) ⭐ 3,891 | 🐛 49 | 🌐 C# | 📅 2026-08-20 - FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features.
+* [ZiggyCreatures/FusionCache](https://github.com/ZiggyCreatures/FusionCache) ⭐ 3,892 | 🐛 49 | 🌐 C# | 📅 2026-08-23 - FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features.
 * [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) ⭐ 3,734 | 🐛 30 | 🌐 C# | 📅 2023-04-18 - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 * [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) ⭐ 3,510 | 🐛 213 | 🌐 C# | 📅 2026-08-12 - Fluent migrations framework for .NET
-* [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) ⭐ 3,498 | 🐛 9 | 🌐 C# | 📅 2026-08-22 - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a
+* [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) ⭐ 3,499 | 🐛 9 | 🌐 C# | 📅 2026-08-22 - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various a
 * [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,360 | 🐛 0 | 🌐 C# | 📅 2026-05-30 - Everything search plugin for PowerToys Run
-* [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) ⭐ 3,357 | 🐛 247 | 🌐 C# | 📅 2026-08-21 - Cairo is a customizable, intuitive desktop environment for Windows.
+* [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) ⭐ 3,360 | 🐛 247 | 🌐 C# | 📅 2026-08-21 - Cairo is a customizable, intuitive desktop environment for Windows.
 * [dotnet/interactive](https://github.com/dotnet/interactive) ⚠️ Archived - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 * [projectkudu/kudu](https://github.com/projectkudu/kudu) ⚠️ Archived - Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.
 * [GitTools/GitVersion](https://github.com/GitTools/GitVersion) ⭐ 3,142 | 🐛 38 | 🌐 C# | 📅 2026-08-21 - From git log to SemVer in no time
 * [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) ⚠️ Archived - Add margins, rounded corners and segments to your taskbars!
 * [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) ⚠️ Archived - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 * [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) ⭐ 2,865 | 🐛 20 | 🌐 C# | 📅 2026-07-25 - Add Custom Context Menu For Windows11
-* [loic-sharma/BaGet](https://github.com/loic-sharma/BaGet) ⭐ 2,799 | 🐛 252 | 🌐 C# | 📅 2024-07-09 - A lightweight NuGet and symbol server
+* [loic-sharma/BaGet](https://github.com/loic-sharma/BaGet) ⭐ 2,800 | 🐛 252 | 🌐 C# | 📅 2024-07-09 - A lightweight NuGet and symbol server
 * [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) ⭐ 2,778 | 🐛 276 | 🌐 C# | 📅 2024-07-04 - Lightweight utility for organizing the taskbar through groups
 * [microsoft/PTVS](https://github.com/microsoft/PTVS) ⭐ 2,564 | 🐛 156 | 🌐 C# | 📅 2026-08-19 - Python Tools for Visual Studio
-* [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) ⭐ 2,541 | 🐛 5 | 🌐 C# | 📅 2022-08-22 - Creative and unusual things that can be done with the Windows API.
+* [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) ⭐ 2,542 | 🐛 5 | 🌐 C# | 📅 2022-08-22 - Creative and unusual things that can be done with the Windows API.
 * [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) ⭐ 2,413 | 🐛 187 | 🌐 C# | 📅 2025-08-28 - :whale: .NET (C#) Client Library for Docker API
-* [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) ⭐ 2,383 | 🐛 39 | 🌐 C# | 📅 2026-08-21 - Project Homepage & Forums
+* [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) ⭐ 2,384 | 🐛 39 | 🌐 C# | 📅 2026-08-21 - Project Homepage & Forums
 * [OneGet/oneget](https://github.com/OneGet/oneget) ⭐ 2,380 | 🐛 107 | 🌐 C# | 📅 2024-09-09 - PackageManagement (aka OneGet) is a package manager for Windows
-* [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) ⭐ 2,255 | 🐛 21 | 🌐 C# | 📅 2023-12-27 - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
+* [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) ⭐ 2,256 | 🐛 21 | 🌐 C# | 📅 2023-12-27 - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
 * [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB) ⭐ 2,250 | 🐛 11 | 🌐 C# | 📅 2026-06-27 - Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle
 * [Cinchoo/ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) ⭐ 2,247 | 🐛 27 | 🌐 C# | 📅 2026-06-30 - Simple and powerful RoboCopy GUI
 * [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) ⭐ 2,146 | 🐛 422 | 🌐 C# | 📅 2026-08-21 - Download ScriptAnalyzer from PowerShellGallery
@@ -621,7 +621,7 @@
 * [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) ⭐ 2,120 | 🐛 202 | 🌐 C# | 📅 2026-07-29 - Sync your Outlook and Google calendars
 * [jimradford/superputty](https://github.com/jimradford/superputty) ⭐ 2,048 | 🐛 362 | 🌐 C# | 📅 2026-04-14 - The SuperPuTTY Window Manager for putty sessions
 * [EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,030 | 🐛 89 | 🌐 C# | 📅 2026-08-21 - EPPlus-Excel spreadsheets for .NET
-* [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) ⭐ 1,973 | 🐛 43 | 🌐 C# | 📅 2026-08-12 - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder.
+* [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) ⭐ 1,974 | 🐛 43 | 🌐 C# | 📅 2026-08-12 - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder.
 * [MahApps/MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) ⭐ 1,957 | 🐛 14 | 🌐 C# | 📅 2026-04-25 - Awesome icon packs for WPF and UWP in one library
 * [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent) ⭐ 1,910 | 🐛 220 | 🌐 C# | 📅 2026-08-21 - Azure Pipelines Agent 🚀
 * [dockpanelsuite/dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite) ⭐ 1,873 | 🐛 155 | 🌐 C# | 📅 2025-08-28 - DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms
@@ -632,14 +632,14 @@
 * [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) ⭐ 1,781 | 🐛 12 | 🌐 C# | 📅 2025-06-27 - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 * [webprofusion/certify](https://github.com/webprofusion/certify) ⭐ 1,698 | 🐛 22 | 🌐 C# | 📅 2026-08-21 - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
 * [aws/aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet) ⭐ 1,663 | 🐛 73 | 🌐 C# | 📅 2026-08-21 - Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
-* [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) ⭐ 1,496 | 🐛 170 | 🌐 C# | 📅 2026-07-30 - Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
+* [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) ⭐ 1,496 | 🐛 171 | 🌐 C# | 📅 2026-08-23 - Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
 * [Azure/data-api-builder](https://github.com/Azure/data-api-builder) ⭐ 1,493 | 🐛 519 | 🌐 C# | 📅 2026-08-20 - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 * [mono/taglib-sharp](https://github.com/mono/taglib-sharp) ⭐ 1,457 | 🐛 151 | 🌐 C# | 📅 2025-05-31 - Library for reading and writing metadata in media files
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) ⭐ 1,456 | 🐛 268 | 🌐 C# | 📅 2022-06-22 - Creates tiles for most Windows 8.1 and 10 start menu icons
 * [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) ⭐ 1,396 | 🐛 24 | 🌐 C# | 📅 2024-05-09 - Making Windows 10 apps great again
 * [nea/MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus) ⚠️ Archived - A Notepad++ Plugin to view a Markdown file rendered on-the-fly
 * [json-everything/json-everything](https://github.com/json-everything/json-everything) ⭐ 1,272 | 🐛 24 | 🌐 C# | 📅 2026-08-08 - System.Text.Json-based support for all of your JSON needs.
-* [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) ⭐ 1,266 | 🐛 11 | 🌐 C# | 📅 2023-06-27 - A tool to "Fix" Windows 11
+* [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) ⭐ 1,267 | 🐛 11 | 🌐 C# | 📅 2023-06-27 - A tool to "Fix" Windows 11
 * [github/gh-actions-importer](https://github.com/github/gh-actions-importer) ⭐ 1,232 | 🐛 8 | 🌐 C# | 📅 2025-11-11 - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 * [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) ⭐ 1,223 | 🐛 54 | 🌐 C# | 📅 2025-10-23 - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 * [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) ⚠️ Archived - Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
@@ -648,19 +648,19 @@
 * [telerik/UI-For-UWP](https://github.com/telerik/UI-For-UWP) ⚠️ Archived - Telerik UI for Universal Windows Platform (UWP) is no longer supported.
 * [GregFinzer/Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) ⭐ 1,142 | 🐛 2 | 🌐 C# | 📅 2025-07-17 - What you have been waiting for :+1:  Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
 * [ErikEJ/SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress) ⭐ 1,105 | 🐛 1 | 🌐 C# | 📅 2026-08-20 - SQL query stress simulator created by Adam Machanic <http://dataeducation.com/sqlquerystress-the-source-code/>
-* [aluxnimm/outlookcaldavsynchronizer](https://github.com/aluxnimm/outlookcaldavsynchronizer) ⭐ 1,084 | 🐛 166 | 🌐 C# | 📅 2026-08-17 - Sync Outlook with Google, SOGo, Nextcloud or any other CalDAV/CardDAV server
+* [aluxnimm/outlookcaldavsynchronizer](https://github.com/aluxnimm/outlookcaldavsynchronizer) ⭐ 1,083 | 🐛 166 | 🌐 C# | 📅 2026-08-17 - Sync Outlook with Google, SOGo, Nextcloud or any other CalDAV/CardDAV server
 * [Mimetis/Dotmim.Sync](https://github.com/Mimetis/Dotmim.Sync) ⭐ 978 | 🐛 64 | 🌐 C# | 📅 2025-08-28 - A brand new database synchronization framework, multi platform, multi databases, developed on top of .Net Standard 2.0. <https://dotmimsync.readthedocs.io/>
 * [codeproject/CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) ⭐ 976 | 🐛 33 | 🌐 C# | 📅 2025-07-14 - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
 * [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) ⭐ 972 | 🐛 15 | 🌐 C# | 📅 2026-01-10 - OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 * [PowerShell/ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) ⚠️ Archived - Modules that mix PowerShell and GUIs/CUIs!
 * [johanneszab/TumblThree](https://github.com/johanneszab/TumblThree) ⚠️ Archived - A Tumblr Blog Backup Application
-* [pnp/powershell](https://github.com/pnp/powershell) ⭐ 899 | 🐛 52 | 🌐 C# | 📅 2026-08-22 - PnP PowerShell
+* [pnp/powershell](https://github.com/pnp/powershell) ⭐ 900 | 🐛 52 | 🌐 C# | 📅 2026-08-23 - PnP PowerShell
 * [PowerShell/platyPS](https://github.com/PowerShell/platyPS) ⭐ 871 | 🐛 29 | 🌐 C# | 📅 2026-07-23 - Write PowerShell External Help in Markdown
 * [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) ⭐ 853 | 🐛 65 | 🌐 C# | 📅 2024-11-17 - SystemTrayMenu - Browse and open your files easily
 * [kvakulo/Switcheroo](https://github.com/kvakulo/Switcheroo) ⭐ 849 | 🐛 90 | 🌐 C# | 📅 2023-10-18 - The humble incremental-search task switcher for Windows
 * [skanmera/ExcelMerge](https://github.com/skanmera/ExcelMerge) ⭐ 844 | 🐛 21 | 🌐 C# | 📅 2022-06-24 - GUI Diff Tool for Excel
 * [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) ⭐ 840 | 🐛 52 | 🌐 C# | 📅 2026-04-13 - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
-* [DaxStudio/DaxStudio](https://github.com/DaxStudio/DaxStudio) ⭐ 826 | 🐛 157 | 🌐 C# | 📅 2026-08-22 - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Desktop, Power Pivot for Excel, and Analysis Services Tabular.
+* [DaxStudio/DaxStudio](https://github.com/DaxStudio/DaxStudio) ⭐ 826 | 🐛 147 | 🌐 C# | 📅 2026-08-23 - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Desktop, Power Pivot for Excel, and Analysis Services Tabular.
 * [brminnick/GitTrends](https://github.com/brminnick/GitTrends) ⭐ 781 | 🐛 19 | 🌐 C# | 📅 2026-01-14 - A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos
 * [Pscx/Pscx](https://github.com/Pscx/Pscx) ⭐ 774 | 🐛 35 | 🌐 C# | 📅 2025-10-01 - PowerShell Community Extensions module repository
 * [rocksdanister/weather](https://github.com/rocksdanister/weather) ⭐ 747 | 🐛 32 | 🌐 C# | 📅 2026-05-11 - Windows native weather app powered by DirectX12 animations
@@ -709,12 +709,12 @@
 * [Fs00/Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) ⭐ 390 | 🐛 1 | 🌐 C# | 📅 2026-01-20 - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
 * [murrayju/CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) ⭐ 388 | 🐛 16 | 🌐 C# | 📅 2024-02-10 - Creates a process in a different Windows session
 * [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) ⚠️ Archived - PowerShell module to consistent usage of secrets through different extension vaults
-* [ktheod/OneDriveBully](https://github.com/ktheod/OneDriveBully) ⭐ 374 | 🐛 9 | 🌐 C# | 📅 2024-06-04 - Bully your OneDrive to sync Symbolic Link Folders
+* [ktheod/OneDriveBully](https://github.com/ktheod/OneDriveBully) ⭐ 373 | 🐛 9 | 🌐 C# | 📅 2024-06-04 - Bully your OneDrive to sync Symbolic Link Folders
 * [pebakery/pebakery](https://github.com/pebakery/pebakery) ⭐ 361 | 🐛 18 | 🌐 C# | 📅 2026-07-26 - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 * [Azure/azure-saas](https://github.com/Azure/azure-saas) ⭐ 359 | 🐛 15 | 🌐 C# | 📅 2026-04-24 - The Azure SaaS Development Kit (ASDK) provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and Enterprises deliver their applications as
 * [rdotnet/rdotnet](https://github.com/rdotnet/rdotnet) ⭐ 356 | 🐛 100 | 🌐 C# | 📅 2024-04-09 - .NET interop library to call the R statistical language in the same process
 * [zumoshi/BrowserSelect](https://github.com/zumoshi/BrowserSelect) ⭐ 346 | 🐛 49 | 🌐 C# | 📅 2024-02-03 - Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.
-* [bostrot/PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 335 | 🐛 9 | 🌐 C# | 📅 2026-08-22 - Winget plugin for PowerToys Run
+* [bostrot/PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 335 | 🐛 9 | 🌐 C# | 📅 2026-08-23 - Winget plugin for PowerToys Run
 * [cloudevents/sdk-csharp](https://github.com/cloudevents/sdk-csharp) ⭐ 333 | 🐛 33 | 🌐 C# | 📅 2026-08-18 - CSharp SDK for CloudEvents
 * [viciousviper/DokanCloudFS](https://github.com/viciousviper/DokanCloudFS) ⭐ 322 | 🐛 11 | 🌐 C# | 📅 2017-09-08 - A virtual filesystem for various publicly accessible Cloud storage services on the Microsoft Windows platform.
 * [GitTools/GitReleaseManager](https://github.com/GitTools/GitReleaseManager) ⭐ 322 | 🐛 54 | 🌐 C# | 📅 2025-12-15 - Tool for creating and exporting releases for software applications hosted on GitHub
@@ -728,16 +728,16 @@
 * [mdgrs-mei/PowerShellRun](https://github.com/mdgrs-mei/PowerShellRun) ⭐ 281 | 🐛 2 | 🌐 C# | 📅 2026-01-12 - Terminal Based Launcher and Fuzzy Finder for PowerShell.
 * [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) ⭐ 276 | 🐛 15 | 🌐 C# | 📅 2024-06-02 - A modern FTP client for Windows 11
 * [adrianmteo/Luna](https://github.com/adrianmteo/Luna) ⚠️ Archived - Automatic dark mode for Windows 10
-* [waaverecords/PowerToys-Run-Spotify](https://github.com/waaverecords/PowerToys-Run-Spotify) ⭐ 275 | 🐛 4 | 🌐 C# | 📅 2026-02-28 - Search and control Spotify from PowerToys Run.
+* [waaverecords/PowerToys-Run-Spotify](https://github.com/waaverecords/PowerToys-Run-Spotify) ⭐ 274 | 🐛 4 | 🌐 C# | 📅 2026-02-28 - Search and control Spotify from PowerToys Run.
 * [ElPumpo/Win10Clean](https://github.com/ElPumpo/Win10Clean) ⭐ 269 | 🐛 2 | 🌐 C# | 📅 2026-07-21 - Cleanup your Windows 10 environment
 * [postprintum/devcomrade](https://github.com/postprintum/devcomrade) ⭐ 257 | 🐛 4 | 🌐 C# | 📅 2026-08-18 - DevComrade - A copy/paste/run productivity improvement utility for developers
 * [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) ⭐ 250 | 🐛 10 | 🌐 C# | 📅 2020-10-13 - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
 * [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) ⭐ 248 | 🐛 2 | 🌐 C# | 📅 2026-08-21 - Extracts snippets from code files and merges them into markdown documents.
-* [dsccommunity/SharePointDsc](https://github.com/dsccommunity/SharePointDsc) ⭐ 245 | 🐛 52 | 🌐 C# | 📅 2026-07-30 - The SharePointDsc PowerShell module provides DSC resources that can be used to deploy and manage a SharePoint farm
+* [dsccommunity/SharePointDsc](https://github.com/dsccommunity/SharePointDsc) ⭐ 246 | 🐛 52 | 🌐 C# | 📅 2026-07-30 - The SharePointDsc PowerShell module provides DSC resources that can be used to deploy and manage a SharePoint farm
 * [rzander/ruckzuck](https://github.com/rzander/ruckzuck) ⭐ 244 | 🐛 4 | 🌐 C# | 📅 2026-08-14 - software package manager for windows
 * [CoreyHayward/PowerToys-Run-ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 240 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - PowerToys Run Plugin enabling searching of the clipboard history and pasting the selected item.
 * [gsimardnet/PowerQueryNet](https://github.com/gsimardnet/PowerQueryNet) ⭐ 221 | 🐛 21 | 🌐 C# | 📅 2022-11-03 - Run M Language (Power Query Formula Language) from anywhere.
-* [Redocly/openapi-starter](https://github.com/Redocly/openapi-starter) ⭐ 219 | 🐛 10 | 🌐 C# | 📅 2026-07-07 - OpenAPI starter repository
+* [Redocly/openapi-starter](https://github.com/Redocly/openapi-starter) ⭐ 220 | 🐛 10 | 🌐 C# | 📅 2026-07-07 - OpenAPI starter repository
 * [Killeroo/PowerPing](https://github.com/Killeroo/PowerPing) ⭐ 217 | 🐛 20 | 🌐 C# | 📅 2026-06-26 - Advanced command-line ping tool
 * [builtbybel/ReadySunValley](https://github.com/builtbybel/ReadySunValley) ⭐ 216 | 🐛 10 | 🌐 C# | 📅 2024-02-13 - Replacement for Microsoft  PC Health Check app
 * [yaira2/Quick-Pad](https://github.com/yaira2/Quick-Pad) ⭐ 211 | 🐛 13 | 🌐 C# | 📅 2025-04-25 - Quick Pad is a modern notepad app featuring fluent design
@@ -767,7 +767,7 @@
 * [canneverbe/Ketarin](https://github.com/canneverbe/Ketarin) ⭐ 157 | 🐛 9 | 🌐 C# | 📅 2023-07-15 - Ketarin - application download helper
 * [PoshCode/Pansies](https://github.com/PoshCode/Pansies) ⭐ 156 | 🐛 5 | 🌐 C# | 📅 2026-05-14 - Powershell ANSI Escape Sequences, functions for colored output, etc.
 * [James231/Start-Menu-Manager](https://github.com/James231/Start-Menu-Manager) ⭐ 154 | 🐛 12 | 🌐 C# | 📅 2020-09-05 - App to add websites/software/files/folders/scripts to the Windows 10 Start Menu and Taskbar, and priority shortcuts to Windows 10 Search.
-* [sql-bi/Contoso-Data-Generator](https://github.com/sql-bi/Contoso-Data-Generator) ⭐ 151 | 🐛 5 | 🌐 C# | 📅 2024-03-10 - Custom Contoso database generator and ready-to-use Contoso sample databases for SQL Server
+* [sql-bi/Contoso-Data-Generator](https://github.com/sql-bi/Contoso-Data-Generator) ⭐ 152 | 🐛 5 | 🌐 C# | 📅 2024-03-10 - Custom Contoso database generator and ready-to-use Contoso sample databases for SQL Server
 * [andrewiankidd/rcloneExplorer](https://github.com/andrewiankidd/rcloneExplorer) ⚠️ Archived - rclone GUI for Windows
 * [microsoft/sql-data-warehouse-samples](https://github.com/microsoft/sql-data-warehouse-samples) ⭐ 146 | 🐛 14 | 🌐 C# | 📅 2023-08-16 - Snippets and samples for Azure SQL Data Warehouse
 * [gallaux/VBEThemeColorEditor](https://github.com/gallaux/VBEThemeColorEditor) ⭐ 144 | 🐛 11 | 🌐 C# | 📅 2021-04-26 - The VBA / VB editor (or VBE) is limited in the 16 colors it can use to render code text. This application replaces the default colors with custom palettes that can be saved and loaded.
@@ -776,7 +776,7 @@
 * [GoogleCloudPlatform/google-cloud-powershell](https://github.com/GoogleCloudPlatform/google-cloud-powershell) ⚠️ Archived - PowerShell cmdlets for the Google Cloud Platform
 * [anypackage/anypackage](https://github.com/anypackage/anypackage) ⭐ 138 | 🐛 22 | 🌐 C# | 📅 2025-04-19 - PowerShell unified package management interface.
 * [OfficeDev/Open-XML-Package-Editor-Power-Tool-for-Visual-Studio](https://github.com/OfficeDev/Open-XML-Package-Editor-Power-Tool-for-Visual-Studio) ⚠️ Archived - This Power Tool is a Visual Studio add-in that provides an easy way to parse and edit Open Packaging Conventions files, including Word, Excel and PowerPoint documents.
-* [Azure/azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) ⭐ 136 | 🐛 1,992 | 🌐 C# | 📅 2026-08-22 - Tools repository leveraged by the Azure SDK team.
+* [Azure/azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) ⭐ 136 | 🐛 1,993 | 🌐 C# | 📅 2026-08-22 - Tools repository leveraged by the Azure SDK team.
 * [davotronic5000/PowerShell\_Credential\_Manager](https://github.com/davotronic5000/PowerShell_Credential_Manager) ⚠️ Archived - PowerShell Module to Read and Write Credentials from the Windows Credential Manager
 * [little-apps/LittleRegistryCleaner](https://github.com/little-apps/LittleRegistryCleaner) ⭐ 135 | 🐛 3 | 🌐 C# | 📅 2019-05-16 - Little Registry Cleaner is an open source program that is designed to cleanup the Microsoft Windows Registry.
 * [roozbehid/dotnet-vcxproj](https://github.com/roozbehid/dotnet-vcxproj) ⭐ 135 | 🐛 6 | 🌐 C# | 📅 2024-06-11 - Enabling "dotnet build" to compile and build C/C++ projects. MSBuild task for compiling Visual Studio C/C++ projects (.vcxproj) with your choice of compiler on Linux or Windows or Mac!
@@ -945,11 +945,11 @@
 * [Azure-Samples/azure-sql-db-dynamic-schema](https://github.com/Azure-Samples/azure-sql-db-dynamic-schema) ⚠️ Archived - Samples on how efficiently to handle dynamic schemas in Azure SQL
 * [SMSAgentSoftware/PoshToExe](https://github.com/SMSAgentSoftware/PoshToExe) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2020-07-10 - Convert a PowerShell script to an executable file with Visual Studio.
 * [Alex-Butenko/OpenXML-for-VSTO](https://github.com/Alex-Butenko/OpenXML-for-VSTO) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2024-07-25 - Enable OpenXML for VSTO add-ins
+* [jonaskohl/FIcon](https://github.com/jonaskohl/FIcon) ⭐ 9 | 🐛 1 | 🌐 C# | 📅 2020-12-04 - FIcon is a utility that adds a Tag sub-menu to the context menu of a folder in Windows Explorer. It allows you to change the colour of a folder icon with ease, which helps you to stay organised.
 * [GitDepend/GitDepend](https://github.com/GitDepend/GitDepend) ⭐ 9 | 🐛 10 | 🌐 C# | 📅 2017-05-10 - Easy NuGet dependency management across multiple repositories.
 * [cse-labs/typespec-workflow-samples](https://github.com/cse-labs/typespec-workflow-samples) ⚠️ Archived - TypeSpec Workflow Samples
 * [kumarharsh/store-insider](https://github.com/kumarharsh/store-insider) ⭐ 8 | 🐛 3 | 🌐 C# | 📅 2017-09-08 - Store Insider
 * [gyokaynurvet/SierraLibrary](https://github.com/gyokaynurvet/SierraLibrary) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2022-12-08 - Excel custom functions add-in for SIERRA LMS.
-* [jonaskohl/FIcon](https://github.com/jonaskohl/FIcon) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2020-12-04 - FIcon is a utility that adds a Tag sub-menu to the context menu of a folder in Windows Explorer. It allows you to change the colour of a folder icon with ease, which helps you to stay organised.
 * [MishaProductions/WindowsPackageDownloader](https://github.com/MishaProductions/WindowsPackageDownloader) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2023-01-08 - An open source alternative to UUPDump (WIP)
 * [fireflycons/PSCloudFormation](https://github.com/fireflycons/PSCloudFormation) ⭐ 7 | 🐛 5 | 🌐 C# | 📅 2022-03-13 - Easy CloudFormation deployments from PowerShell command line. Exports CloudFormation Stacks to Terraform
 * [EvilLord666/ReportGenerator](https://github.com/EvilLord666/ReportGenerator) ⭐ 7 | 🐛 5 | 🌐 C# | 📅 2022-06-14 - A small cross-database tool for building excel documents (reports) based on data from database that extacts via View or Stored Procedures with parametres, ordering e.t.c.
@@ -1021,108 +1021,108 @@
 
 ## C++
 
-* [facebook/react-native](https://github.com/facebook/react-native) ⭐ 126,392 | 🐛 1,079 | 🌐 C++ | 📅 2026-08-22 - A framework for building native applications using React
-* [microsoft/terminal](https://github.com/microsoft/terminal) ⭐ 104,668 | 🐛 1,739 | 🌐 C++ | 📅 2026-08-21 - The new Windows Terminal and the original Windows console host, all in the same place!
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,399 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-* [swiftlang/swift](https://github.com/swiftlang/swift) ⭐ 70,273 | 🐛 9,216 | 🌐 Swift | 📅 2026-08-22 - The Swift Programming Language
-* [WerWolv/ImHex](https://github.com/WerWolv/ImHex) ⭐ 54,535 | 🐛 389 | 🌐 C++ | 📅 2026-08-22 - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-* [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 49,391 | 🐛 7,014 | 🌐 C++ | 📅 2026-08-22 - ClickHouse® is a real-time analytics DBMS
-* [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 49,228 | 🐛 577 | 🌐 C++ | 📅 2026-08-15 - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ⭐ 45,831 | 🐛 1,339 | 🌐 C++ | 📅 2026-08-19 - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-* [facebookresearch/faiss](https://github.com/facebookresearch/faiss) ⭐ 40,788 | 🐛 287 | 🌐 C++ | 📅 2026-08-19 - A library for efficient similarity search and clustering of dense vectors.
-* [duckdb/duckdb](https://github.com/duckdb/duckdb) ⭐ 40,528 | 🐛 814 | 🌐 C++ | 📅 2026-08-22 - DuckDB is an analytical in-process SQL database management system
-* [aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 34,145 | 🐛 529 | 🌐 C++ | 📅 2026-08-22 - A monitor of resources
-* [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,006 | 🐛 4,103 | 🌐 C++ | 📅 2026-08-22 - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-* [facebook/rocksdb](https://github.com/facebook/rocksdb) ⭐ 32,000 | 🐛 1,614 | 🌐 C++ | 📅 2026-08-21 - A library that provides an embeddable, persistent key-value store for fast storage.
-* [microsoft/calculator](https://github.com/microsoft/calculator) ⭐ 31,021 | 🐛 469 | 🌐 C++ | 📅 2026-08-05 - Windows Calculator: A simple yet powerful calculator that ships with Windows
+* [facebook/react-native](https://github.com/facebook/react-native) ⭐ 126,394 | 🐛 1,080 | 🌐 C++ | 📅 2026-08-22 - A framework for building native applications using React
+* [microsoft/terminal](https://github.com/microsoft/terminal) ⭐ 104,674 | 🐛 1,739 | 🌐 C++ | 📅 2026-08-21 - The new Windows Terminal and the original Windows console host, all in the same place!
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,396 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+* [swiftlang/swift](https://github.com/swiftlang/swift) ⭐ 70,278 | 🐛 9,225 | 🌐 Swift | 📅 2026-08-23 - The Swift Programming Language
+* [WerWolv/ImHex](https://github.com/WerWolv/ImHex) ⭐ 54,542 | 🐛 390 | 🌐 C++ | 📅 2026-08-23 - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+* [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 49,402 | 🐛 7,028 | 🌐 C++ | 📅 2026-08-23 - ClickHouse® is a real-time analytics DBMS
+* [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 49,240 | 🐛 576 | 🌐 C++ | 📅 2026-08-23 - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ⭐ 45,840 | 🐛 1,340 | 🌐 C++ | 📅 2026-08-19 - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+* [facebookresearch/faiss](https://github.com/facebookresearch/faiss) ⭐ 40,795 | 🐛 287 | 🌐 C++ | 📅 2026-08-19 - A library for efficient similarity search and clustering of dense vectors.
+* [duckdb/duckdb](https://github.com/duckdb/duckdb) ⭐ 40,547 | 🐛 818 | 🌐 C++ | 📅 2026-08-22 - DuckDB is an analytical in-process SQL database management system
+* [aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 34,163 | 🐛 528 | 🌐 C++ | 📅 2026-08-23 - A monitor of resources
+* [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,024 | 🐛 4,102 | 🌐 C++ | 📅 2026-08-23 - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+* [facebook/rocksdb](https://github.com/facebook/rocksdb) ⭐ 32,001 | 🐛 1,615 | 🌐 C++ | 📅 2026-08-22 - A library that provides an embeddable, persistent key-value store for fast storage.
+* [microsoft/calculator](https://github.com/microsoft/calculator) ⭐ 31,019 | 🐛 469 | 🌐 C++ | 📅 2026-08-05 - Windows Calculator: A simple yet powerful calculator that ships with Windows
 * [ariya/phantomjs](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless Browser
-* [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,088 | 🐛 2,912 | 🌐 C++ | 📅 2026-08-20 - Notepad++ official repository
-* [microsoft/winget-cli](https://github.com/microsoft/winget-cli) ⭐ 26,333 | 🐛 1,305 | 🌐 C++ | 📅 2026-08-20 - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-* [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) ⭐ 25,674 | 🐛 211 | 🌐 C++ | 📅 2026-08-21 - Distribute and run LLMs with a single file.
-* [chromium/chromium](https://github.com/chromium/chromium) ⭐ 24,593 | 🐛 28 | 📅 2026-08-22 - The official GitHub mirror of the Chromium source
-* [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,505 | 🐛 840 | 🌐 C++ | 📅 2026-08-10 - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-* [simdjson/simdjson](https://github.com/simdjson/simdjson) ⭐ 24,169 | 🐛 137 | 🌐 C++ | 📅 2026-08-20 - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-* [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,149 | 🐛 327 | 🌐 C++ | 📅 2026-08-14 - A lightweight utility that makes the Windows taskbar translucent/transparent.
+* [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,090 | 🐛 2,912 | 🌐 C++ | 📅 2026-08-23 - Notepad++ official repository
+* [microsoft/winget-cli](https://github.com/microsoft/winget-cli) ⭐ 26,337 | 🐛 1,303 | 🌐 C++ | 📅 2026-08-22 - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+* [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) ⭐ 25,678 | 🐛 211 | 🌐 C++ | 📅 2026-08-21 - Distribute and run LLMs with a single file.
+* [chromium/chromium](https://github.com/chromium/chromium) ⭐ 24,599 | 🐛 28 | 📅 2026-08-23 - The official GitHub mirror of the Chromium source
+* [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,510 | 🐛 841 | 🌐 C++ | 📅 2026-08-22 - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+* [simdjson/simdjson](https://github.com/simdjson/simdjson) ⭐ 24,173 | 🐛 138 | 🌐 C++ | 📅 2026-08-23 - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+* [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,157 | 🐛 327 | 🌐 C++ | 📅 2026-08-14 - A lightweight utility that makes the Windows taskbar translucent/transparent.
 * [google/libphonenumber](https://github.com/google/libphonenumber) ⭐ 18,224 | 🐛 115 | 🌐 C++ | 📅 2026-08-13 - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-* [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) ⭐ 17,327 | 🐛 801 | 🌐 C++ | 📅 2026-08-22 - A framework for building native Windows apps with React.
-* [apache/arrow](https://github.com/apache/arrow) ⭐ 17,040 | 🐛 2,582 | 🌐 C++ | 📅 2026-08-22 - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-* [ceph/ceph](https://github.com/ceph/ceph) ⭐ 16,955 | 🐛 1,260 | 🌐 C++ | 📅 2026-08-22 - Ceph is a distributed object, block, and file storage platform
-* [M2Team/NanaZip](https://github.com/M2Team/NanaZip) ⭐ 15,186 | 🐛 370 | 🌐 C++ | 📅 2026-08-19 - The 7-Zip derivative intended for the modern Windows experience
-* [qgis/QGIS](https://github.com/qgis/QGIS) ⭐ 14,266 | 🐛 5,426 | 🌐 C++ | 📅 2026-08-22 - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-* [google/or-tools](https://github.com/google/or-tools) ⭐ 13,935 | 🐛 124 | 🌐 C++ | 📅 2026-08-20 - Google's Operations Research tools:
-* [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) ⭐ 12,992 | 🐛 22 | 🌐 C++ | 📅 2026-08-16 - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-* [zealdocs/zeal](https://github.com/zealdocs/zeal) ⭐ 12,769 | 🐛 105 | 🌐 C++ | 📅 2026-08-18 - Offline documentation browser inspired by Dash
-* [microsoft/wslg](https://github.com/microsoft/wslg) ⭐ 11,806 | 🐛 708 | 🌐 C++ | 📅 2026-07-06 - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-* [Const-me/Whisper](https://github.com/Const-me/Whisper) ⭐ 10,637 | 🐛 172 | 🌐 C++ | 📅 2026-05-24 - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-* [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) ⭐ 9,971 | 🐛 316 | 🌐 C++ | 📅 2026-08-22 - FUSE-based file system backed by Amazon S3
-* [AGWA/git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,860 | 🐛 128 | 🌐 C++ | 📅 2025-09-24 - Transparent file encryption in git
-* [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) ⭐ 9,255 | 🐛 692 | 🌐 C++ | 📅 2026-07-24 - Classic Shell Reborn.
-* [WinMerge/winmerge](https://github.com/WinMerge/winmerge) ⭐ 9,132 | 🐛 491 | 🌐 C++ | 📅 2026-08-22 - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-* [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) ⭐ 8,756 | 🐛 153 | 🌐 Rust | 📅 2026-08-18 - The customization marketplace for Windows programs: <https://windhawk.net/>
+* [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) ⭐ 17,328 | 🐛 798 | 🌐 C++ | 📅 2026-08-23 - A framework for building native Windows apps with React.
+* [apache/arrow](https://github.com/apache/arrow) ⭐ 17,043 | 🐛 2,585 | 🌐 C++ | 📅 2026-08-22 - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+* [ceph/ceph](https://github.com/ceph/ceph) ⭐ 16,956 | 🐛 1,262 | 🌐 C++ | 📅 2026-08-23 - Ceph is a distributed object, block, and file storage platform
+* [M2Team/NanaZip](https://github.com/M2Team/NanaZip) ⭐ 15,245 | 🐛 370 | 🌐 C++ | 📅 2026-08-19 - The 7-Zip derivative intended for the modern Windows experience
+* [qgis/QGIS](https://github.com/qgis/QGIS) ⭐ 14,269 | 🐛 5,424 | 🌐 C++ | 📅 2026-08-23 - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+* [google/or-tools](https://github.com/google/or-tools) ⭐ 13,938 | 🐛 126 | 🌐 C++ | 📅 2026-08-20 - Google's Operations Research tools:
+* [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) ⭐ 12,997 | 🐛 22 | 🌐 C++ | 📅 2026-08-16 - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+* [zealdocs/zeal](https://github.com/zealdocs/zeal) ⭐ 12,771 | 🐛 105 | 🌐 C++ | 📅 2026-08-18 - Offline documentation browser inspired by Dash
+* [microsoft/wslg](https://github.com/microsoft/wslg) ⭐ 11,807 | 🐛 709 | 🌐 C++ | 📅 2026-07-06 - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+* [Const-me/Whisper](https://github.com/Const-me/Whisper) ⭐ 10,642 | 🐛 173 | 🌐 C++ | 📅 2026-05-24 - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+* [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) ⭐ 9,971 | 🐛 316 | 🌐 C++ | 📅 2026-08-23 - FUSE-based file system backed by Amazon S3
+* [AGWA/git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,861 | 🐛 128 | 🌐 C++ | 📅 2025-09-24 - Transparent file encryption in git
+* [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) ⭐ 9,256 | 🐛 692 | 🌐 C++ | 📅 2026-07-24 - Classic Shell Reborn.
+* [WinMerge/winmerge](https://github.com/WinMerge/winmerge) ⭐ 9,136 | 🐛 489 | 🌐 C++ | 📅 2026-08-23 - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+* [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) ⭐ 8,764 | 🐛 153 | 🌐 Rust | 📅 2026-08-18 - The customization marketplace for Windows programs: <https://windhawk.net/>
 * [oatpp/oatpp](https://github.com/oatpp/oatpp) ⭐ 8,642 | 🐛 333 | 🌐 C++ | 📅 2025-11-12 - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-* [brndnmtthws/conky](https://github.com/brndnmtthws/conky) ⭐ 8,477 | 🐛 86 | 🌐 C++ | 📅 2026-08-07 - Light-weight system monitor for X, Wayland (sort of), and other things, too
-* [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) ⭐ 7,977 | 🐛 423 | 🌐 C++ | 📅 2024-07-24 - An installation and update framework for Windows desktop apps
-* [albertlauncher/albert](https://github.com/albertlauncher/albert) ⭐ 7,976 | 🐛 6 | 🌐 C++ | 📅 2026-08-11 - A fast and flexible keyboard launcher
-* [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) ⭐ 7,905 | 🐛 2,217 | 🌐 C++ | 📅 2026-08-22 - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
-* [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) ⭐ 7,801 | 🐛 38 | 🌐 C++ | 📅 2026-04-14 - bcrypt for NodeJs
-* [lballabio/QuantLib](https://github.com/lballabio/QuantLib) ⭐ 7,534 | 🐛 47 | 🌐 C++ | 📅 2026-08-20 - The QuantLib C++ library
-* [moudey/Shell](https://github.com/moudey/Shell) ⭐ 6,782 | 🐛 245 | 🌐 C++ | 📅 2026-02-09 - Powerful context menu manager for Windows File Explorer
-* [mhammond/pywin32](https://github.com/mhammond/pywin32) ⭐ 5,601 | 🐛 400 | 🌐 C++ | 📅 2026-08-22 - Python for Windows (pywin32) Extensions
-* [intel/hyperscan](https://github.com/intel/hyperscan) ⭐ 5,473 | 🐛 200 | 🌐 C++ | 📅 2026-08-17 - High-performance regular expression matching library
-* [chrisant996/clink](https://github.com/chrisant996/clink) ⭐ 5,446 | 🐛 0 | 🌐 C++ | 📅 2026-08-16 - Bash's powerful command line editing in cmd.exe
+* [brndnmtthws/conky](https://github.com/brndnmtthws/conky) ⭐ 8,480 | 🐛 87 | 🌐 C++ | 📅 2026-08-07 - Light-weight system monitor for X, Wayland (sort of), and other things, too
+* [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) ⭐ 7,978 | 🐛 423 | 🌐 C++ | 📅 2024-07-24 - An installation and update framework for Windows desktop apps
+* [albertlauncher/albert](https://github.com/albertlauncher/albert) ⭐ 7,978 | 🐛 6 | 🌐 C++ | 📅 2026-08-23 - A fast and flexible keyboard launcher
+* [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) ⭐ 7,910 | 🐛 2,214 | 🌐 C++ | 📅 2026-08-23 - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
+* [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) ⭐ 7,802 | 🐛 38 | 🌐 C++ | 📅 2026-04-14 - bcrypt for NodeJs
+* [lballabio/QuantLib](https://github.com/lballabio/QuantLib) ⭐ 7,538 | 🐛 48 | 🌐 C++ | 📅 2026-08-20 - The QuantLib C++ library
+* [moudey/Shell](https://github.com/moudey/Shell) ⭐ 6,786 | 🐛 245 | 🌐 C++ | 📅 2026-02-09 - Powerful context menu manager for Windows File Explorer
+* [mhammond/pywin32](https://github.com/mhammond/pywin32) ⭐ 5,600 | 🐛 399 | 🌐 C++ | 📅 2026-08-23 - Python for Windows (pywin32) Extensions
+* [intel/hyperscan](https://github.com/intel/hyperscan) ⭐ 5,474 | 🐛 200 | 🌐 C++ | 📅 2026-08-17 - High-performance regular expression matching library
+* [chrisant996/clink](https://github.com/chrisant996/clink) ⭐ 5,445 | 🐛 0 | 🌐 C++ | 📅 2026-08-16 - Bash's powerful command line editing in cmd.exe
 * [clangen/musikcube](https://github.com/clangen/musikcube) ⭐ 4,826 | 🐛 178 | 🌐 C++ | 📅 2026-03-23 - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
-* [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) ⭐ 4,662 | 🐛 401 | 🌐 C++ | 📅 2026-08-21 - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+* [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) ⭐ 4,662 | 🐛 402 | 🌐 C++ | 📅 2026-08-23 - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 * [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) ⭐ 4,269 | 🐛 22 | 🌐 C++ | 📅 2022-02-02 - A full-featured utility for managing Windows Subsystem for Linux (WSL)
-* [clementine-player/Clementine](https://github.com/clementine-player/Clementine) ⭐ 4,240 | 🐛 2,440 | 🌐 C++ | 📅 2026-08-13 - :tangerine: Clementine Music Player
-* [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) ⭐ 3,585 | 🐛 282 | 🌐 C++ | 📅 2026-05-22 - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
-* [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) ⭐ 3,420 | 🐛 31 | 🌐 C++ | 📅 2025-09-24 - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
-* [ksnip/ksnip](https://github.com/ksnip/ksnip) ⭐ 3,297 | 🐛 337 | 🌐 C++ | 📅 2026-07-03 - ksnip the cross-platform screenshot and annotation tool
-* [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) ⭐ 3,269 | 🐛 252 | 🌐 C++ | 📅 2026-08-20 - Explorer++ is a lightweight and fast file manager for Windows
-* [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) ⭐ 3,079 | 🐛 60 | 🌐 C++ | 📅 2026-06-06 - Python ODBC bridge
+* [clementine-player/Clementine](https://github.com/clementine-player/Clementine) ⭐ 4,241 | 🐛 2,440 | 🌐 C++ | 📅 2026-08-13 - :tangerine: Clementine Music Player
+* [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) ⭐ 3,586 | 🐛 282 | 🌐 C++ | 📅 2026-05-22 - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
+* [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) ⭐ 3,420 | 🐛 32 | 🌐 C++ | 📅 2025-09-24 - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
+* [ksnip/ksnip](https://github.com/ksnip/ksnip) ⭐ 3,299 | 🐛 337 | 🌐 C++ | 📅 2026-07-03 - ksnip the cross-platform screenshot and annotation tool
+* [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) ⭐ 3,271 | 🐛 252 | 🌐 C++ | 📅 2026-08-20 - Explorer++ is a lightweight and fast file manager for Windows
+* [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) ⭐ 3,080 | 🐛 60 | 🌐 C++ | 📅 2026-06-06 - Python ODBC bridge
 * [pmq20/node-packer](https://github.com/pmq20/node-packer) ⭐ 3,066 | 🐛 100 | 🌐 C++ | 📅 2023-01-07 - Packing your Node.js application into a single executable.
 * [skift-org/skift](https://github.com/skift-org/skift) ⭐ 2,984 | 🐛 7 | 🌐 C++ | 📅 2026-07-08 - 🥑 A modern delightful operating system
-* [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) ⭐ 2,970 | 🐛 218 | 🌐 C++ | 📅 2026-08-22 - A powerful, innovative and intuitive EDA suite for everyone!
-* [terralang/terra](https://github.com/terralang/terra) ⭐ 2,903 | 🐛 101 | 🌐 C++ | 📅 2026-08-19 - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
-* [beefytech/Beef](https://github.com/beefytech/Beef) ⭐ 2,844 | 🐛 255 | 🌐 C++ | 📅 2026-08-21 - Beef Programming Language
+* [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) ⭐ 2,971 | 🐛 216 | 🌐 C++ | 📅 2026-08-23 - A powerful, innovative and intuitive EDA suite for everyone!
+* [terralang/terra](https://github.com/terralang/terra) ⭐ 2,904 | 🐛 101 | 🌐 C++ | 📅 2026-08-19 - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
+* [beefytech/Beef](https://github.com/beefytech/Beef) ⭐ 2,845 | 🐛 256 | 🌐 C++ | 📅 2026-08-22 - Beef Programming Language
 * [gioblu/PJON](https://github.com/gioblu/PJON) ⭐ 2,816 | 🐛 60 | 🌐 C++ | 📅 2025-11-21 - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 * [dvorka/mindforger](https://github.com/dvorka/mindforger) ⭐ 2,714 | 🐛 632 | 🌐 C++ | 📅 2026-05-29 - Thinking notebook and Markdown editor.
 * [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) ⭐ 2,521 | 🐛 14 | 🌐 C++ | 📅 2024-02-21 - Automatically identify anti-patterns in SQL queries
-* [FarGroup/FarManager](https://github.com/FarGroup/FarManager) ⭐ 2,210 | 🐛 154 | 🌐 C++ | 📅 2026-08-22 - File and Archive Manager
-* [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) ⚠️ Archived - \[Deprecated, work in progress alternative: <https://github.com/M2Team/NanaRun> ⭐ 686 | 🐛 13 | 🌐 C++ | 📅 2026-07-23] Series of System Administration Tools
+* [FarGroup/FarManager](https://github.com/FarGroup/FarManager) ⭐ 2,211 | 🐛 154 | 🌐 C++ | 📅 2026-08-22 - File and Archive Manager
+* [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) ⚠️ Archived - \[Deprecated, work in progress alternative: <https://github.com/M2Team/NanaRun> ⭐ 688 | 🐛 13 | 🌐 C++ | 📅 2026-07-23] Series of System Administration Tools
 * [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) ⭐ 2,199 | 🐛 704 | 🌐 C++ | 📅 2026-04-14 - Command Line Interactive and Scriptable Application to access MEGA
 * [plv8/plv8](https://github.com/plv8/plv8) ⭐ 2,052 | 🐛 17 | 🌐 C++ | 📅 2026-05-07 - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 * [vimpunk/mio](https://github.com/vimpunk/mio) ⭐ 1,953 | 🐛 52 | 🌐 C++ | 📅 2024-02-11 - Cross-platform C++11 header-only library for memory mapped file IO
 * [gitahead/gitahead](https://github.com/gitahead/gitahead) ⭐ 1,946 | 🐛 293 | 🌐 C++ | 📅 2026-08-14 - Understand your Git history!
-* [dchapyshev/aspia](https://github.com/dchapyshev/aspia) ⭐ 1,915 | 🐛 154 | 🌐 C++ | 📅 2026-08-03 - Remote desktop and file transfer tool.
+* [dchapyshev/aspia](https://github.com/dchapyshev/aspia) ⭐ 1,916 | 🐛 155 | 🌐 C++ | 📅 2026-08-03 - Remote desktop and file transfer tool.
 * [meganz/MEGAsync](https://github.com/meganz/MEGAsync) ⭐ 1,887 | 🐛 371 | 🌐 C++ | 📅 2026-07-31 - Easy automated syncing between your computers and your MEGA Cloud Drive
 * [toggl-open-source/toggldesktop](https://github.com/toggl-open-source/toggldesktop) ⚠️ Archived - Toggl Desktop app for Windows, Mac and Linux
 * [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) ⭐ 1,777 | 🐛 3 | 🌐 C++ | 📅 2026-06-15 - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
 * [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) ⚠️ Archived - Sample/reference launcher app for WSL distro Microsoft Store packages.
-* [soramimi/Guitar](https://github.com/soramimi/Guitar) ⭐ 1,693 | 🐛 85 | 🌐 C | 📅 2026-08-22 - Git GUI Client
+* [soramimi/Guitar](https://github.com/soramimi/Guitar) ⭐ 1,694 | 🐛 85 | 🌐 C | 📅 2026-08-23 - Git GUI Client
 * [osm2pgsql-dev/osm2pgsql](https://github.com/osm2pgsql-dev/osm2pgsql) ⭐ 1,680 | 🐛 36 | 🌐 C++ | 📅 2026-07-24 - OpenStreetMap data to PostgreSQL converter
 * [epoupon/lms](https://github.com/epoupon/lms) ⭐ 1,664 | 🐛 79 | 🌐 C++ | 📅 2026-08-19 - Lightweight Music Server. Access your self-hosted music using a web interface.
-* [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) ⭐ 1,620 | 🐛 1 | 🌐 C++ | 📅 2026-08-14 - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (<https://freefilesync.org/fo>
+* [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) ⭐ 1,619 | 🐛 1 | 🌐 C++ | 📅 2026-08-14 - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (<https://freefilesync.org/fo>
 * [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) ⭐ 1,526 | 🐛 8 | 🌐 C++ | 📅 2024-02-26 - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Und
-* [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) ⭐ 1,426 | 🐛 74 | 🌐 C++ | 📅 2026-08-22 - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
+* [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) ⭐ 1,426 | 🐛 76 | 🌐 C++ | 📅 2026-08-22 - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
 * [rprichard/winpty](https://github.com/rprichard/winpty) ⭐ 1,382 | 🐛 105 | 🌐 C++ | 📅 2024-02-19 - A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
-* [dscharrer/innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,338 | 🐛 69 | 🌐 C++ | 📅 2025-02-06 - A tool to unpack installers created by Inno Setup
+* [dscharrer/innoextract](https://github.com/dscharrer/innoextract) ⭐ 1,342 | 🐛 69 | 🌐 C++ | 📅 2025-02-06 - A tool to unpack installers created by Inno Setup
 * [muellan/clipp](https://github.com/muellan/clipp) ⭐ 1,321 | 🐛 56 | 🌐 C++ | 📅 2024-05-30 - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 * [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) ⭐ 1,161 | 🐛 31 | 🌐 C++ | 📅 2026-01-07 - Copy file paths from Windows explorer's contextual menu
-* [IJHack/QtPass](https://github.com/IJHack/QtPass) ⭐ 1,145 | 🐛 8 | 🌐 C++ | 📅 2026-08-17 - QtPass is a multi-platform GUI for pass, the standard unix password manager.
+* [IJHack/QtPass](https://github.com/IJHack/QtPass) ⭐ 1,145 | 🐛 10 | 🌐 C++ | 📅 2026-08-23 - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 * [riverar/mach2](https://github.com/riverar/mach2) ⚠️ Archived - Windows Feature Control Multi-tool
 * [Eun/MoveToDesktop](https://github.com/Eun/MoveToDesktop) ⚠️ Archived - Move windows using hotkeys or the system menu
-* [microsoft/WindowsAppSDK-Samples](https://github.com/microsoft/WindowsAppSDK-Samples) ⭐ 1,001 | 🐛 98 | 🌐 C++ | 📅 2026-08-20 - Feature samples for the Windows App SDK
+* [microsoft/WindowsAppSDK-Samples](https://github.com/microsoft/WindowsAppSDK-Samples) ⭐ 1,003 | 🐛 98 | 🌐 C++ | 📅 2026-08-20 - Feature samples for the Windows App SDK
 * [danielaparker/jsoncons](https://github.com/danielaparker/jsoncons) ⭐ 853 | 🐛 17 | 🌐 C++ | 📅 2026-08-15 - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
-* [RcppCore/Rcpp](https://github.com/RcppCore/Rcpp) ⭐ 800 | 🐛 5 | 🌐 C++ | 📅 2026-08-08 - Seamless R and C++ Integration
+* [RcppCore/Rcpp](https://github.com/RcppCore/Rcpp) ⭐ 799 | 🐛 5 | 🌐 C++ | 📅 2026-08-08 - Seamless R and C++ Integration
 * [jart/json.cpp](https://github.com/jart/json.cpp) ⭐ 794 | 🐛 3 | 🌐 C++ | 📅 2026-04-08 - JSON for Classic C++
 * [tidyverse/readxl](https://github.com/tidyverse/readxl) ⭐ 752 | 🐛 51 | 🌐 C++ | 📅 2026-05-17 - Read excel files (.xls and .xlsx) into R 🖇
 * [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) ⭐ 697 | 🐛 15 | 🌐 C++ | 📅 2026-08-04 - Command line tool for working with OpenStreetMap data based on the Osmium library.
 * [triton-inference-server/python\_backend](https://github.com/triton-inference-server/python_backend) ⭐ 681 | 🐛 25 | 🌐 C++ | 📅 2026-08-18 - Triton backend that enables pre-process, post-processing and other logic to be implemented in Python.
-* [googleapis/google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 204 | 🌐 C++ | 📅 2026-08-22 - C++ Client Libraries for Google Cloud Services
+* [googleapis/google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 205 | 🌐 C++ | 📅 2026-08-23 - C++ Client Libraries for Google Cloud Services
 * [tidyverse/vroom](https://github.com/tidyverse/vroom) ⭐ 642 | 🐛 67 | 🌐 C++ | 📅 2026-06-09 - Fast reading of delimited files
 * [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote) ⭐ 629 | 🐛 27 | 🌐 C++ | 📅 2023-12-27 - Repository to store what we have studied. :book: We want everyone to get a job through TechnicalNote.
-* [rspatial/terra](https://github.com/rspatial/terra) ⭐ 617 | 🐛 13 | 🌐 C++ | 📅 2026-08-20 - R package for spatial data handling <https://rspatial.github.io/terra/reference/terra-package.html>
-* [greta-dev/greta](https://github.com/greta-dev/greta) ⭐ 606 | 🐛 161 | 🌐 C++ | 📅 2026-08-22 - simple and scalable statistical modelling in R
+* [rspatial/terra](https://github.com/rspatial/terra) ⭐ 617 | 🐛 14 | 🌐 C++ | 📅 2026-08-22 - R package for spatial data handling <https://rspatial.github.io/terra/reference/terra-package.html>
+* [greta-dev/greta](https://github.com/greta-dev/greta) ⭐ 606 | 🐛 162 | 🌐 C++ | 📅 2026-08-23 - simple and scalable statistical modelling in R
 * [bablosoft/BAS](https://github.com/bablosoft/BAS) ⭐ 560 | 🐛 2 | 🌐 C++ | 📅 2017-07-30 - BrowserAutomationStudio can automate everything that Chrome can.
 * [alandefreitas/moderncpp](https://github.com/alandefreitas/moderncpp) ⭐ 554 | 🐛 1 | 🌐 C++ | 📅 2022-03-14 - Modern C++: Snippets and Examples
 * [ropensci/pdftools](https://github.com/ropensci/pdftools) ⭐ 553 | 🐛 57 | 🌐 C++ | 📅 2026-08-06 - Text Extraction, Rendering and Converting of PDF Documents
@@ -1133,7 +1133,7 @@
 * [ManuelGil/Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) ⚠️ Archived - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
 * [nx10/httpgd](https://github.com/nx10/httpgd) ⭐ 506 | 🐛 37 | 🌐 C++ | 📅 2026-05-14 - Asynchronous http server graphics device for R.
 * [stefankueng/CryptSync](https://github.com/stefankueng/CryptSync) ⭐ 441 | 🐛 29 | 🌐 C++ | 📅 2026-07-28 - CryptSync is a small utility that synchronizes two folders while encrypting the contents in one folder. That means one of the two folders has all files unencrypted (the files you work with) and the ot
-* [r-dbi/odbc](https://github.com/r-dbi/odbc) ⭐ 413 | 🐛 79 | 🌐 C++ | 📅 2026-08-22 - Connect to ODBC databases (using the DBI interface)
+* [r-dbi/odbc](https://github.com/r-dbi/odbc) ⭐ 413 | 🐛 76 | 🌐 C++ | 📅 2026-08-22 - Connect to ODBC databases (using the DBI interface)
 * [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager) ⚠️ Archived - Draw bitmaps on a windows 10/11 task manager!
 * [rprichard/wslbridge](https://github.com/rprichard/wslbridge) ⭐ 352 | 🐛 31 | 🌐 C++ | 📅 2020-09-16 - Bridge from Cygwin to WSL pty/pipe I/O
 * [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) ⭐ 323 | 🐛 19 | 🌐 C++ | 📅 2026-02-03 - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
@@ -1260,54 +1260,54 @@
 
 ## CMake
 
-* [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,383 | 🐛 1,149 | 🌐 CMake | 📅 2026-08-22 - C++ Library Manager for Windows, Linux, and MacOS
-* [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) ⭐ 2,540 | 🐛 25 | 🌐 CMake | 📅 2026-04-15 - The missing CMake project initializer
+* [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,386 | 🐛 1,174 | 🌐 CMake | 📅 2026-08-22 - C++ Library Manager for Windows, Linux, and MacOS
+* [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) ⭐ 2,541 | 🐛 25 | 🌐 CMake | 📅 2026-04-15 - The missing CMake project initializer
 * [pmp-library/pmp-template](https://github.com/pmp-library/pmp-template) ⭐ 6 | 🐛 1 | 🌐 CMake | 📅 2023-08-31 - Project template for creating applications based on pmp-library
 
 ## CSS
 
-* [animate-css/animate.css](https://github.com/animate-css/animate.css) ⭐ 82,743 | 🐛 79 | 🌐 CSS | 📅 2024-07-29 - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-* [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,350 | 🐛 18 | 🌐 CSS | 📅 2026-08-22 - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-* [necolas/normalize.css](https://github.com/necolas/normalize.css) ⭐ 53,518 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A modern alternative to CSS resets
-* [jgthms/bulma](https://github.com/jgthms/bulma) ⭐ 50,053 | 🐛 527 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox
-* [picocss/pico](https://github.com/picocss/pico) ⭐ 16,806 | 🐛 124 | 🌐 CSS | 📅 2026-05-09 - Minimal CSS Framework for semantic HTML
-* [twbs/ratchet](https://github.com/twbs/ratchet) ⭐ 14,694 | 🐛 222 | 🌐 CSS | 📅 2025-03-18 - Build mobile apps with simple HTML, CSS, and JavaScript components.
+* [animate-css/animate.css](https://github.com/animate-css/animate.css) ⭐ 82,741 | 🐛 79 | 🌐 CSS | 📅 2024-07-29 - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+* [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,362 | 🐛 18 | 🌐 CSS | 📅 2026-08-22 - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+* [necolas/normalize.css](https://github.com/necolas/normalize.css) ⭐ 53,519 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 - A modern alternative to CSS resets
+* [jgthms/bulma](https://github.com/jgthms/bulma) ⭐ 50,054 | 🐛 527 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox
+* [picocss/pico](https://github.com/picocss/pico) ⭐ 16,810 | 🐛 124 | 🌐 CSS | 📅 2026-05-09 - Minimal CSS Framework for semantic HTML
+* [twbs/ratchet](https://github.com/twbs/ratchet) ⭐ 14,696 | 🐛 222 | 🌐 CSS | 📅 2025-03-18 - Build mobile apps with simple HTML, CSS, and JavaScript components.
 * [devicons/devicon](https://github.com/devicons/devicon) ⭐ 11,784 | 🐛 481 | 🌐 CSS | 📅 2026-06-09 - Set of icons representing programming languages, designing & development tools
-* [connors/photon](https://github.com/connors/photon) ⭐ 10,096 | 🐛 81 | 🌐 CSS | 📅 2026-04-03 - The fastest way to build beautiful Electron apps using simple HTML and CSS
-* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) ⭐ 9,965 | 🐛 54 | 🌐 CSS | 📅 2026-08-21 - :octocat: Dark GitHub style
+* [connors/photon](https://github.com/connors/photon) ⭐ 10,097 | 🐛 81 | 🌐 CSS | 📅 2026-04-03 - The fastest way to build beautiful Electron apps using simple HTML and CSS
+* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) ⭐ 9,967 | 🐛 54 | 🌐 CSS | 📅 2026-08-21 - :octocat: Dark GitHub style
 * [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) ⭐ 9,819 | 🐛 205 | 🌐 CSS | 📅 2025-06-22 - Custom Jupyter Notebook Themes
-* [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,482 | 🐛 5 | 🌐 CSS | 📅 2026-06-08 - List of awesome CSS frameworks in 2025
-* [mrmrs/colors](https://github.com/mrmrs/colors) ⭐ 9,408 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 - Smarter defaults for colors on the web.
-* [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) ⭐ 9,267 | 🐛 53 | 🌐 CSS | 📅 2024-04-06 - 🕶️ Awesome stuff for Obsidian
+* [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,488 | 🐛 5 | 🌐 CSS | 📅 2026-06-08 - List of awesome CSS frameworks in 2025
+* [mrmrs/colors](https://github.com/mrmrs/colors) ⭐ 9,409 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 - Smarter defaults for colors on the web.
+* [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) ⭐ 9,270 | 🐛 53 | 🌐 CSS | 📅 2024-04-06 - 🕶️ Awesome stuff for Obsidian
 * [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) ⭐ 7,053 | 🐛 21 | 🌐 CSS | 📅 2025-02-21 - A collection of loading spinners animated with CSS
 * [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) ⭐ 6,250 | 🐛 329 | 🌐 CSS | 📅 2026-06-25 - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
-* [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) ⭐ 6,000 | 🐛 9 | 🌐 CSS | 📅 2026-08-09 - The Missing Semester of Your CS Education 📚
-* [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) ⭐ 5,334 | 🐛 164 | 🌐 CSS | 📅 2026-08-03 - A distraction-free and highly customizable theme for Obsidian.
+* [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) ⭐ 6,004 | 🐛 9 | 🌐 CSS | 📅 2026-08-09 - The Missing Semester of Your CS Education 📚
+* [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) ⭐ 5,339 | 🐛 164 | 🌐 CSS | 📅 2026-08-03 - A distraction-free and highly customizable theme for Obsidian.
 * [assemble/assemble](https://github.com/assemble/assemble) ⭐ 4,252 | 🐛 28 | 🌐 CSS | 📅 2022-02-20 - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
-* [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) ⭐ 4,151 | 🐛 0 | 🌐 CSS | 📅 2020-08-01 - The 960 Grid System is an effort to streamline web development workflow.
+* [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) ⭐ 4,152 | 🐛 0 | 🌐 CSS | 📅 2020-08-01 - The 960 Grid System is an effort to streamline web development workflow.
 * [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) ⭐ 4,141 | 🐛 5 | 🌐 PHP | 📅 2026-08-19 - Your web application for managing personal data.  <personal.management.system.inbox@gmail.com>
-* [heroku/12factor](https://github.com/heroku/12factor) ⭐ 3,774 | 🐛 75 | 🌐 CSS | 📅 2026-07-04 -
-* [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) ⭐ 3,360 | 🐛 113 | 🌐 CSS | 📅 2024-12-01 - Personal theme for Obsidian
+* [heroku/12factor](https://github.com/heroku/12factor) ⭐ 3,775 | 🐛 75 | 🌐 CSS | 📅 2026-07-04 -
+* [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) ⭐ 3,361 | 🐛 113 | 🌐 CSS | 📅 2024-12-01 - Personal theme for Obsidian
 * [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) ⭐ 3,228 | 🐛 15 | 🌐 CSS | 📅 2026-07-08 - A model set of guidelines for RESTful APIs and Events, created by Zalando
-* [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) ⭐ 2,482 | 🐛 25 | 🌐 CSS | 📅 2026-05-30 - A theme for obsidian.md
+* [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) ⭐ 2,483 | 🐛 25 | 🌐 CSS | 📅 2026-05-30 - A theme for obsidian.md
 * [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) ⭐ 2,255 | 🐛 10 | 🌐 CSS | 📅 2024-08-29 - A dashboard for your obsidian vault.
 * [5t3ph/stylestage](https://github.com/5t3ph/stylestage) ⭐ 2,230 | 🐛 5 | 🌐 CSS | 📅 2026-01-17 - A modern CSS showcase styled by community contributions. Add your stylesheet!
 * [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) ⚠️ Archived - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 * [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) ⭐ 2,020 | 🐛 21 | 🌐 CSS | 📅 2026-07-30 - The best place to learn data engineering. Built and maintained by the data engineering community.
 * [secure-77/Perlite](https://github.com/secure-77/Perlite) ⭐ 1,975 | 🐛 10 | 🌐 CSS | 📅 2026-01-21 - A web-based markdown viewer optimized for Obsidian
-* [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) ⭐ 1,892 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-20 - Help documentation for Obsidian.
-* [braver/programmingfonts](https://github.com/braver/programmingfonts) ⭐ 1,808 | 🐛 11 | 🌐 CSS | 📅 2026-08-19 - Test drive programming fonts online: the definitive list of fonts for code.
-* [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) ⭐ 1,802 | 🐛 59 | 🌐 CSS | 📅 2024-09-01 - CSS Layout hack for Obsidian.md
+* [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) ⭐ 1,893 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-22 - Help documentation for Obsidian.
+* [braver/programmingfonts](https://github.com/braver/programmingfonts) ⭐ 1,811 | 🐛 11 | 🌐 CSS | 📅 2026-08-19 - Test drive programming fonts online: the definitive list of fonts for code.
+* [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) ⭐ 1,803 | 🐛 59 | 🌐 CSS | 📅 2024-09-01 - CSS Layout hack for Obsidian.md
 * [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) ⭐ 1,758 | 🐛 22 | 🌐 CSS | 📅 2024-03-08 - :arrow\_down\_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
 * [VinceG/Bootstrap-Admin-Theme](https://github.com/VinceG/Bootstrap-Admin-Theme) ⚠️ Archived - A generic admin theme built with Bootstrap free for both personal and commercial use.
 * [yihui/xaringan](https://github.com/yihui/xaringan) ⭐ 1,519 | 🐛 45 | 🌐 CSS | 📅 2025-08-18 - Presentation Ninja 幻灯忍者 · 写轮眼
-* [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) ⭐ 1,488 | 🐛 152 | 🌐 CSS | 📅 2024-06-28 - A directory of direct links to delete your account from web services.
-* [adobe/spectrum-css](https://github.com/adobe/spectrum-css) ⭐ 1,288 | 🐛 18 | 🌐 CSS | 📅 2026-08-20 - The standard CSS implementation of the Spectrum design language.
+* [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) ⭐ 1,490 | 🐛 152 | 🌐 CSS | 📅 2024-06-28 - A directory of direct links to delete your account from web services.
+* [adobe/spectrum-css](https://github.com/adobe/spectrum-css) ⭐ 1,289 | 🐛 18 | 🌐 CSS | 📅 2026-08-20 - The standard CSS implementation of the Spectrum design language.
 * [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) ⚠️ Archived - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 * [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) ⭐ 1,059 | 🐛 25 | 🌐 CSS | 📅 2026-06-08 - Use Checkout to quickly collect one-time payments.
 * [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) ⚠️ Archived - Resource hub for Obsidian resources.
-* [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) ⭐ 1,011 | 🐛 51 | 🌐 CSS | 📅 2026-06-07 - An Obsidian theme inspired by the beautifully-designed app, Things.
-* [typora/theme.typora.io](https://github.com/typora/theme.typora.io) ⭐ 950 | 🐛 65 | 🌐 CSS | 📅 2026-08-18 - Website for Typora themes
+* [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) ⭐ 1,012 | 🐛 51 | 🌐 CSS | 📅 2026-06-07 - An Obsidian theme inspired by the beautifully-designed app, Things.
+* [typora/theme.typora.io](https://github.com/typora/theme.typora.io) ⭐ 950 | 🐛 67 | 🌐 CSS | 📅 2026-08-18 - Website for Typora themes
 * [Athari/CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) ⚠️ Archived - (UserStyle) GitHub Windows Edition \[MIT]
 * [rstudio/shinydashboard](https://github.com/rstudio/shinydashboard) ⭐ 927 | 🐛 165 | 🌐 CSS | 📅 2025-04-22 - Shiny Dashboarding framework
 * [devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) ⭐ 924 | 🐛 65 | 🌐 CSS | 📅 2026-03-16 - Universal theme for Hugo, it stands out with its clean design and elegant typography.
@@ -1326,7 +1326,7 @@
 * [rstudio/bookdown-demo](https://github.com/rstudio/bookdown-demo) ⭐ 533 | 🐛 14 | 🌐 CSS | 📅 2024-10-23 - A minimal book example using bookdown
 * [mdo/github-wide](https://github.com/mdo/github-wide) ⭐ 500 | 🐛 7 | 🌐 CSS | 📅 2020-12-11 - Userstyle for making all of GitHub completely fluid.
 * [ericduran/chromeHAR](https://github.com/ericduran/chromeHAR) ⭐ 498 | 🐛 22 | 🌐 CSS | 📅 2026-03-07 - HAR viewer that mimics (or at least tries really hard to) Chromes network tab
-* [fontsource/font-files](https://github.com/fontsource/font-files) ⭐ 484 | 🐛 47 | 🌐 CSS | 📅 2026-08-16 - 1800+ open-source fonts bundled into neat packages.
+* [fontsource/font-files](https://github.com/fontsource/font-files) ⭐ 487 | 🐛 47 | 🌐 CSS | 📅 2026-08-23 - 1800+ open-source fonts bundled into neat packages.
 * [mdo/table-grid](https://github.com/mdo/table-grid) ⭐ 467 | 🐛 3 | 🌐 CSS | 📅 2023-03-23 - Simple CSS grid system using `display: table;`.
 * [daattali/shinycssloaders](https://github.com/daattali/shinycssloaders) ⭐ 422 | 🐛 3 | 🌐 CSS | 📅 2025-08-14 - ⌛ Add loading animations to a Shiny output while it's recalculating
 * [instantcommerce/shopify-headless-theme](https://github.com/instantcommerce/shopify-headless-theme) ⭐ 415 | 🐛 10 | 🌐 CSS | 📅 2024-05-02 - Liquid theme that automatically redirects customers to your custom storefront.
@@ -1360,7 +1360,7 @@
 * [gadenbuie/cleanrmd](https://github.com/gadenbuie/cleanrmd) ⭐ 155 | 🐛 11 | 🌐 CSS | 📅 2023-05-20 - 📄✨Clean Class-Less R Markdown HTML Documents
 * [rileytwo/darkstudio](https://github.com/rileytwo/darkstudio) ⭐ 154 | 🐛 14 | 🌐 CSS | 📅 2024-02-06 - darkstudio. A dark grey alternative to RStudio's default dark theme.
 * [codebushi/nextjs-starter-dimension](https://github.com/codebushi/nextjs-starter-dimension) ⭐ 149 | 🐛 4 | 🌐 CSS | 📅 2021-02-18 - Next.js static site starter based on the Dimension template.
-* [MIT-LCP/mimic-website](https://github.com/MIT-LCP/mimic-website) ⭐ 145 | 🐛 59 | 🌐 HTML | 📅 2026-07-27 - Website for the MIMIC Critical Care Database (currently version MIMIC-III)
+* [MIT-LCP/mimic-website](https://github.com/MIT-LCP/mimic-website) ⭐ 146 | 🐛 59 | 🌐 HTML | 📅 2026-07-27 - Website for the MIMIC Critical Care Database (currently version MIMIC-III)
 * [sjl/d](https://github.com/sjl/d) ⭐ 144 | 🐛 1 | 🌐 CSS | 📅 2026-03-05 - Markdown files to documentation.  Nothing else.
 * [RinteRface/argonDash](https://github.com/RinteRface/argonDash) ⭐ 143 | 🐛 9 | 🌐 CSS | 📅 2025-04-14 - argon dashboard template
 * [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) ⭐ 127 | 🐛 6 | 🌐 CSS | 📅 2024-01-06 - A shiny twitter conference dashboard
@@ -1450,7 +1450,7 @@
 * [ismailgunacar/gitsidian](https://github.com/ismailgunacar/gitsidian) ⭐ 23 | 🐛 5 | 🌐 CSS | 📅 2020-11-02 - An obsidian theme inspired by GitHub markdown styles
 * [rstudio-education/glossRy](https://github.com/rstudio-education/glossRy) ⭐ 23 | 🐛 0 | 🌐 CSS | 📅 2020-04-03 - A glossary of terms used in  and around data science.
 * [stubailo/meteor-markdown-templating](https://github.com/stubailo/meteor-markdown-templating) ⭐ 21 | 🐛 3 | 🌐 CSS | 📅 2017-05-05 - Make Meteor templates in .md files!
-* [ScottKirvan/GitHubDHC](https://github.com/ScottKirvan/GitHubDHC) ⭐ 19 | 🐛 2 | 🌐 CSS | 📅 2026-08-16 - Theme for Obsidian inspired by the GitHub Dark High Contrast theme
+* [ScottKirvan/GitHubDHC](https://github.com/ScottKirvan/GitHubDHC) ⭐ 19 | 🐛 2 | 🌐 CSS | 📅 2026-08-23 - Theme for Obsidian inspired by the GitHub Dark High Contrast theme
 * [kevin-powell/newsletter-sign-up-with-success-message-main](https://github.com/kevin-powell/newsletter-sign-up-with-success-message-main) ⭐ 18 | 🐛 0 | 🌐 CSS | 📅 2024-07-16 -
 * [juniors90/Flask-FomanticUI](https://github.com/juniors90/Flask-FomanticUI) ⭐ 18 | 🐛 2 | 🌐 CSS | 📅 2023-02-10 - Flask extension to allow easy embedding of Fomantic-UI CSS Framework.
 * [mkrd/Flask-Squeeze](https://github.com/mkrd/Flask-Squeeze) ⭐ 18 | 🐛 5 | 🌐 CSS | 📅 2026-02-20 - Automatically minify JS/CSS and compress all responses with brotli, defalte or gzip, with caching for static assets
@@ -1574,10 +1574,10 @@
 
 ## Clojure
 
-* [tonsky/FiraCode](https://github.com/tonsky/FiraCode) ⭐ 81,944 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28 - Free monospaced font with programming ligatures
-* [penpot/penpot](https://github.com/penpot/penpot) ⭐ 59,021 | 🐛 757 | 🌐 Clojure | 📅 2026-08-21 - Penpot: The open-source design tool for design and code collaboration
-* [metabase/metabase](https://github.com/metabase/metabase) ⭐ 48,879 | 🐛 4,393 | 🌐 Clojure | 📅 2026-08-22 - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-* [logseq/logseq](https://github.com/logseq/logseq) ⭐ 44,555 | 🐛 962 | 🌐 Clojure | 📅 2026-08-22 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  <http://github.com/logseq/logseq/releases> ⭐ 44,555 | 🐛 962 | 🌐 Clojure | 📅 2026-08-22. roadmap: <http://trello.com/b/8txSM12G/roadmap>
+* [tonsky/FiraCode](https://github.com/tonsky/FiraCode) ⭐ 81,945 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28 - Free monospaced font with programming ligatures
+* [penpot/penpot](https://github.com/penpot/penpot) ⭐ 59,058 | 🐛 757 | 🌐 Clojure | 📅 2026-08-21 - Penpot: The open-source design tool for design and code collaboration
+* [metabase/metabase](https://github.com/metabase/metabase) ⭐ 48,886 | 🐛 4,393 | 🌐 Clojure | 📅 2026-08-23 - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+* [logseq/logseq](https://github.com/logseq/logseq) ⭐ 44,574 | 🐛 959 | 🌐 Clojure | 📅 2026-08-23 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  <http://github.com/logseq/logseq/releases> ⭐ 44,574 | 🐛 959 | 🌐 Clojure | 📅 2026-08-23. roadmap: <http://trello.com/b/8txSM12G/roadmap>
 * [athensresearch/athens](https://github.com/athensresearch/athens) ⭐ 6,299 | 🐛 316 | 🌐 Clojure | 📅 2023-02-03 - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 * [krisajenkins/yesql](https://github.com/krisajenkins/yesql) ⭐ 1,498 | 🐛 58 | 🌐 Clojure | 📅 2024-11-23 - A Clojure library for using SQL.
 * [Factual/drake](https://github.com/Factual/drake) ⭐ 1,485 | 🐛 83 | 🌐 Clojure | 📅 2022-04-12 - Data workflow tool, like a "Make for data"
@@ -1587,7 +1587,7 @@
 
 ## CoffeeScript
 
-* [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) ⭐ 16,601 | 🐛 98 | 🌐 CoffeeScript | 📅 2024-03-22 - Unfancy JavaScript
+* [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) ⭐ 16,600 | 🐛 98 | 🌐 CoffeeScript | 📅 2024-03-22 - Unfancy JavaScript
 * [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) ⭐ 16,034 | 🐛 145 | 🌐 CoffeeScript | 📅 2024-08-19 - Low-Budget Password Strength Estimation
 * [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable) ⭐ 4,436 | 🐛 391 | 🌐 CoffeeScript | 📅 2024-01-06 - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.
 * [alexkirsz/dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) ⚠️ Archived - Combine internet connections, increase your download speed
@@ -1602,7 +1602,7 @@
 
 ## Common Lisp
 
-* [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) ⭐ 11,003 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - Nyxt - the hacker's browser.
+* [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) ⭐ 11,004 | 🐛 145 | 🌐 Common Lisp | 📅 2026-02-26 - Nyxt - the hacker's browser.
 * [dimitri/pgloader](https://github.com/dimitri/pgloader) ⭐ 6,499 | 🐛 27 | 🌐 Common Lisp | 📅 2026-07-24 - Migrate to PostgreSQL in a single command!
 * [jonathanabennett/projectwarrior](https://github.com/jonathanabennett/projectwarrior) ⭐ 16 | 🐛 1 | 🌐 Common Lisp | 📅 2023-05-03 - A suite of tools to guide a user through a thorough weekly review in the GTD format.
 * [miclill/next](https://github.com/miclill/next) ⭐ 6 | 🐛 0 | 🌐 Common Lisp | 📅 2018-11-03 - Next Browser - Be Productive.
@@ -1614,33 +1614,33 @@
 
 ## Crystal
 
-* [crystal-lang/crystal](https://github.com/crystal-lang/crystal) ⭐ 20,381 | 🐛 2,028 | 🌐 Crystal | 📅 2026-08-21 - The Crystal Programming Language
+* [crystal-lang/crystal](https://github.com/crystal-lang/crystal) ⭐ 20,381 | 🐛 2,030 | 🌐 Crystal | 📅 2026-08-23 - The Crystal Programming Language
 * [codacy/git-version](https://github.com/codacy/git-version) ⭐ 148 | 🐛 29 | 🌐 Crystal | 📅 2026-03-26 - Git versioning used in Codacy
 * [DFabric/dppm](https://github.com/DFabric/dppm) ⭐ 119 | 🐛 0 | 🌐 Crystal | 📅 2020-07-09 - An easy way to install and manage server applications
 
 ## Cuda
 
-* [karpathy/llm.c](https://github.com/karpathy/llm.c) ⭐ 30,845 | 🐛 224 | 🌐 Cuda | 📅 2025-06-26 - LLM training in simple, raw C/CUDA
+* [karpathy/llm.c](https://github.com/karpathy/llm.c) ⭐ 30,851 | 🐛 224 | 🌐 Cuda | 📅 2025-06-26 - LLM training in simple, raw C/CUDA
 
 ## D
 
-* [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,718 | 🐛 29 | 🌐 D | 📅 2026-08-21 - OneDrive Client for Linux
-* [dlang/dmd](https://github.com/dlang/dmd) ⭐ 3,301 | 🐛 3,828 | 🌐 D | 📅 2026-08-22 - dmd D Programming Language compiler
+* [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,723 | 🐛 29 | 🌐 D | 📅 2026-08-21 - OneDrive Client for Linux
+* [dlang/dmd](https://github.com/dlang/dmd) ⭐ 3,301 | 🐛 3,827 | 🌐 D | 📅 2026-08-23 - dmd D Programming Language compiler
 * [SenseLogic/RESYNC](https://github.com/SenseLogic/RESYNC) ⭐ 9 | 🐛 1 | 🌐 D | 📅 2022-02-16 - Non-destructive local folder synchronizer.
 
 ## Dart
 
-* [flutter/flutter](https://github.com/flutter/flutter) ⭐ 178,592 | 🐛 13,138 | 🌐 Dart | 📅 2026-08-22 - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-* [dart-lang/sdk](https://github.com/dart-lang/sdk) ⭐ 11,259 | 🐛 8,449 | 🌐 Dart | 📅 2026-08-22 - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+* [flutter/flutter](https://github.com/flutter/flutter) ⭐ 178,614 | 🐛 13,143 | 🌐 Dart | 📅 2026-08-23 - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+* [dart-lang/sdk](https://github.com/dart-lang/sdk) ⭐ 11,262 | 🐛 8,456 | 🌐 Dart | 📅 2026-08-22 - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) ⭐ 4,208 | 🐛 132 | 🌐 Dart | 📅 2026-05-26 - Mobile first Note Taking integrated with Git
-* [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) ⭐ 4,174 | 🐛 57 | 🌐 Dart | 📅 2023-12-22 - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
-* [gokadzev/Musify](https://github.com/gokadzev/Musify) ⭐ 4,154 | 🐛 28 | 🌐 Dart | 📅 2026-08-21 - Unlock the full potential of music: Stream effortlessly with one app!
-* [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) ⭐ 3,963 | 🐛 23 | 🌐 Dart | 📅 2026-04-14 - A GUI to quickly manage your WSL2 instances
+* [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) ⭐ 4,175 | 🐛 57 | 🌐 Dart | 📅 2023-12-22 - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
+* [gokadzev/Musify](https://github.com/gokadzev/Musify) ⭐ 4,161 | 🐛 27 | 🌐 Dart | 📅 2026-08-21 - Unlock the full potential of music: Stream effortlessly with one app!
+* [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) ⭐ 3,965 | 🐛 23 | 🌐 Dart | 📅 2026-04-14 - A GUI to quickly manage your WSL2 instances
 * [stablekernel/aqueduct](https://github.com/stablekernel/aqueduct) ⚠️ Archived - Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider.
 * [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) ⭐ 1,478 | 🐛 33 | 🌐 Dart | 📅 2023-07-13 - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
-* [hamaluik/timecop](https://github.com/hamaluik/timecop) ⭐ 880 | 🐛 46 | 🌐 Dart | 📅 2026-08-17 - A time tracking app that respects your privacy and the gets the job done without being fancy.
+* [hamaluik/timecop](https://github.com/hamaluik/timecop) ⭐ 880 | 🐛 47 | 🌐 Dart | 📅 2026-08-17 - A time tracking app that respects your privacy and the gets the job done without being fancy.
 * [flow-mn/flow](https://github.com/flow-mn/flow) ⭐ 480 | 🐛 23 | 🌐 Dart | 📅 2026-08-03 - A personal finance tracker app built with love, and Flutter
-* [nrubin29/finale](https://github.com/nrubin29/finale) ⭐ 174 | 🐛 33 | 🌐 Dart | 📅 2026-07-27 - A fully-featured Last.fm client and scrobbler with Shazam-like scrobbling, a collage generator, home screen widgets, and more!
+* [nrubin29/finale](https://github.com/nrubin29/finale) ⭐ 174 | 🐛 34 | 🌐 Dart | 📅 2026-07-27 - A fully-featured Last.fm client and scrobbler with Shazam-like scrobbling, a collage generator, home screen widgets, and more!
 * [sass/migrator](https://github.com/sass/migrator) ⭐ 106 | 🐛 33 | 🌐 Dart | 📅 2026-08-21 - Tool for migrating stylesheets to new Sass versions
 * [pbissonho/fast.cli](https://github.com/pbissonho/fast.cli) ⚠️ Archived - An incredible command line interface for Flutter.
 * [PuneetShivaay/Convert-Website-into-App](https://github.com/PuneetShivaay/Convert-Website-into-App) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2025-09-02 - You can convert your website into app. You need to just simply download this code and update the url to your website url.
@@ -1657,11 +1657,11 @@
 ## Dockerfile
 
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,599 | 🐛 137 | 🌐 Dockerfile | 📅 2026-06-15 - :white\_check\_mark:  The Node.js best practices list (July 2024)
-* [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,659 | 🐛 4,719 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-* [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) ⭐ 22,549 | 🐛 65 | 🌐 Dockerfile | 📅 2025-06-27 - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+* [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,658 | 🐛 4,718 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) ⭐ 22,570 | 🐛 65 | 🌐 Dockerfile | 📅 2025-06-27 - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 * [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) ⭐ 13,934 | 🐛 77 | 🌐 Dockerfile | 📅 2024-07-06 - Various Dockerfiles I use on the desktop and on servers.
-* [nodejs/docker-node](https://github.com/nodejs/docker-node) ⭐ 8,585 | 🐛 44 | 🌐 Dockerfile | 📅 2026-08-19 - Official Docker Image for Node.js :whale: :turtle: :rocket:
-* [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) ⭐ 4,146 | 🐛 1,331 | 🌐 Dockerfile | 📅 2026-01-23 - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+* [nodejs/docker-node](https://github.com/nodejs/docker-node) ⭐ 8,585 | 🐛 42 | 🌐 Dockerfile | 📅 2026-08-23 - Official Docker Image for Node.js :whale: :turtle: :rocket:
+* [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) ⭐ 4,147 | 🐛 1,333 | 🌐 Dockerfile | 📅 2026-01-23 - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 * [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) ⭐ 4,079 | 🐛 3 | 🌐 Dockerfile | 📅 2021-08-08 - Dockerfile best-practices for writing production-worthy Docker images.
 * [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) ⭐ 2,715 | 🐛 58 | 🌐 Dockerfile | 📅 2026-02-03 - This is the playbook for "code-with" customer or partner engagements
 * [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) ⭐ 2,621 | 🐛 57 | 🌐 Dockerfile | 📅 2025-10-31 - Run Obsidian.md in a browser via a docker container.
@@ -1669,10 +1669,10 @@
 * [techno-tim/launchpad](https://github.com/techno-tim/launchpad) ⭐ 1,729 | 🐛 10 | 🌐 Dockerfile | 📅 2026-06-23 - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 * [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) ⭐ 1,629 | 🐛 2 | 🌐 Dockerfile | 📅 2026-07-19 - Collect JS Frameworks, Web components library and Admin Template.
 * [postgis/docker-postgis](https://github.com/postgis/docker-postgis) ⭐ 1,595 | 🐛 51 | 🌐 Dockerfile | 📅 2026-06-19 - Docker image for PostGIS
-* [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) ⭐ 1,293 | 🐛 9 | 🌐 Dockerfile | 📅 2026-08-19 - Deploy 120+ open-source web apps with one Docker command
+* [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) ⭐ 1,294 | 🐛 9 | 🌐 Dockerfile | 📅 2026-08-19 - Deploy 120+ open-source web apps with one Docker command
 * [steren/awesome-cloud-run](https://github.com/steren/awesome-cloud-run) ⭐ 875 | 🐛 1 | 🌐 Dockerfile | 📅 2025-04-14 - 👓 ⏩ A curated list of resources about all things Cloud Run
 * [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) ⭐ 789 | 🐛 5 | 🌐 Dockerfile | 📅 2026-07-22 - Google Cloud CLI Docker Image - Docker Image containing the gcloud CLI and its bundled components.
-* [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) ⭐ 647 | 🐛 40 | 🌐 PHP | 📅 2026-04-02 - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
+* [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) ⭐ 646 | 🐛 40 | 🌐 PHP | 📅 2026-04-02 - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 * [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) ⭐ 536 | 🐛 40 | 🌐 Dockerfile | 📅 2026-08-20 - The official Docker images for Rust
 * [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) ⭐ 502 | 🐛 334 | 🌐 Dockerfile | 📅 2026-08-19 - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
 * [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) ⭐ 449 | 🐛 28 | 🌐 Dockerfile | 📅 2025-03-24 - Repository for building PowerShell Docker images
@@ -1691,7 +1691,7 @@
 * [openanalytics/shinyproxy-shiny-demo-minimal](https://github.com/openanalytics/shinyproxy-shiny-demo-minimal) ⭐ 80 | 🐛 1 | 🌐 Dockerfile | 📅 2024-05-21 - Running Shiny apps in ShinyProxy (minimal variant)
 * [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ⭐ 79 | 🐛 14 | 🌐 Dockerfile | 📅 2026-08-11 - GitHub Action for Chocolatey, the package manager for Windows
 * [rpodcast/r\_dev\_projects](https://github.com/rpodcast/r_dev_projects) ⭐ 77 | 🐛 15 | 🌐 Dockerfile | 📅 2023-10-25 - Boilerplate and configs for my R development projects
-* [galexrt/container-healthchecks](https://github.com/galexrt/container-healthchecks) ⭐ 64 | 🐛 2 | 🌐 Dockerfile | 📅 2026-07-29 - Simple to use Container Image for <https://github.com/healthchecks/healthchecks> ⭐ 10,277 | 🐛 53 | 🌐 Python | 📅 2026-08-21.
+* [galexrt/container-healthchecks](https://github.com/galexrt/container-healthchecks) ⭐ 64 | 🐛 2 | 🌐 Dockerfile | 📅 2026-07-29 - Simple to use Container Image for <https://github.com/healthchecks/healthchecks> ⭐ 10,278 | 🐛 53 | 🌐 Python | 📅 2026-08-21.
 * [Atemu/backblaze-personal-wine-container](https://github.com/Atemu/backblaze-personal-wine-container) ⭐ 58 | 🐛 4 | 🌐 Dockerfile | 📅 2022-01-22 - Run the Backblaze personal backup client in a container
 * [devopsjourney1/devops-project2021](https://github.com/devopsjourney1/devops-project2021) ⭐ 58 | 🐛 0 | 🌐 Dockerfile | 📅 2022-10-22 - Learn Vagrant, ANsible, Docker, DockerSwarm
 * [amjadraza/langchain-chainlit-docker-deployment-template](https://github.com/amjadraza/langchain-chainlit-docker-deployment-template) ⭐ 52 | 🐛 2 | 🌐 Dockerfile | 📅 2024-05-02 - A template to run Lanchain Powered App using Chainlit Front UI
@@ -1706,7 +1706,7 @@
 * [brandones/shiny-keycloak](https://github.com/brandones/shiny-keycloak) ⭐ 28 | 🐛 0 | 🌐 Dockerfile | 📅 2024-09-14 - How to set up R Shiny with ShinyProxy and KeyCloak
 * [ansible/team-devtools](https://github.com/ansible/team-devtools) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2026-08-17 - Shared practices, workflows and decisions impacting Ansible devtools projects
 * [webysther/aws-glue-docker](https://github.com/webysther/aws-glue-docker) ⚠️ Archived - 🐋 Docker image for AWS Glue Spark/Python
-* [hadley/available-work](https://github.com/hadley/available-work) ⭐ 21 | 🐛 2 | 🌐 R | 📅 2026-08-21 - Scrape Weston Lambert's available products
+* [hadley/available-work](https://github.com/hadley/available-work) ⭐ 21 | 🐛 2 | 🌐 R | 📅 2026-08-23 - Scrape Weston Lambert's available products
 * [nuest/rocker-win](https://github.com/nuest/rocker-win) ⭐ 20 | 🐛 5 | 🌐 Dockerfile | 📅 2019-12-19 - Proof-of-concept for R in Windows containers
 * [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) ⭐ 18 | 🐛 0 | 🌐 Shell | 📅 2026-07-22 - GitHub Action that will run TFlint on Terraform files.
 * [testcontainers/sshd-docker](https://github.com/testcontainers/sshd-docker) ⭐ 15 | 🐛 3 | 🌐 Dockerfile | 📅 2026-07-01 - Docker image with SSH daemon installed
@@ -1782,20 +1782,20 @@
 
 * [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) ⭐ 2,575 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-08 - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling
 * [aaronshaf/dynamodb-admin](https://github.com/aaronshaf/dynamodb-admin) ⭐ 1,482 | 🐛 38 | 🌐 EJS | 📅 2026-07-29 - GUI for DynamoDB Local or dynalite
-* [docker/multi-container-app](https://github.com/docker/multi-container-app) ⭐ 230 | 🐛 49 | 🌐 EJS | 📅 2026-06-04 -
+* [docker/multi-container-app](https://github.com/docker/multi-container-app) ⭐ 231 | 🐛 49 | 🌐 EJS | 📅 2026-06-04 -
 
 ## Elixir
 
-* [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ⭐ 26,606 | 🐛 25 | 🌐 Elixir | 📅 2026-08-22 - Elixir is a dynamic, functional language for building scalable and maintainable applications
+* [elixir-lang/elixir](https://github.com/elixir-lang/elixir) ⭐ 26,605 | 🐛 26 | 🌐 Elixir | 📅 2026-08-22 - Elixir is a dynamic, functional language for building scalable and maintainable applications
 * [supabase/realtime](https://github.com/supabase/realtime) ⭐ 7,624 | 🐛 77 | 🌐 Elixir | 📅 2026-08-22 - Broadcast, Presence, and Postgres Changes via WebSockets
 * [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) ⭐ 6,491 | 🐛 12 | 🌐 Elixir | 📅 2026-08-21 - A toolkit for data mapping and language integrated query.
-* [papercups-io/papercups](https://github.com/papercups-io/papercups) ⭐ 6,100 | 🐛 178 | 🌐 Elixir | 📅 2024-02-15 - Open-source live customer chat
-* [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) ⭐ 1,731 | 🐛 60 | 🌐 Java | 📅 2026-08-20 - The Standard Webhooks specification
+* [papercups-io/papercups](https://github.com/papercups-io/papercups) ⭐ 6,099 | 🐛 178 | 🌐 Elixir | 📅 2024-02-15 - Open-source live customer chat
+* [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) ⭐ 1,732 | 🐛 60 | 🌐 Java | 📅 2026-08-20 - The Standard Webhooks specification
 * [technomancy-dev/00](https://github.com/technomancy-dev/00) ⭐ 1,248 | 🐛 9 | 🌐 Elixir | 📅 2024-10-22 - A markdown email micro service for the people!
 * [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) ⭐ 952 | 🐛 0 | 🌐 Elixir | 📅 2026-02-01 - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 * [hashrocket/tilex](https://github.com/hashrocket/tilex) ⭐ 507 | 🐛 4 | 🌐 Elixir | 📅 2025-11-07 - Today I Learned
 * [peburrows/goth](https://github.com/peburrows/goth) ⭐ 325 | 🐛 20 | 🌐 Elixir | 📅 2024-12-20 - Elixir package for Oauth authentication via Google Cloud APIs
-* [fuelen/ecto\_erd](https://github.com/fuelen/ecto_erd) ⭐ 243 | 🐛 5 | 🌐 Elixir | 📅 2026-08-22 - A mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.
+* [fuelen/ecto\_erd](https://github.com/fuelen/ecto_erd) ⭐ 244 | 🐛 5 | 🌐 Elixir | 📅 2026-08-22 - A mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.
 * [Arp-G/csv2sql](https://github.com/Arp-G/csv2sql) ⭐ 58 | 🐛 25 | 🌐 Elixir | 📅 2026-07-18 - A blazing fast fully-automated CSV to database importer
 * [mikefrobbins/powershelldle](https://github.com/mikefrobbins/powershelldle) ⭐ 1 | 🐛 0 | 📅 2024-02-07 - PDQ's premier PowerShell game
 
@@ -1808,12 +1808,12 @@
 
 ## Emacs Lisp
 
-* [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,559 | 🐛 66 | 🌐 Emacs Lisp | 📅 2026-08-18 - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-* [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) ⭐ 22,606 | 🐛 490 | 🌐 Emacs Lisp | 📅 2026-08-21 - An Emacs framework for the stubborn martian hacker
-* [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) ⭐ 5,169 | 🐛 16 | 🌐 Emacs Lisp | 📅 2026-08-22 - Mirror of GNU Emacs
+* [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,559 | 🐛 62 | 🌐 Emacs Lisp | 📅 2026-08-22 - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+* [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) ⭐ 22,611 | 🐛 490 | 🌐 Emacs Lisp | 📅 2026-08-23 - An Emacs framework for the stubborn martian hacker
+* [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) ⭐ 5,166 | 🐛 16 | 🌐 Emacs Lisp | 📅 2026-08-23 - Mirror of GNU Emacs
 * [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) ⭐ 3,560 | 🐛 7 | 🌐 Emacs Lisp | 📅 2026-08-07 - Awesome Typst Links
 * [gf3/dotfiles](https://github.com/gf3/dotfiles) ⭐ 1,123 | 🐛 2 | 🌐 Emacs Lisp | 📅 2026-01-19 - Configurations for the tools I use every day
-* [daviwil/dotfiles](https://github.com/daviwil/dotfiles) ⭐ 893 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-07-10 - \[MIRROR] The path to GNUrvana
+* [daviwil/dotfiles](https://github.com/daviwil/dotfiles) ⭐ 894 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-07-10 - \[MIRROR] The path to GNUrvana
 * [radian-software/radian](https://github.com/radian-software/radian) ⭐ 517 | 🐛 10 | 🌐 Emacs Lisp | 📅 2026-08-19 - 🍉 Dotfiles that marry elegance and practicality.
 * [tuh8888/chezmoi.el](https://github.com/tuh8888/chezmoi.el) ⭐ 111 | 🐛 15 | 🌐 Emacs Lisp | 📅 2023-07-26 - An emacs package for interacting with chezmoi.
 * [Vidianos-Giannitsis/Dotfiles](https://github.com/Vidianos-Giannitsis/Dotfiles) ⭐ 36 | 🐛 0 | 🌐 Emacs Lisp | 📅 2025-11-30 - Just a repository for my dotfiles
@@ -1822,15 +1822,15 @@
 * [yihui/configuration](https://github.com/yihui/configuration) ⭐ 9 | 🐛 0 | 🌐 Emacs Lisp | 📅 2015-08-13 - My configuration files
 * [Atemu/dotfiles](https://github.com/Atemu/dotfiles) ⚠️ Archived - My dotfiles
 * [kemono/dotfiles](https://github.com/kemono/dotfiles) ⭐ 2 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-06-10 - My environment
-* [cole-brokamp/dotfiles](https://github.com/cole-brokamp/dotfiles) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2026-08-13 - dotfiles
+* [cole-brokamp/dotfiles](https://github.com/cole-brokamp/dotfiles) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2026-08-22 - dotfiles
 
 ## Erlang
 
-* [erlang/otp](https://github.com/erlang/otp) ⭐ 12,328 | 🐛 600 | 🌐 Erlang | 📅 2026-08-21 - Erlang/OTP
+* [erlang/otp](https://github.com/erlang/otp) ⭐ 12,329 | 🐛 600 | 🌐 Erlang | 📅 2026-08-21 - Erlang/OTP
 
 ## F\#
 
-* [dotnet/fsharp](https://github.com/dotnet/fsharp) ⭐ 4,322 | 🐛 1,260 | 🌐 F# | 📅 2026-08-22 - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
+* [dotnet/fsharp](https://github.com/dotnet/fsharp) ⭐ 4,322 | 🐛 1,260 | 🌐 F# | 📅 2026-08-23 - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
 * [fsprojects/Paket](https://github.com/fsprojects/Paket) ⭐ 2,082 | 🐛 786 | 🌐 F# | 📅 2026-01-20 - A dependency manager for .NET with support for NuGet packages and Git repositories.
 * [fslaborg/RProvider](https://github.com/fslaborg/RProvider) ⭐ 244 | 🐛 24 | 🌐 F# | 📅 2026-08-16 - Access R packages from F#
 * [DigitalAXPP/jwtPS](https://github.com/DigitalAXPP/jwtPS) ⭐ 17 | 🐛 1 | 🌐 F# | 📅 2023-12-11 - This module generates JSON Web Tokens in PowerShell.
@@ -1838,7 +1838,7 @@
 
 ## Fortran
 
-* [wrf-model/WRF](https://github.com/wrf-model/WRF) ⭐ 1,736 | 🐛 223 | 🌐 Fortran | 📅 2026-07-27 - The official repository for the Weather Research and Forecasting (WRF) model
+* [wrf-model/WRF](https://github.com/wrf-model/WRF) ⭐ 1,737 | 🐛 223 | 🌐 Fortran | 📅 2026-07-27 - The official repository for the Weather Research and Forecasting (WRF) model
 
 ## FreeBASIC
 
@@ -1851,254 +1851,254 @@
 
 ## Frege
 
-* [Frege/frege](https://github.com/Frege/frege) ⭐ 3,711 | 🐛 44 | 🌐 Frege | 📅 2026-07-11 - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.
+* [Frege/frege](https://github.com/Frege/frege) ⭐ 3,712 | 🐛 44 | 🌐 Frege | 📅 2026-07-11 - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.
 
 ## GSC
 
-* [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) ⭐ 756 | 🐛 29 | 🌐 GSC | 📅 2024-05-18 - 🐾 A Improved Replacement for Microsoft Disk Cleanup
+* [builtbybel/CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) ⭐ 757 | 🐛 29 | 🌐 GSC | 📅 2024-05-18 - 🐾 A Improved Replacement for Microsoft Disk Cleanup
 
 ## Git Attributes
 
-* [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) ⭐ 3,846 | 🐛 23 | 🌐 Git Attributes | 📅 2026-07-22 - A collection of useful .gitattributes templates
+* [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) ⭐ 3,847 | 🐛 23 | 🌐 Git Attributes | 📅 2026-07-22 - A collection of useful .gitattributes templates
 
 ## Go
 
-* [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,946 | 🐛 215 | 🌐 Go | 📅 2026-08-21 - A curated list of awesome Go frameworks, libraries and software
-* [ollama/ollama](https://github.com/ollama/ollama) ⭐ 179,177 | 🐛 3,777 | 🌐 Go | 📅 2026-08-22 - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-* [golang/go](https://github.com/golang/go) ⭐ 136,141 | 🐛 10,107 | 🌐 Go | 📅 2026-08-22 - The Go programming language
-* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 124,871 | 🐛 3,003 | 🌐 Go | 📅 2026-08-21 - Production-Grade Container Scheduling and Management
-* [gohugoio/hugo](https://github.com/gohugoio/hugo) ⭐ 89,486 | 🐛 246 | 🌐 Go | 📅 2026-08-20 - The world’s fastest framework for building websites.
-* [syncthing/syncthing](https://github.com/syncthing/syncthing) ⭐ 87,873 | 🐛 375 | 🌐 Go | 📅 2026-08-22 - Open Source Continuous File Synchronization
-* [junegunn/fzf](https://github.com/junegunn/fzf) ⭐ 82,608 | 🐛 330 | 🌐 Go | 📅 2026-08-21 - :cherry\_blossom: A command-line fuzzy finder
-* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,544 | 🐛 1,025 | 🌐 Go | 📅 2026-08-21 - simple terminal UI for git commands
-* [caddyserver/caddy](https://github.com/caddyserver/caddy) ⭐ 75,109 | 🐛 272 | 🌐 Go | 📅 2026-08-22 - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-* [moby/moby](https://github.com/moby/moby) ⭐ 71,993 | 🐛 3,898 | 🌐 Go | 📅 2026-08-21 - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-* [daytonaio/daytona](https://github.com/daytonaio/daytona) ⭐ 71,917 | 🐛 442 | 📅 2026-07-24 - The Open Source Dev Environment Manager.
-* [nektos/act](https://github.com/nektos/act) ⭐ 71,597 | 🐛 363 | 🌐 Go | 📅 2026-08-09 - Run your GitHub Actions locally 🚀
-* [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐ 65,770 | 🐛 916 | 🌐 Go | 📅 2026-08-22 - The Prometheus monitoring system and time series database.
-* [traefik/traefik](https://github.com/traefik/traefik) ⭐ 64,535 | 🐛 914 | 🌐 Go | 📅 2026-08-21 - The Cloud Native Application Proxy
+* [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,029 | 🐛 216 | 🌐 Go | 📅 2026-08-21 - A curated list of awesome Go frameworks, libraries and software
+* [ollama/ollama](https://github.com/ollama/ollama) ⭐ 179,251 | 🐛 3,782 | 🌐 Go | 📅 2026-08-22 - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+* [golang/go](https://github.com/golang/go) ⭐ 136,184 | 🐛 10,115 | 🌐 Go | 📅 2026-08-23 - The Go programming language
+* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 124,920 | 🐛 3,010 | 🌐 Go | 📅 2026-08-21 - Production-Grade Container Scheduling and Management
+* [gohugoio/hugo](https://github.com/gohugoio/hugo) ⭐ 89,501 | 🐛 248 | 🌐 Go | 📅 2026-08-20 - The world’s fastest framework for building websites.
+* [syncthing/syncthing](https://github.com/syncthing/syncthing) ⭐ 87,900 | 🐛 376 | 🌐 Go | 📅 2026-08-22 - Open Source Continuous File Synchronization
+* [junegunn/fzf](https://github.com/junegunn/fzf) ⭐ 82,618 | 🐛 327 | 🌐 Go | 📅 2026-08-23 - :cherry\_blossom: A command-line fuzzy finder
+* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,570 | 🐛 1,025 | 🌐 Go | 📅 2026-08-21 - simple terminal UI for git commands
+* [caddyserver/caddy](https://github.com/caddyserver/caddy) ⭐ 75,138 | 🐛 273 | 🌐 Go | 📅 2026-08-22 - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+* [moby/moby](https://github.com/moby/moby) ⭐ 71,992 | 🐛 3,899 | 🌐 Go | 📅 2026-08-22 - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+* [daytonaio/daytona](https://github.com/daytonaio/daytona) ⭐ 71,914 | 🐛 442 | 📅 2026-07-24 - The Open Source Dev Environment Manager.
+* [nektos/act](https://github.com/nektos/act) ⭐ 71,610 | 🐛 363 | 🌐 Go | 📅 2026-08-09 - Run your GitHub Actions locally 🚀
+* [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐ 65,785 | 🐛 922 | 🌐 Go | 📅 2026-08-23 - The Prometheus monitoring system and time series database.
+* [traefik/traefik](https://github.com/traefik/traefik) ⭐ 64,545 | 🐛 916 | 🌐 Go | 📅 2026-08-21 - The Cloud Native Application Proxy
 * [minio/minio](https://github.com/minio/minio) ⚠️ Archived - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-* [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) ⭐ 60,768 | 🐛 20 | 🌐 Go | 📅 2026-08-22 - Open Source realtime backend in 1 file
-* [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,479 | 🐛 178 | 🌐 Go | 📅 2024-08-13 - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-* [rclone/rclone](https://github.com/rclone/rclone) ⭐ 59,311 | 🐛 1,244 | 🌐 Go | 📅 2026-08-21 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-* [go-gitea/gitea](https://github.com/go-gitea/gitea) ⭐ 57,544 | 🐛 2,535 | 🌐 Go | 📅 2026-08-22 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-* [wagoodman/dive](https://github.com/wagoodman/dive) ⭐ 54,482 | 🐛 212 | 🌐 Go | 📅 2025-12-15 - A tool for exploring each layer in a docker image
-* [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 52,573 | 🐛 292 | 🌐 Go | 📅 2026-04-19 - The lazier way to manage everything docker
-* [etcd-io/etcd](https://github.com/etcd-io/etcd) ⭐ 52,154 | 🐛 322 | 🌐 Go | 📅 2026-08-20 - Distributed reliable key-value store for the most critical data of a distributed system
-* [hashicorp/terraform](https://github.com/hashicorp/terraform) ⭐ 49,510 | 🐛 1,915 | 🌐 Go | 📅 2026-08-21 - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
-* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,438 | 🐛 83 | 🌐 Go | 📅 2026-04-17 - A node.js version management utility for Windows. Ironically written in Go.
-* [cli/cli](https://github.com/cli/cli) ⭐ 45,938 | 🐛 1,093 | 🌐 Go | 📅 2026-08-21 - GitHub’s official command line tool
-* [danielmiessler/fabric](https://github.com/danielmiessler/fabric) ⭐ 43,493 | 🐛 63 | 🌐 Go | 📅 2026-08-09 - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-* [schollz/croc](https://github.com/schollz/croc) ⭐ 40,028 | 🐛 4 | 🌐 Go | 📅 2026-08-22 - Easily and securely send things from one computer to another :crocodile: :package:
-* [harness/harness](https://github.com/harness/harness) ⭐ 38,078 | 🐛 107 | 🌐 Go | 📅 2026-08-21 - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-* [docker/compose](https://github.com/docker/compose) ⭐ 38,042 | 🐛 94 | 🌐 Go | 📅 2026-08-21 - Define and run multi-container applications with Docker
-* [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) ⭐ 37,111 | 🐛 831 | 🌐 Go | 📅 2025-08-06 - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-* [hashicorp/vault](https://github.com/hashicorp/vault) ⭐ 36,153 | 🐛 1,429 | 🌐 Go | 📅 2026-08-21 - A tool for secrets management, encryption as a service, and privileged access management
-* [wailsapp/wails](https://github.com/wailsapp/wails) ⭐ 35,926 | 🐛 305 | 🌐 Go | 📅 2026-08-22 - Create beautiful applications using Go
-* [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) ⭐ 35,920 | 🐛 1 | 🌐 Go | 📅 2026-07-31 - 📂 Web File Browser
-* [restic/restic](https://github.com/restic/restic) ⭐ 35,653 | 🐛 576 | 🌐 Go | 📅 2026-08-01 - Fast, secure, efficient backup program
-* [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) ⭐ 34,204 | 🐛 775 | 🌐 Go | 📅 2026-08-22 - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
-* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) ⭐ 33,682 | 🐛 363 | 🌐 Go | 📅 2026-08-20 - Send push notifications to your phone or desktop using PUT/POST
-* [containers/podman](https://github.com/containers/podman) ⭐ 32,663 | 🐛 1,132 | 🌐 Go | 📅 2026-08-21 - Podman: A tool for managing OCI containers and pods.
-* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,648 | 🐛 109 | 🌐 Go | 📅 2026-08-20 - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
-* [hashicorp/consul](https://github.com/hashicorp/consul) ⭐ 30,037 | 🐛 1,414 | 🌐 Go | 📅 2026-08-22 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-* [zyedidia/micro](https://github.com/zyedidia/micro) ⭐ 29,415 | 🐛 1,033 | 🌐 Go | 📅 2026-08-22 - A modern and intuitive terminal-based text editor
-* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 28,901 | 🐛 461 | 🌐 Go | 📅 2026-08-19 - Find secrets with Gitleaks 🔑
-* [authelia/authelia](https://github.com/authelia/authelia) ⭐ 28,645 | 🐛 118 | 🌐 Go | 📅 2026-08-22 - The Single Sign-On Multi-Factor portal for web apps
-* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐ 28,587 | 🐛 152 | 🌐 Go | 📅 2026-08-02 - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-* [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) ⭐ 27,241 | 🐛 5 | 🌐 Go | 📅 2026-08-22 - A cross-platform launcher that simply works
-* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 27,001 | 🐛 221 | 🌐 Go | 📅 2026-08-16 - Render markdown on the CLI, with pizzazz! 💅🏻
-* [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) ⭐ 26,209 | 🐛 1 | 🌐 Go | 📅 2026-08-19 - Learn and understand Docker\&Container technologies, with real DevOps practice!
-* [rancher/rancher](https://github.com/rancher/rancher) ⭐ 25,867 | 🐛 3,351 | 🌐 Go | 📅 2026-08-22 - Complete container management platform
-* [pulumi/pulumi](https://github.com/pulumi/pulumi) ⭐ 25,598 | 🐛 2,449 | 🌐 Go | 📅 2026-08-22 - Pulumi - Infrastructure as Code in any programming language 🚀
-* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) ⭐ 25,538 | 🐛 151 | 🌐 Go | 📅 2026-08-12 - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-* [dolthub/dolt](https://github.com/dolthub/dolt) ⭐ 24,250 | 🐛 703 | 🌐 Go | 📅 2026-08-22 - Dolt – Git for Data
-* [slimtoolkit/slim](https://github.com/slimtoolkit/slim) ⭐ 23,400 | 🐛 211 | 🌐 Go | 📅 2026-08-02 - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-* [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐ 23,327 | 🐛 17 | 🌐 Go | 📅 2026-08-21 - The most customisable and low-latency cross platform/shell prompt renderer
-* [navidrome/navidrome](https://github.com/navidrome/navidrome) ⭐ 23,033 | 🐛 263 | 🌐 Go | 📅 2026-08-22 - 🎧☁️ Your Personal Streaming Service
+* [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) ⭐ 60,780 | 🐛 19 | 🌐 Go | 📅 2026-08-23 - Open Source realtime backend in 1 file
+* [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,488 | 🐛 178 | 🌐 Go | 📅 2024-08-13 - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+* [rclone/rclone](https://github.com/rclone/rclone) ⭐ 59,326 | 🐛 1,248 | 🌐 Go | 📅 2026-08-21 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+* [go-gitea/gitea](https://github.com/go-gitea/gitea) ⭐ 57,556 | 🐛 2,525 | 🌐 Go | 📅 2026-08-23 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+* [wagoodman/dive](https://github.com/wagoodman/dive) ⭐ 54,484 | 🐛 211 | 🌐 Go | 📅 2025-12-15 - A tool for exploring each layer in a docker image
+* [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 52,582 | 🐛 295 | 🌐 Go | 📅 2026-04-19 - The lazier way to manage everything docker
+* [etcd-io/etcd](https://github.com/etcd-io/etcd) ⭐ 52,158 | 🐛 322 | 🌐 Go | 📅 2026-08-20 - Distributed reliable key-value store for the most critical data of a distributed system
+* [hashicorp/terraform](https://github.com/hashicorp/terraform) ⭐ 49,514 | 🐛 1,915 | 🌐 Go | 📅 2026-08-21 - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
+* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,444 | 🐛 83 | 🌐 Go | 📅 2026-04-17 - A node.js version management utility for Windows. Ironically written in Go.
+* [cli/cli](https://github.com/cli/cli) ⭐ 45,949 | 🐛 1,076 | 🌐 Go | 📅 2026-08-21 - GitHub’s official command line tool
+* [danielmiessler/fabric](https://github.com/danielmiessler/fabric) ⭐ 43,503 | 🐛 63 | 🌐 Go | 📅 2026-08-09 - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+* [schollz/croc](https://github.com/schollz/croc) ⭐ 40,056 | 🐛 3 | 🌐 Go | 📅 2026-08-23 - Easily and securely send things from one computer to another :crocodile: :package:
+* [harness/harness](https://github.com/harness/harness) ⭐ 38,087 | 🐛 107 | 🌐 Go | 📅 2026-08-21 - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+* [docker/compose](https://github.com/docker/compose) ⭐ 38,047 | 🐛 96 | 🌐 Go | 📅 2026-08-21 - Define and run multi-container applications with Docker
+* [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) ⭐ 37,116 | 🐛 831 | 🌐 Go | 📅 2025-08-06 - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+* [hashicorp/vault](https://github.com/hashicorp/vault) ⭐ 36,156 | 🐛 1,429 | 🌐 Go | 📅 2026-08-21 - A tool for secrets management, encryption as a service, and privileged access management
+* [wailsapp/wails](https://github.com/wailsapp/wails) ⭐ 35,934 | 🐛 310 | 🌐 Go | 📅 2026-08-23 - Create beautiful applications using Go
+* [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) ⭐ 35,927 | 🐛 1 | 🌐 Go | 📅 2026-07-31 - 📂 Web File Browser
+* [restic/restic](https://github.com/restic/restic) ⭐ 35,671 | 🐛 576 | 🌐 Go | 📅 2026-08-01 - Fast, secure, efficient backup program
+* [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) ⭐ 34,221 | 🐛 774 | 🌐 Go | 📅 2026-08-23 - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) ⭐ 33,702 | 🐛 363 | 🌐 Go | 📅 2026-08-20 - Send push notifications to your phone or desktop using PUT/POST
+* [containers/podman](https://github.com/containers/podman) ⭐ 32,667 | 🐛 1,135 | 🌐 Go | 📅 2026-08-23 - Podman: A tool for managing OCI containers and pods.
+* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,683 | 🐛 107 | 🌐 Go | 📅 2026-08-20 - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
+* [hashicorp/consul](https://github.com/hashicorp/consul) ⭐ 30,038 | 🐛 1,414 | 🌐 Go | 📅 2026-08-22 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* [zyedidia/micro](https://github.com/zyedidia/micro) ⭐ 29,427 | 🐛 1,033 | 🌐 Go | 📅 2026-08-23 - A modern and intuitive terminal-based text editor
+* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 28,920 | 🐛 461 | 🌐 Go | 📅 2026-08-19 - Find secrets with Gitleaks 🔑
+* [authelia/authelia](https://github.com/authelia/authelia) ⭐ 28,661 | 🐛 119 | 🌐 Go | 📅 2026-08-23 - The Single Sign-On Multi-Factor portal for web apps
+* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐ 28,591 | 🐛 152 | 🌐 Go | 📅 2026-08-02 - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+* [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) ⭐ 27,244 | 🐛 4 | 🌐 Go | 📅 2026-08-23 - A cross-platform launcher that simply works
+* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 27,009 | 🐛 222 | 🌐 Go | 📅 2026-08-16 - Render markdown on the CLI, with pizzazz! 💅🏻
+* [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) ⭐ 26,210 | 🐛 1 | 🌐 Go | 📅 2026-08-23 - Learn and understand Docker\&Container technologies, with real DevOps practice!
+* [rancher/rancher](https://github.com/rancher/rancher) ⭐ 25,867 | 🐛 3,344 | 🌐 Go | 📅 2026-08-23 - Complete container management platform
+* [pulumi/pulumi](https://github.com/pulumi/pulumi) ⭐ 25,602 | 🐛 2,450 | 🌐 Go | 📅 2026-08-23 - Pulumi - Infrastructure as Code in any programming language 🚀
+* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) ⭐ 25,540 | 🐛 151 | 🌐 Go | 📅 2026-08-12 - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+* [dolthub/dolt](https://github.com/dolthub/dolt) ⭐ 24,257 | 🐛 709 | 🌐 Go | 📅 2026-08-23 - Dolt – Git for Data
+* [slimtoolkit/slim](https://github.com/slimtoolkit/slim) ⭐ 23,402 | 🐛 211 | 🌐 Go | 📅 2026-08-02 - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+* [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐ 23,333 | 🐛 18 | 🌐 Go | 📅 2026-08-21 - The most customisable and low-latency cross platform/shell prompt renderer
+* [navidrome/navidrome](https://github.com/navidrome/navidrome) ⭐ 23,067 | 🐛 264 | 🌐 Go | 📅 2026-08-23 - 🎧☁️ Your Personal Streaming Service
 * [mislav/hub](https://github.com/mislav/hub) ⭐ 22,955 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - A command-line tool that makes git easier to use with GitHub.
-* [getsops/sops](https://github.com/getsops/sops) ⭐ 22,886 | 🐛 441 | 🌐 Go | 📅 2026-08-17 - Simple and flexible tool for managing secrets
-* [go-chi/chi](https://github.com/go-chi/chi) ⭐ 22,712 | 🐛 84 | 🌐 Go | 📅 2026-08-20 - lightweight, idiomatic and composable router for building Go HTTP services
-* [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,250 | 🐛 60 | 🌐 Go | 📅 2026-08-20 - Manage your dotfiles across multiple diverse machines, securely.
-* [qax-os/excelize](https://github.com/qax-os/excelize) ⭐ 20,866 | 🐛 134 | 🌐 Go | 📅 2026-08-22 - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-* [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐ 20,858 | 🐛 57 | 🌐 Go | 📅 2026-08-11 - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+* [getsops/sops](https://github.com/getsops/sops) ⭐ 22,899 | 🐛 443 | 🌐 Go | 📅 2026-08-17 - Simple and flexible tool for managing secrets
+* [go-chi/chi](https://github.com/go-chi/chi) ⭐ 22,716 | 🐛 84 | 🌐 Go | 📅 2026-08-20 - lightweight, idiomatic and composable router for building Go HTTP services
+* [twpayne/chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,268 | 🐛 60 | 🌐 Go | 📅 2026-08-23 - Manage your dotfiles across multiple diverse machines, securely.
+* [qax-os/excelize](https://github.com/qax-os/excelize) ⭐ 20,867 | 🐛 133 | 🌐 Go | 📅 2026-08-23 - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+* [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐ 20,861 | 🐛 57 | 🌐 Go | 📅 2026-08-11 - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 * [antonmedv/fx](https://github.com/antonmedv/fx) ⭐ 20,587 | 🐛 25 | 🌐 Go | 📅 2026-07-28 - Terminal JSON viewer & processor
 * [yudai/gotty](https://github.com/yudai/gotty) ⭐ 19,548 | 🐛 158 | 🌐 Go | 📅 2024-08-01 - Share your terminal as a web application
-* [google/gvisor](https://github.com/google/gvisor) ⭐ 19,136 | 🐛 866 | 🌐 Go | 📅 2026-08-22 - Application Kernel for Containers
-* [golang-migrate/migrate](https://github.com/golang-migrate/migrate) ⭐ 18,844 | 🐛 488 | 🌐 Go | 📅 2026-07-05 - Database migrations. CLI and Golang library.
-* [bcicen/ctop](https://github.com/bcicen/ctop) ⭐ 17,824 | 🐛 121 | 🌐 Go | 📅 2024-07-08 - Top-like interface for container metrics
-* [hashicorp/nomad](https://github.com/hashicorp/nomad) ⭐ 16,824 | 🐛 1,634 | 🌐 Go | 📅 2026-08-21 - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
-* [dagger/dagger](https://github.com/dagger/dagger) ⭐ 16,191 | 🐛 141 | 🌐 Go | 📅 2026-08-22 - An engine to run your pipelines in containers
-* [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,889 | 🐛 907 | 🌐 Go | 📅 2026-08-20 - Easy and Repeatable Kubernetes Development
-* [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) ⭐ 15,882 | 🐛 62 | 🌐 Go | 📅 2026-06-13 - Easy and fast file sharing from the command-line.
+* [google/gvisor](https://github.com/google/gvisor) ⭐ 19,142 | 🐛 793 | 🌐 Go | 📅 2026-08-22 - Application Kernel for Containers
+* [golang-migrate/migrate](https://github.com/golang-migrate/migrate) ⭐ 18,844 | 🐛 489 | 🌐 Go | 📅 2026-07-05 - Database migrations. CLI and Golang library.
+* [bcicen/ctop](https://github.com/bcicen/ctop) ⭐ 17,823 | 🐛 121 | 🌐 Go | 📅 2024-07-08 - Top-like interface for container metrics
+* [hashicorp/nomad](https://github.com/hashicorp/nomad) ⭐ 16,825 | 🐛 1,634 | 🌐 Go | 📅 2026-08-21 - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
+* [dagger/dagger](https://github.com/dagger/dagger) ⭐ 16,195 | 🐛 142 | 🌐 Go | 📅 2026-08-22 - An engine to run your pipelines in containers
+* [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,888 | 🐛 907 | 🌐 Go | 📅 2026-08-20 - Easy and Repeatable Kubernetes Development
+* [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) ⭐ 15,884 | 🐛 62 | 🌐 Go | 📅 2026-06-13 - Easy and fast file sharing from the command-line.
 * [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) ⚠️ Archived - Build Container Images In Kubernetes
-* [hashicorp/packer](https://github.com/hashicorp/packer) ⭐ 15,763 | 🐛 317 | 🌐 Go | 📅 2026-08-22 - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-* [plandex-ai/plandex](https://github.com/plandex-ai/plandex) ⭐ 15,590 | 🐛 60 | 🌐 Go | 📅 2025-10-03 - AI driven development in your terminal. Designed for large, real-world tasks.
+* [hashicorp/packer](https://github.com/hashicorp/packer) ⭐ 15,762 | 🐛 317 | 🌐 Go | 📅 2026-08-23 - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+* [plandex-ai/plandex](https://github.com/plandex-ai/plandex) ⭐ 15,593 | 🐛 60 | 🌐 Go | 📅 2025-10-03 - AI driven development in your terminal. Designed for large, real-world tasks.
 * [helm/charts](https://github.com/helm/charts) ⚠️ Archived - ⚠️(OBSOLETE) Curated applications for Kubernetes
-* [direnv/direnv](https://github.com/direnv/direnv) ⭐ 15,390 | 🐛 462 | 🌐 Go | 📅 2026-03-31 - unclutter your .profile
-* [muesli/duf](https://github.com/muesli/duf) ⭐ 15,266 | 🐛 82 | 🌐 Go | 📅 2026-01-13 - Disk Usage/Free Utility - a better 'df' alternative
-* [txthinking/brook](https://github.com/txthinking/brook) ⭐ 15,160 | 🐛 23 | 🌐 Go | 📅 2026-02-25 - A cross-platform programmable network tool
+* [direnv/direnv](https://github.com/direnv/direnv) ⭐ 15,391 | 🐛 462 | 🌐 Go | 📅 2026-03-31 - unclutter your .profile
+* [muesli/duf](https://github.com/muesli/duf) ⭐ 15,268 | 🐛 82 | 🌐 Go | 📅 2026-01-13 - Disk Usage/Free Utility - a better 'df' alternative
+* [txthinking/brook](https://github.com/txthinking/brook) ⭐ 15,162 | 🐛 23 | 🌐 Go | 📅 2026-02-25 - A cross-platform programmable network tool
 * [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) ⚠️ Archived - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-* [bytebase/bytebase](https://github.com/bytebase/bytebase) ⭐ 14,408 | 🐛 158 | 🌐 Go | 📅 2026-08-22 - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-* [juicedata/juicefs](https://github.com/juicedata/juicefs) ⭐ 14,351 | 🐛 196 | 🌐 Go | 📅 2026-08-21 - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [benbjohnson/litestream](https://github.com/benbjohnson/litestream) ⭐ 14,284 | 🐛 126 | 🌐 Go | 📅 2026-08-21 - Streaming replication for SQLite.
-* [coder/coder](https://github.com/coder/coder) ⭐ 14,225 | 🐛 968 | 🌐 Go | 📅 2026-08-22 - Provision remote development environments via Terraform
-* [thanos-io/thanos](https://github.com/thanos-io/thanos) ⭐ 14,180 | 🐛 878 | 🌐 Go | 📅 2026-08-22 - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-* [OJ/gobuster](https://github.com/OJ/gobuster) ⭐ 14,007 | 🐛 20 | 🌐 Go | 📅 2026-08-17 - Directory/File, DNS and VHost busting tool written in Go
-* [kopia/kopia](https://github.com/kopia/kopia) ⭐ 13,936 | 🐛 864 | 🌐 Go | 📅 2026-08-21 - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-* [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) ⭐ 12,909 | 🐛 27 | 🌐 Go | 📅 2026-08-21 - A developer-friendly API for converting numerous document formats into PDF files, and more!
+* [bytebase/bytebase](https://github.com/bytebase/bytebase) ⭐ 14,408 | 🐛 159 | 🌐 Go | 📅 2026-08-23 - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+* [juicedata/juicefs](https://github.com/juicedata/juicefs) ⭐ 14,352 | 🐛 198 | 🌐 Go | 📅 2026-08-21 - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+* [benbjohnson/litestream](https://github.com/benbjohnson/litestream) ⭐ 14,289 | 🐛 126 | 🌐 Go | 📅 2026-08-21 - Streaming replication for SQLite.
+* [coder/coder](https://github.com/coder/coder) ⭐ 14,232 | 🐛 968 | 🌐 Go | 📅 2026-08-23 - Provision remote development environments via Terraform
+* [thanos-io/thanos](https://github.com/thanos-io/thanos) ⭐ 14,181 | 🐛 880 | 🌐 Go | 📅 2026-08-22 - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+* [OJ/gobuster](https://github.com/OJ/gobuster) ⭐ 14,017 | 🐛 20 | 🌐 Go | 📅 2026-08-17 - Directory/File, DNS and VHost busting tool written in Go
+* [kopia/kopia](https://github.com/kopia/kopia) ⭐ 13,944 | 🐛 867 | 🌐 Go | 📅 2026-08-23 - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+* [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) ⭐ 12,914 | 🐛 27 | 🌐 Go | 📅 2026-08-21 - A developer-friendly API for converting numerous document formats into PDF files, and more!
 * [golang/dep](https://github.com/golang/dep) ⚠️ Archived - Go dependency management tool experiment (deprecated)
-* [infracost/infracost](https://github.com/infracost/infracost) ⭐ 12,481 | 🐛 21 | 🌐 Go | 📅 2026-08-21 - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-* [drakkan/sftpgo](https://github.com/drakkan/sftpgo) ⭐ 12,427 | 🐛 172 | 🌐 Go | 📅 2026-08-13 - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-* [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ⭐ 12,345 | 🐛 98 | 🌐 Go | 📅 2026-08-01 - A beautiful CLI dashboard for GitHub 🚀
-* [TwiN/gatus](https://github.com/TwiN/gatus) ⭐ 11,881 | 🐛 372 | 🌐 Go | 📅 2026-08-18 - ⛑ Automated developer-oriented status page
-* [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ⭐ 11,738 | 🐛 139 | 🌐 Go | 📅 2026-08-16 - Style definitions for nice terminal layouts 👄
-* [pressly/goose](https://github.com/pressly/goose) ⭐ 11,351 | 🐛 139 | 🌐 Go | 📅 2026-08-22 - A database migration tool. Supports SQL migrations and Go functions.
-* [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ⭐ 11,045 | 🐛 3,574 | 🌐 Go | 📅 2026-08-22 - The AWS Provider enables Terraform to manage AWS resources.
-* [asciimoo/wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,719 | 🐛 42 | 🌐 Go | 📅 2026-08-04 - Interactive cli tool for HTTP inspection
-* [distribution/distribution](https://github.com/distribution/distribution) ⭐ 10,577 | 🐛 510 | 🌐 Go | 📅 2026-08-18 - The toolkit to pack, ship, store, and deliver container content
-* [axllent/mailpit](https://github.com/axllent/mailpit) ⭐ 10,180 | 🐛 0 | 🌐 Go | 📅 2026-08-21 - An email and SMTP testing tool with API for developers
-* [xo/usql](https://github.com/xo/usql) ⭐ 10,085 | 🐛 119 | 🌐 Go | 📅 2026-06-19 - Universal command-line interface for SQL databases
-* [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ⭐ 9,792 | 🐛 222 | 🌐 Go | 📅 2026-08-22 - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-* [tmc/langchaingo](https://github.com/tmc/langchaingo) ⭐ 9,630 | 🐛 411 | 🌐 Go | 📅 2026-01-11 - LangChain for Go, the easiest way to write LLM-based programs in Go
-* [miniflux/v2](https://github.com/miniflux/v2) ⭐ 9,606 | 🐛 280 | 🌐 Go | 📅 2026-08-19 - Minimalist and opinionated feed reader
-* [sosedoff/pgweb](https://github.com/sosedoff/pgweb) ⭐ 9,482 | 🐛 55 | 🌐 Go | 📅 2026-07-26 - Cross-platform client for PostgreSQL databases
-* [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ⭐ 9,245 | 🐛 883 | 🌐 Go | 📅 2026-08-22 - Terraform Pull Request Automation
-* [keybase/client](https://github.com/keybase/client) ⭐ 9,241 | 🐛 4,253 | 🌐 Go | 📅 2026-08-21 - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-* [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ⭐ 9,207 | 🐛 53 | 🌐 Go | 📅 2026-08-01 - Go implementation of JSON Web Tokens (JWT).
+* [infracost/infracost](https://github.com/infracost/infracost) ⭐ 12,485 | 🐛 21 | 🌐 Go | 📅 2026-08-21 - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+* [drakkan/sftpgo](https://github.com/drakkan/sftpgo) ⭐ 12,431 | 🐛 172 | 🌐 Go | 📅 2026-08-13 - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+* [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ⭐ 12,367 | 🐛 98 | 🌐 Go | 📅 2026-08-01 - A beautiful CLI dashboard for GitHub 🚀
+* [TwiN/gatus](https://github.com/TwiN/gatus) ⭐ 11,886 | 🐛 373 | 🌐 Go | 📅 2026-08-18 - ⛑ Automated developer-oriented status page
+* [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ⭐ 11,741 | 🐛 140 | 🌐 Go | 📅 2026-08-16 - Style definitions for nice terminal layouts 👄
+* [pressly/goose](https://github.com/pressly/goose) ⭐ 11,354 | 🐛 139 | 🌐 Go | 📅 2026-08-22 - A database migration tool. Supports SQL migrations and Go functions.
+* [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ⭐ 11,044 | 🐛 3,577 | 🌐 Go | 📅 2026-08-22 - The AWS Provider enables Terraform to manage AWS resources.
+* [asciimoo/wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,720 | 🐛 42 | 🌐 Go | 📅 2026-08-04 - Interactive cli tool for HTTP inspection
+* [distribution/distribution](https://github.com/distribution/distribution) ⭐ 10,579 | 🐛 510 | 🌐 Go | 📅 2026-08-18 - The toolkit to pack, ship, store, and deliver container content
+* [axllent/mailpit](https://github.com/axllent/mailpit) ⭐ 10,186 | 🐛 0 | 🌐 Go | 📅 2026-08-21 - An email and SMTP testing tool with API for developers
+* [xo/usql](https://github.com/xo/usql) ⭐ 10,086 | 🐛 119 | 🌐 Go | 📅 2026-06-19 - Universal command-line interface for SQL databases
+* [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ⭐ 9,795 | 🐛 223 | 🌐 Go | 📅 2026-08-22 - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+* [tmc/langchaingo](https://github.com/tmc/langchaingo) ⭐ 9,631 | 🐛 411 | 🌐 Go | 📅 2026-01-11 - LangChain for Go, the easiest way to write LLM-based programs in Go
+* [miniflux/v2](https://github.com/miniflux/v2) ⭐ 9,608 | 🐛 278 | 🌐 Go | 📅 2026-08-23 - Minimalist and opinionated feed reader
+* [sosedoff/pgweb](https://github.com/sosedoff/pgweb) ⭐ 9,484 | 🐛 55 | 🌐 Go | 📅 2026-07-26 - Cross-platform client for PostgreSQL databases
+* [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ⭐ 9,249 | 🐛 886 | 🌐 Go | 📅 2026-08-23 - Terraform Pull Request Automation
+* [keybase/client](https://github.com/keybase/client) ⭐ 9,240 | 🐛 4,253 | 🌐 Go | 📅 2026-08-21 - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+* [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ⭐ 9,209 | 🐛 53 | 🌐 Go | 📅 2026-08-01 - Go implementation of JSON Web Tokens (JWT).
 * [dinedal/textql](https://github.com/dinedal/textql) ⭐ 9,106 | 🐛 38 | 🌐 Go | 📅 2023-10-22 - Execute SQL against structured text like CSV or TSV
 * [codenotary/immudb](https://github.com/codenotary/immudb) ⭐ 9,020 | 🐛 103 | 🌐 Go | 📅 2026-08-03 - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 * [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) ⭐ 8,998 | 🐛 244 | 🌐 Go | 📅 2025-06-24 - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
-* [containers/buildah](https://github.com/containers/buildah) ⭐ 8,992 | 🐛 283 | 🌐 Go | 📅 2026-08-21 - A tool that facilitates building OCI images.
+* [containers/buildah](https://github.com/containers/buildah) ⭐ 8,991 | 🐛 284 | 🌐 Go | 📅 2026-08-23 - A tool that facilitates building OCI images.
 * [99designs/aws-vault](https://github.com/99designs/aws-vault) ⭐ 8,985 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - A vault for securely storing and accessing AWS credentials in development environments
 * [prasmussen/gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived - Google Drive CLI Client
-* [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) ⭐ 8,924 | 🐛 40 | 🌐 Go | 📅 2026-04-26 - Go-blueprint allows users to spin up a quick Go project using a popular framework
+* [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) ⭐ 8,925 | 🐛 40 | 🌐 Go | 📅 2026-04-26 - Go-blueprint allows users to spin up a quick Go project using a popular framework
 * [XiaoMi/soar](https://github.com/XiaoMi/soar) ⭐ 8,758 | 🐛 77 | 🌐 Go | 📅 2023-12-15 - SQL Optimizer And Rewriter
-* [evilmartians/lefthook](https://github.com/evilmartians/lefthook) ⭐ 8,703 | 🐛 90 | 🌐 Go | 📅 2026-08-21 - Fast and powerful Git hooks manager for any type of projects.
+* [evilmartians/lefthook](https://github.com/evilmartians/lefthook) ⭐ 8,708 | 🐛 90 | 🌐 Go | 📅 2026-08-21 - Fast and powerful Git hooks manager for any type of projects.
 * [openshift/origin](https://github.com/openshift/origin) ⭐ 8,680 | 🐛 299 | 🌐 Go | 📅 2026-08-22 - Conformance test suite for OpenShift
 * [ariga/atlas](https://github.com/ariga/atlas) ⭐ 8,673 | 🐛 271 | 🌐 Go | 📅 2026-08-02 - Manage your database schema as code
-* [boyter/scc](https://github.com/boyter/scc) ⭐ 8,638 | 🐛 25 | 🌐 Go | 📅 2026-08-21 - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+* [boyter/scc](https://github.com/boyter/scc) ⭐ 8,642 | 🐛 25 | 🌐 Go | 📅 2026-08-21 - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 * [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,530 | 🐛 320 | 🌐 Go | 📅 2026-08-21 - Generate Go client and server boilerplate from OpenAPI 3 specifications
-* [metallb/metallb](https://github.com/metallb/metallb) ⭐ 8,329 | 🐛 102 | 🌐 Go | 📅 2026-08-17 - A network load-balancer implementation for Kubernetes using standard routing protocols
-* [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,101 | 🐛 80 | 🌐 Go | 📅 2026-08-22 - Giving Kubernetes Superpowers to everyone
-* [TomWright/dasel](https://github.com/TomWright/dasel) ⭐ 8,022 | 🐛 25 | 🌐 Go | 📅 2026-08-16 - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+* [metallb/metallb](https://github.com/metallb/metallb) ⭐ 8,330 | 🐛 102 | 🌐 Go | 📅 2026-08-17 - A network load-balancer implementation for Kubernetes using standard routing protocols
+* [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,105 | 🐛 81 | 🌐 Go | 📅 2026-08-23 - Giving Kubernetes Superpowers to everyone
+* [TomWright/dasel](https://github.com/TomWright/dasel) ⭐ 8,024 | 🐛 25 | 🌐 Go | 📅 2026-08-16 - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,943 | 🐛 2 | 🌐 Go | 📅 2026-08-13 - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-* [turbot/steampipe](https://github.com/turbot/steampipe) ⭐ 7,922 | 🐛 12 | 🌐 Go | 📅 2026-08-21 - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-* [peco/peco](https://github.com/peco/peco) ⭐ 7,910 | 🐛 8 | 🌐 Go | 📅 2026-08-22 - Simplistic interactive filtering tool
+* [turbot/steampipe](https://github.com/turbot/steampipe) ⭐ 7,924 | 🐛 12 | 🌐 Go | 📅 2026-08-21 - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+* [peco/peco](https://github.com/peco/peco) ⭐ 7,911 | 🐛 8 | 🌐 Go | 📅 2026-08-22 - Simplistic interactive filtering tool
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) ⭐ 7,595 | 🐛 17 | 🌐 Go | 📅 2026-02-03 - Bare metal to production ready in mins; your own fly server on your VPS.
 * [attic-labs/noms](https://github.com/attic-labs/noms) ⚠️ Archived - The versioned, forkable, syncable database
-* [amacneil/dbmate](https://github.com/amacneil/dbmate) ⭐ 7,153 | 🐛 47 | 🌐 Go | 📅 2026-08-19 - 🚀 A lightweight, framework-agnostic database migration tool.
+* [amacneil/dbmate](https://github.com/amacneil/dbmate) ⭐ 7,156 | 🐛 47 | 🌐 Go | 📅 2026-08-19 - 🚀 A lightweight, framework-agnostic database migration tool.
 * [simeji/jid](https://github.com/simeji/jid) ⭐ 7,136 | 🐛 10 | 🌐 Go | 📅 2026-08-02 - json incremental digger
+* [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ⭐ 7,031 | 🐛 18 | 🌐 Go | 📅 2026-03-25 - Tfsec is now part of Trivy
 * [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) ⭐ 7,031 | 🐛 21 | 🌐 Go | 📅 2026-05-21 - 📦 Find and install kubectl plugins
-* [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ⭐ 7,030 | 🐛 18 | 🌐 Go | 📅 2026-03-25 - Tfsec is now part of Trivy
 * [google/gopacket](https://github.com/google/gopacket) ⭐ 6,794 | 🐛 370 | 🌐 Go | 📅 2025-03-19 - Provides packet processing capabilities for Go
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox) ⚠️ Archived - Safely store secrets in Git/Mercurial/Subversion
 * [odeke-em/drive](https://github.com/odeke-em/drive) ⭐ 6,730 | 🐛 287 | 🌐 Go | 📅 2024-02-09 - Google Drive client for the commandline
 * [docker/machine](https://github.com/docker/machine) ⚠️ Archived - Machine management for a container-centric world
 * [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) ⭐ 6,608 | 🐛 68 | 🌐 Go | 📅 2024-04-23 - Slack client for your terminal
-* [techschool/simplebank](https://github.com/techschool/simplebank) ⭐ 6,530 | 🐛 16 | 🌐 Go | 📅 2025-04-20 - Backend master class: build a simple bank service in Go
+* [techschool/simplebank](https://github.com/techschool/simplebank) ⭐ 6,529 | 🐛 16 | 🌐 Go | 📅 2025-04-20 - Backend master class: build a simple bank service in Go
 * [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) ⭐ 6,308 | 🐛 940 | 🌐 Go | 📅 2025-02-03 - Data-Centric Pipelines and Data Versioning
 * [chriswalz/bit](https://github.com/chriswalz/bit) ⭐ 6,103 | 🐛 32 | 🌐 Go | 📅 2023-02-21 - Bit is a modern Git CLI
-* [docker/cli](https://github.com/docker/cli) ⭐ 6,014 | 🐛 868 | 🌐 Go | 📅 2026-08-21 - The Docker CLI
-* [Permify/permify](https://github.com/Permify/permify) ⭐ 5,937 | 🐛 76 | 🌐 Go | 📅 2026-08-20 - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-* [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) ⭐ 5,911 | 🐛 162 | 🌐 Go | 📅 2026-08-19 - 🔥 Feature-rich interactive Jira command line.
-* [volcano-sh/volcano](https://github.com/volcano-sh/volcano) ⭐ 5,877 | 🐛 805 | 🌐 Go | 📅 2026-08-20 - A Cloud Native Batch System (Project under CNCF)
-* [hashicorp/hcl](https://github.com/hashicorp/hcl) ⭐ 5,798 | 🐛 237 | 🌐 Go | 📅 2026-08-20 - HCL is the HashiCorp configuration language.
-* [terraform-linters/tflint](https://github.com/terraform-linters/tflint) ⭐ 5,794 | 🐛 27 | 🌐 Go | 📅 2026-08-15 - A Pluggable Terraform Linter
+* [docker/cli](https://github.com/docker/cli) ⭐ 6,017 | 🐛 869 | 🌐 Go | 📅 2026-08-21 - The Docker CLI
+* [Permify/permify](https://github.com/Permify/permify) ⭐ 5,938 | 🐛 76 | 🌐 Go | 📅 2026-08-20 - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+* [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) ⭐ 5,912 | 🐛 162 | 🌐 Go | 📅 2026-08-19 - 🔥 Feature-rich interactive Jira command line.
+* [volcano-sh/volcano](https://github.com/volcano-sh/volcano) ⭐ 5,882 | 🐛 807 | 🌐 Go | 📅 2026-08-20 - A Cloud Native Batch System (Project under CNCF)
+* [hashicorp/hcl](https://github.com/hashicorp/hcl) ⭐ 5,797 | 🐛 237 | 🌐 Go | 📅 2026-08-20 - HCL is the HashiCorp configuration language.
+* [terraform-linters/tflint](https://github.com/terraform-linters/tflint) ⭐ 5,794 | 🐛 27 | 🌐 Go | 📅 2026-08-22 - A Pluggable Terraform Linter
 * [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ⚠️ Archived - Nuke a whole AWS account and delete all its resources.
 * [cubefs/cubefs](https://github.com/cubefs/cubefs) ⭐ 5,634 | 🐛 268 | 🌐 Go | 📅 2026-08-19 - cloud-native distributed storage
-* [devtron-labs/devtron](https://github.com/devtron-labs/devtron) ⭐ 5,586 | 🐛 763 | 🌐 Go | 📅 2026-08-21 - The only Kubernetes dashboard you need
-* [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) ⭐ 5,584 | 🐛 69 | 🌐 Go | 📅 2026-08-22 - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
+* [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) ⭐ 5,593 | 🐛 70 | 🌐 Go | 📅 2026-08-22 - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
+* [devtron-labs/devtron](https://github.com/devtron-labs/devtron) ⭐ 5,586 | 🐛 764 | 🌐 Go | 📅 2026-08-21 - The only Kubernetes dashboard you need
 * [kahing/goofys](https://github.com/kahing/goofys) ⭐ 5,566 | 🐛 293 | 🌐 Go | 📅 2024-07-18 - a high-performance, POSIX-ish Amazon S3 file system written in Go
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,491 | 🐛 439 | 🌐 Go | 📅 2026-08-19 - lakeFS - Data version control for your data lake | Git for data
 * [knqyf263/pet](https://github.com/knqyf263/pet) ⭐ 5,332 | 🐛 29 | 🌐 Go | 📅 2026-03-13 - Simple command-line snippet manager
 * [tenable/terrascan](https://github.com/tenable/terrascan) ⚠️ Archived - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-* [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ⭐ 5,165 | 🐛 43 | 🌐 Go | 📅 2026-08-22 - Block spying and tracking on Windows
-* [devspace-sh/devspace](https://github.com/devspace-sh/devspace) ⭐ 5,145 | 🐛 76 | 🌐 Go | 📅 2026-08-17 - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-* [diggerhq/digger](https://github.com/diggerhq/digger) ⭐ 5,027 | 🐛 479 | 🌐 Go | 📅 2026-08-11 - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
+* [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ⭐ 5,166 | 🐛 43 | 🌐 Go | 📅 2026-08-22 - Block spying and tracking on Windows
+* [devspace-sh/devspace](https://github.com/devspace-sh/devspace) ⭐ 5,146 | 🐛 76 | 🌐 Go | 📅 2026-08-17 - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+* [diggerhq/digger](https://github.com/diggerhq/digger) ⭐ 5,028 | 🐛 481 | 🌐 Go | 📅 2026-08-11 - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 * [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ⭐ 4,972 | 🐛 3,946 | 🌐 Go | 📅 2026-08-21 - Terraform provider for Azure Resource Manager
 * [googlecodelabs/tools](https://github.com/googlecodelabs/tools) ⚠️ Archived - Codelabs management & hosting tools
 * [variadico/noti](https://github.com/variadico/noti) ⚠️ Archived - Monitor a process and trigger a notification.
 * [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) ⭐ 4,814 | 🐛 188 | 🌐 Go | 📅 2026-08-03 - Generate documentation from Terraform modules in various output formats
 * [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ⭐ 4,795 | 🐛 78 | 🌐 Go | 📅 2026-08-13 - Generate images of code and terminal output 📸
-* [werf/werf](https://github.com/werf/werf) ⭐ 4,716 | 🐛 27 | 🌐 Go | 📅 2026-08-20 - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
+* [werf/werf](https://github.com/werf/werf) ⭐ 4,717 | 🐛 27 | 🌐 Go | 📅 2026-08-20 - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 * [magefile/mage](https://github.com/magefile/mage) ⭐ 4,689 | 🐛 128 | 🌐 Go | 📅 2026-04-23 - a Make/rake-like dev tool using Go
 * [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) ⭐ 4,630 | 🐛 33 | 🌐 Go | 📅 2026-08-20 - Generate files from docker container meta-data
 * [prest/prest](https://github.com/prest/prest) ⭐ 4,611 | 🐛 153 | 🌐 Go | 📅 2026-08-21 - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-* [cerbos/cerbos](https://github.com/cerbos/cerbos) ⭐ 4,549 | 🐛 59 | 🌐 Go | 📅 2026-08-18 - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
+* [cerbos/cerbos](https://github.com/cerbos/cerbos) ⭐ 4,551 | 🐛 60 | 🌐 Go | 📅 2026-08-18 - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 * [ory/dockertest](https://github.com/ory/dockertest) ⭐ 4,522 | 🐛 13 | 🌐 Go | 📅 2026-07-17 - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
-* [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) ⭐ 4,475 | 🐛 53 | 🌐 Go | 📅 2026-08-21 - Privacy and Security focused Segment-alternative, in Golang and React
-* [muety/wakapi](https://github.com/muety/wakapi) ⭐ 4,408 | 🐛 38 | 🌐 Go | 📅 2026-08-21 - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-* [k1LoW/tbls](https://github.com/k1LoW/tbls) ⭐ 4,326 | 🐛 63 | 🌐 Go | 📅 2026-08-04 - tbls is a CI-Friendly tool for document a database, written in Go.
-* [wal-g/wal-g](https://github.com/wal-g/wal-g) ⭐ 4,223 | 🐛 313 | 🌐 Go | 📅 2026-08-21 - Archival and Restoration for databases in the Cloud
+* [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) ⭐ 4,476 | 🐛 53 | 🌐 Go | 📅 2026-08-21 - Privacy and Security focused Segment-alternative, in Golang and React
+* [muety/wakapi](https://github.com/muety/wakapi) ⭐ 4,408 | 🐛 39 | 🌐 Go | 📅 2026-08-21 - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+* [k1LoW/tbls](https://github.com/k1LoW/tbls) ⭐ 4,327 | 🐛 63 | 🌐 Go | 📅 2026-08-04 - tbls is a CI-Friendly tool for document a database, written in Go.
+* [wal-g/wal-g](https://github.com/wal-g/wal-g) ⭐ 4,223 | 🐛 314 | 🌐 Go | 📅 2026-08-21 - Archival and Restoration for databases in the Cloud
 * [AlecAivazis/survey](https://github.com/AlecAivazis/survey) ⚠️ Archived - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 * [rgburke/grv](https://github.com/rgburke/grv) ⭐ 4,093 | 🐛 31 | 🌐 Go | 📅 2019-05-01 - GRV is a terminal interface for viewing git repositories
-* [nkanaev/yarr](https://github.com/nkanaev/yarr) ⭐ 4,016 | 🐛 8 | 🌐 Go | 📅 2026-08-21 - yet another rss reader
-* [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ⭐ 3,909 | 🐛 38 | 🌐 Go | 📅 2026-08-20 - Infrastructure as code for DNS!
+* [nkanaev/yarr](https://github.com/nkanaev/yarr) ⭐ 4,023 | 🐛 8 | 🌐 Go | 📅 2026-08-21 - yet another rss reader
+* [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ⭐ 3,909 | 🐛 40 | 🌐 Go | 📅 2026-08-20 - Infrastructure as code for DNS!
 * [Azure/draft-classic](https://github.com/Azure/draft-classic) ⚠️ Archived - A tool for developers to create cloud-native applications on Kubernetes.
-* [multiprocessio/dsq](https://github.com/multiprocessio/dsq) ⭐ 3,865 | 🐛 22 | 🌐 Go | 📅 2023-09-30 - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+* [multiprocessio/dsq](https://github.com/multiprocessio/dsq) ⭐ 3,866 | 🐛 22 | 🌐 Go | 📅 2023-09-30 - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 * [hasura/gitkube](https://github.com/hasura/gitkube) ⭐ 3,847 | 🐛 44 | 🌐 Go | 📅 2023-08-31 - Build and deploy docker images to Kubernetes using git push
-* [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) ⭐ 3,840 | 🐛 29 | 🌐 Go | 📅 2026-08-16 - :star: Web frameworks for Go, most starred on GitHub
-* [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ⭐ 3,791 | 🐛 25 | 🌐 Go | 📅 2026-08-03 - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+* [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) ⭐ 3,840 | 🐛 29 | 🌐 Go | 📅 2026-08-23 - :star: Web frameworks for Go, most starred on GitHub
+* [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ⭐ 3,792 | 🐛 25 | 🌐 Go | 📅 2026-08-03 - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 * [gofireflyio/aiac](https://github.com/gofireflyio/aiac) ⭐ 3,786 | 🐛 2 | 🌐 Go | 📅 2026-03-24 - Artificial Intelligence Infrastructure-as-Code Generator.
 * [aws/copilot-cli](https://github.com/aws/copilot-cli) ⚠️ Archived - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 * [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) ⭐ 3,682 | 🐛 33 | 🌐 Go | 📅 2025-10-16 - Easily check your clusters for use of deprecated APIs
-* [terramate-io/terramate](https://github.com/terramate-io/terramate) ⭐ 3,623 | 🐛 103 | 🌐 Go | 📅 2026-08-18 - Terramate CLI is an open-source Infrastructure as Code (IaC) Orchestration and Code Generation tool for Terraform, OpenTofu and Terragrunt.
-* [prometheus-community/postgres\_exporter](https://github.com/prometheus-community/postgres_exporter) ⭐ 3,598 | 🐛 257 | 🌐 Go | 📅 2026-08-19 - A PostgreSQL metric exporter for Prometheus
+* [terramate-io/terramate](https://github.com/terramate-io/terramate) ⭐ 3,621 | 🐛 103 | 🌐 Go | 📅 2026-08-18 - Terramate CLI is an open-source Infrastructure as Code (IaC) Orchestration and Code Generation tool for Terraform, OpenTofu and Terragrunt.
+* [prometheus-community/postgres\_exporter](https://github.com/prometheus-community/postgres_exporter) ⭐ 3,597 | 🐛 262 | 🌐 Go | 📅 2026-08-22 - A PostgreSQL metric exporter for Prometheus
 * [ory/oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,596 | 🐛 108 | 🌐 Go | 📅 2026-07-27 - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white
 * [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) ⭐ 3,518 | 🐛 46 | 🌐 Go | 📅 2026-08-20 - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 * [goby-lang/goby](https://github.com/goby-lang/goby) ⚠️ Archived - Goby - Yet another programming language written in Go
 * [sourcegraph/checkup](https://github.com/sourcegraph/checkup) ⭐ 3,459 | 🐛 29 | 🌐 Go | 📅 2026-07-03 - Distributed, lock-free, self-hosted health checks and status pages
-* [grafana/alloy](https://github.com/grafana/alloy) ⭐ 3,454 | 🐛 1,200 | 🌐 Go | 📅 2026-08-21 - OpenTelemetry Collector distribution with programmable pipelines
+* [grafana/alloy](https://github.com/grafana/alloy) ⭐ 3,454 | 🐛 1,202 | 🌐 Go | 📅 2026-08-21 - OpenTelemetry Collector distribution with programmable pipelines
 * [gofiber/recipes](https://github.com/gofiber/recipes) ⭐ 3,454 | 🐛 5 | 🌐 Go | 📅 2026-08-21 - 📁 Examples for 🚀 Fiber
-* [digitalocean/doctl](https://github.com/digitalocean/doctl) ⭐ 3,447 | 🐛 156 | 🌐 Go | 📅 2026-08-21 - The official command line interface for the DigitalOcean API.
+* [digitalocean/doctl](https://github.com/digitalocean/doctl) ⭐ 3,447 | 🐛 154 | 🌐 Go | 📅 2026-08-21 - The official command line interface for the DigitalOcean API.
 * [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) ⭐ 3,416 | 🐛 97 | 🌐 Go | 📅 2026-07-14 - SQL schema migration tool for Go.
 * [git-town/git-town](https://github.com/git-town/git-town) ⭐ 3,365 | 🐛 47 | 🌐 Gherkin | 📅 2026-07-26 - Git branches made easy
 * [im2nguyen/rover](https://github.com/im2nguyen/rover) ⭐ 3,317 | 🐛 45 | 🌐 Go | 📅 2025-07-30 - Interactive Terraform visualization. State and configuration explorer.
 * [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ⭐ 3,290 | 🐛 53 | 🌐 Go | 📅 2026-08-10 - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 * [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) ⚠️ Archived - Build AI assistants that interact with your systems
 * [moul/assh](https://github.com/moul/assh) ⭐ 3,218 | 🐛 99 | 🌐 Go | 📅 2026-08-21 - :computer: make your ssh client smarter
-* [jiujuan/go-collection](https://github.com/jiujuan/go-collection) ⭐ 3,163 | 🐛 0 | 🌐 Go | 📅 2024-05-18 - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。
+* [jiujuan/go-collection](https://github.com/jiujuan/go-collection) ⭐ 3,164 | 🐛 0 | 🌐 Go | 📅 2024-05-18 - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。
 * [gorilla/sessions](https://github.com/gorilla/sessions) ⭐ 3,151 | 🐛 12 | 🌐 Go | 📅 2024-08-20 - Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
-* [sqldef/sqldef](https://github.com/sqldef/sqldef) ⭐ 3,145 | 🐛 14 | 🌐 Go | 📅 2026-08-19 - Idempotent schema management for MySQL, PostgreSQL, and more
+* [sqldef/sqldef](https://github.com/sqldef/sqldef) ⭐ 3,145 | 🐛 15 | 🌐 Go | 📅 2026-08-23 - Idempotent schema management for MySQL, PostgreSQL, and more
 * [hardentools/hardentools](https://github.com/hardentools/hardentools) ⭐ 3,105 | 🐛 12 | 🌐 Go | 📅 2025-08-10 - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 * [unidoc/unipdf](https://github.com/unidoc/unipdf) ⭐ 3,103 | 🐛 8 | 🌐 Go | 📅 2026-07-31 - Golang PDF library for creating and processing PDF files (pure go)
-* [dnote/dnote](https://github.com/dnote/dnote) ⭐ 3,064 | 🐛 40 | 🌐 Go | 📅 2026-07-25 - A simple command line notebook for programmers
-* [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) ⭐ 3,063 | 🐛 7 | 🌐 Go | 📅 2026-08-10 - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+* [dnote/dnote](https://github.com/dnote/dnote) ⭐ 3,065 | 🐛 40 | 🌐 Go | 📅 2026-07-25 - A simple command line notebook for programmers
+* [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) ⭐ 3,063 | 🐛 5 | 🌐 Go | 📅 2026-08-10 - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 * [cuelang/cue](https://github.com/cuelang/cue) ⚠️ Archived - CUE has moved to <https://github.com/cue-lang/cue> ⭐ 6,238 | 🐛 684 | 🌐 Go | 📅 2026-08-21
-* [autobrr/autobrr](https://github.com/autobrr/autobrr) ⭐ 2,972 | 🐛 17 | 🌐 Go | 📅 2026-08-21 - Modern, easy to use download automation for torrents and usenet.
+* [autobrr/autobrr](https://github.com/autobrr/autobrr) ⭐ 2,978 | 🐛 15 | 🌐 Go | 📅 2026-08-23 - Modern, easy to use download automation for torrents and usenet.
 * [cortesi/modd](https://github.com/cortesi/modd) ⭐ 2,965 | 🐛 51 | 🌐 Go | 📅 2026-06-21 - A flexible developer tool that runs processes and responds to filesystem changes
 * [charmbracelet/pop](https://github.com/charmbracelet/pop) ⭐ 2,901 | 🐛 28 | 🌐 Go | 📅 2026-08-20 - Send emails from your terminal 📬
 * [aptly-dev/aptly](https://github.com/aptly-dev/aptly) ⭐ 2,872 | 🐛 215 | 🌐 Go | 📅 2026-08-09 - aptly - Debian repository management tool
 * [Forceu/Gokapi](https://github.com/Forceu/Gokapi) ⭐ 2,838 | 🐛 39 | 🌐 Go | 📅 2026-08-21 - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * [zk-org/zk](https://github.com/zk-org/zk) ⭐ 2,773 | 🐛 25 | 🌐 Go | 📅 2026-08-03 - A plain text note-taking assistant
-* [apptainer/singularity](https://github.com/apptainer/singularity) ⭐ 2,619 | 🐛 0 | 🌐 Go | 📅 2022-10-10 - Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
+* [apptainer/singularity](https://github.com/apptainer/singularity) ⭐ 2,620 | 🐛 0 | 🌐 Go | 📅 2022-10-10 - Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
 * [alexedwards/scs](https://github.com/alexedwards/scs) ⭐ 2,612 | 🐛 18 | 🌐 Go | 📅 2025-11-20 - HTTP Session Management for Go
 * [zquestz/s](https://github.com/zquestz/s) ⭐ 2,596 | 🐛 0 | 🌐 Go | 📅 2026-07-27 - Open a web search in your terminal.
 * [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) ⚠️ Archived - Exposure Notification Reference Server | Covid-19 Exposure Notifications
-* [supabase/auth](https://github.com/supabase/auth) ⭐ 2,527 | 🐛 316 | 🌐 Go | 📅 2026-08-20 - A JWT based API for managing users and issuing JWT tokens
+* [supabase/auth](https://github.com/supabase/auth) ⭐ 2,529 | 🐛 316 | 🌐 Go | 📅 2026-08-20 - A JWT based API for managing users and issuing JWT tokens
 * [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ⭐ 2,495 | 🐛 116 | 🌐 Go | 📅 2026-07-20 - validate the structure of your container images
-* [supabase/cli](https://github.com/supabase/cli) ⭐ 2,393 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-22 - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
+* [supabase/cli](https://github.com/supabase/cli) ⭐ 2,394 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-23 - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 * [cycloidio/terracognita](https://github.com/cycloidio/terracognita) ⭐ 2,385 | 🐛 95 | 🌐 Go | 📅 2025-09-02 - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 * [google/gnostic](https://github.com/google/gnostic) ⭐ 2,298 | 🐛 117 | 🌐 Go | 📅 2026-08-10 - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
-* [inbucket/inbucket](https://github.com/inbucket/inbucket) ⭐ 2,260 | 🐛 37 | 🌐 Go | 📅 2026-04-02 - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
+* [inbucket/inbucket](https://github.com/inbucket/inbucket) ⭐ 2,261 | 🐛 37 | 🌐 Go | 📅 2026-04-02 - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
 * [docker-archive/deploykit](https://github.com/docker-archive/deploykit) ⚠️ Archived - A toolkit for creating and managing declarative, self-healing infrastructure.
 * [google/gapid](https://github.com/google/gapid) ⭐ 2,239 | 🐛 338 | 🌐 Go | 📅 2024-05-08 - Graphics API Debugger
 * [metrue/fx](https://github.com/metrue/fx) ⭐ 2,228 | 🐛 85 | 🌐 Go | 📅 2023-10-24 - A Function as a Service tool makes a function as a  container-based service in seconds.
-* [maaslalani/nap](https://github.com/maaslalani/nap) ⭐ 2,218 | 🐛 17 | 🌐 Go | 📅 2024-05-18 - Code snippets in your terminal
-* [mattn/go-gtk](https://github.com/mattn/go-gtk) ⭐ 2,178 | 🐛 74 | 🌐 Go | 📅 2024-06-05 - Go binding for GTK
+* [maaslalani/nap](https://github.com/maaslalani/nap) ⭐ 2,219 | 🐛 17 | 🌐 Go | 📅 2024-05-18 - Code snippets in your terminal
+* [mattn/go-gtk](https://github.com/mattn/go-gtk) ⭐ 2,180 | 🐛 74 | 🌐 Go | 📅 2024-06-05 - Go binding for GTK
 * [muesli/cache2go](https://github.com/muesli/cache2go) ⭐ 2,149 | 🐛 35 | 🌐 Go | 📅 2024-07-02 - Concurrency-safe Go caching library with expiration capabilities and access counters
-* [stateful/runme](https://github.com/stateful/runme) ⭐ 2,140 | 🐛 155 | 🌐 Go | 📅 2026-08-21 - DevOps Notebooks Built with Markdown
+* [stateful/runme](https://github.com/stateful/runme) ⭐ 2,141 | 🐛 152 | 🌐 Go | 📅 2026-08-22 - DevOps Notebooks Built with Markdown
 * [aws/eks-anywhere](https://github.com/aws/eks-anywhere) ⭐ 2,097 | 🐛 620 | 🌐 Go | 📅 2026-08-19 - Run Amazon EKS on your own infrastructure 🚀
 * [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ⭐ 2,096 | 🐛 38 | 🌐 Go | 📅 2026-03-01 - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 * [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) ⭐ 2,083 | 🐛 2 | 🌐 Go | 📅 2026-05-01 - 🤫 Easy access to gitignore boilerplates
 * [cycloidio/inframap](https://github.com/cycloidio/inframap) ⭐ 2,057 | 🐛 49 | 🌐 Go | 📅 2026-04-23 - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ⭐ 2,056 | 🐛 289 | 🌐 Go | 📅 2026-02-25 - The Kubefirst Open Source Platform
 * [ipinfo/cli](https://github.com/ipinfo/cli) ⭐ 2,054 | 🐛 3 | 🌐 Go | 📅 2026-04-28 - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
-* [tazjin/nixery](https://github.com/tazjin/nixery) ⭐ 2,016 | 🐛 38 | 🌐 Go | 📅 2026-04-08 - Container registry which transparently builds images using the Nix package manager. Canonical repository is <https://cs.tvl.fyi/depot/-/tree/tools/nixery>
+* [tazjin/nixery](https://github.com/tazjin/nixery) ⭐ 2,017 | 🐛 38 | 🌐 Go | 📅 2026-04-08 - Container registry which transparently builds images using the Nix package manager. Canonical repository is <https://cs.tvl.fyi/depot/-/tree/tools/nixery>
 * [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ⭐ 2,008 | 🐛 27 | 🌐 Go | 📅 2026-06-15 - :earth\_africa: :clipboard:  A web dashboard to inspect Terraform States
 * [rdegges/ipify-api](https://github.com/rdegges/ipify-api) ⭐ 1,988 | 🐛 55 | 🌐 Go | 📅 2024-02-20 - A public IP API service.
-* [yuk7/wsldl](https://github.com/yuk7/wsldl) ⭐ 1,944 | 🐛 7 | 🌐 Go | 📅 2026-08-20 - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+* [yuk7/wsldl](https://github.com/yuk7/wsldl) ⭐ 1,944 | 🐛 6 | 🌐 Go | 📅 2026-08-23 - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 * [gsamokovarov/jump](https://github.com/gsamokovarov/jump) ⭐ 1,944 | 🐛 2 | 🌐 Go | 📅 2026-08-06 - Jump helps you navigate faster by learning your habits. ✌️
 * [Azure/aztfexport](https://github.com/Azure/aztfexport) ⭐ 1,909 | 🐛 23 | 🌐 Go | 📅 2026-08-19 - A tool to bring existing Azure resources under Terraform's management
 * [isacikgoz/gitin](https://github.com/isacikgoz/gitin) ⭐ 1,867 | 🐛 3 | 🌐 Go | 📅 2023-03-06 - commit/branch/workdir explorer for git
@@ -2111,8 +2111,8 @@
 * [lesovsky/pgcenter](https://github.com/lesovsky/pgcenter) ⭐ 1,624 | 🐛 0 | 🌐 Go | 📅 2026-08-06 - Command-line admin tool for observing and troubleshooting Postgres.
 * [liamg/gitjacker](https://github.com/liamg/gitjacker) ⭐ 1,607 | 🐛 11 | 🌐 Go | 📅 2025-12-05 - 🔪 :octocat: Leak git repositories from misconfigured websites
 * [ok-borg/borg](https://github.com/ok-borg/borg) ⚠️ Archived - Search and save shell snippets without leaving your terminal
-* [electrikmilk/cherri](https://github.com/electrikmilk/cherri) ⭐ 1,589 | 🐛 22 | 🌐 Go | 📅 2026-07-29 - Siri Shortcuts Programming Language 🍒
-* [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) ⭐ 1,575 | 🐛 1 | 🌐 Go | 📅 2026-07-29 - Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
+* [electrikmilk/cherri](https://github.com/electrikmilk/cherri) ⭐ 1,590 | 🐛 22 | 🌐 Go | 📅 2026-07-29 - Siri Shortcuts Programming Language 🍒
+* [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) ⭐ 1,576 | 🐛 1 | 🌐 Go | 📅 2026-07-29 - Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
 * [kovetskiy/mark](https://github.com/kovetskiy/mark) ⭐ 1,553 | 🐛 99 | 🌐 Go | 📅 2026-08-19 - Sync your markdown files with Confluence pages.
 * [msoap/shell2http](https://github.com/msoap/shell2http) ⭐ 1,502 | 🐛 6 | 🌐 Go | 📅 2026-08-08 - Executing shell commands via HTTP server
 * [github-release/github-release](https://github.com/github-release/github-release) ⭐ 1,496 | 🐛 31 | 🌐 Go | 📅 2025-07-23 - Commandline app to create and edit releases on Github (and upload artifacts)
@@ -2122,9 +2122,9 @@
 * [laurent22/massren](https://github.com/laurent22/massren) ⭐ 1,395 | 🐛 14 | 🌐 Go | 📅 2024-12-08 - massren - easily rename multiple files using your text editor
 * [lukasmartinelli/pgfutter](https://github.com/lukasmartinelli/pgfutter) ⭐ 1,345 | 🐛 55 | 🌐 Go | 📅 2020-09-02 - Import CSV and JSON into PostgreSQL the easy way
 * [nanopack/yoke](https://github.com/nanopack/yoke) ⚠️ Archived - Postgres high-availability cluster with auto-failover and automated cluster recovery.
-* [Tufin/oasdiff](https://github.com/Tufin/oasdiff) ⭐ 1,327 | 🐛 51 | 🌐 Go | 📅 2026-08-22 - OpenAPI Diff and Breaking Changes
+* [Tufin/oasdiff](https://github.com/Tufin/oasdiff) ⭐ 1,327 | 🐛 51 | 🌐 Go | 📅 2026-08-23 - OpenAPI Diff and Breaking Changes
 * [chanify/chanify](https://github.com/chanify/chanify) ⭐ 1,322 | 🐛 15 | 🌐 Go | 📅 2023-06-01 - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
-* [Shopify/themekit](https://github.com/Shopify/themekit) ⭐ 1,317 | 🐛 100 | 🌐 Go | 📅 2025-11-20 - Shopify theme development command line tool.
+* [Shopify/themekit](https://github.com/Shopify/themekit) ⭐ 1,317 | 🐛 113 | 🌐 Go | 📅 2025-11-20 - Shopify theme development command line tool.
 * [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ⭐ 1,310 | 🐛 83 | 🌐 Go | 📅 2026-08-19 - Programs to keep Docker login credentials safe by storing in platform keystores
 * [GoogleCloudPlatform/cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) ⭐ 1,306 | 🐛 139 | 🌐 Go | 📅 2026-06-11 - Community-contributed images for Google Cloud Build
 * [GoogleCloudPlatform/berglas](https://github.com/GoogleCloudPlatform/berglas) ⭐ 1,303 | 🐛 2 | 🌐 Go | 📅 2026-08-17 - A tool for managing secrets on Google Cloud
@@ -2149,20 +2149,20 @@
 * [acheong08/obi-sync](https://github.com/acheong08/obi-sync) ⚠️ Archived - Reverse engineering of the native Obsidian sync and publish server
 * [muesli/gitomatic](https://github.com/muesli/gitomatic) ⭐ 1,030 | 🐛 6 | 🌐 Go | 📅 2020-04-16 - A tool to monitor git repositories and automatically pull & push changes
 * [Azure/aks-engine](https://github.com/Azure/aks-engine) ⚠️ Archived - AKS Engine: legacy tool for Kubernetes on Azure (see status)
-* [seachicken/gh-poi](https://github.com/seachicken/gh-poi) ⭐ 1,004 | 🐛 9 | 🌐 Go | 📅 2026-07-26 - ✨ Safely clean up your local branches
+* [seachicken/gh-poi](https://github.com/seachicken/gh-poi) ⭐ 1,005 | 🐛 9 | 🌐 Go | 📅 2026-07-26 - ✨ Safely clean up your local branches
 * [git-time-metric/gtm](https://github.com/git-time-metric/gtm) ⭐ 1,003 | 🐛 52 | 🌐 Go | 📅 2022-01-31 - Simple, seamless, lightweight time tracking for Git
 * [mat/besticon](https://github.com/mat/besticon) ⭐ 993 | 🐛 8 | 🌐 Go | 📅 2026-07-04 - Favicon service written in Go
-* [projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck) ⭐ 988 | 🐛 11 | 🌐 Go | 📅 2026-08-17 - A utility to detect various technology for a given IP address.
+* [projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck) ⭐ 988 | 🐛 11 | 🌐 Go | 📅 2026-08-23 - A utility to detect various technology for a given IP address.
 * [sethvargo/ratchet](https://github.com/sethvargo/ratchet) ⭐ 965 | 🐛 2 | 🌐 Go | 📅 2026-07-18 - A tool for securing CI/CD workflows with version pinning.
 * [docker-archive/compose-cli](https://github.com/docker-archive/compose-cli) ⚠️ Archived - Easily run your Compose application to the cloud with compose-cli
-* [replicatedhq/kots](https://github.com/replicatedhq/kots) ⭐ 949 | 🐛 116 | 🌐 Go | 📅 2026-08-22 - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
+* [replicatedhq/kots](https://github.com/replicatedhq/kots) ⭐ 949 | 🐛 116 | 🌐 Go | 📅 2026-08-23 - KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
 * [a8m/envsubst](https://github.com/a8m/envsubst) ⭐ 903 | 🐛 24 | 🌐 Go | 📅 2025-12-10 - Environment variables substitution for Go
-* [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) ⭐ 894 | 🐛 29 | 🌐 Go | 📅 2026-08-19 - Bitrise runner CLI - run your automations on your Mac or Linux machine -
+* [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) ⭐ 895 | 🐛 29 | 🌐 Go | 📅 2026-08-19 - Bitrise runner CLI - run your automations on your Mac or Linux machine -
 * [barthr/redo](https://github.com/barthr/redo) ⚠️ Archived - Redo is the ultimate tool to create reusable functions from your history in an interactive way
+* [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) ⭐ 881 | 🐛 9 | 🌐 Go | 📅 2026-05-21 - GitHub CLI extension to preview Markdown looks like GitHub.
 * [cbednarski/hostess](https://github.com/cbednarski/hostess) ⭐ 881 | 🐛 12 | 🌐 Go | 📅 2020-05-02 - An idempotent command-line utility for managing your /etc/hosts file.
-* [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) ⭐ 880 | 🐛 9 | 🌐 Go | 📅 2026-05-21 - GitHub CLI extension to preview Markdown looks like GitHub.
 * [stackql/stackql](https://github.com/stackql/stackql) ⭐ 874 | 🐛 100 | 🌐 Go | 📅 2026-08-22 - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework
-* [ekkinox/yai](https://github.com/ekkinox/yai) ⭐ 867 | 🐛 28 | 🌐 Go | 📅 2024-07-31 - Your AI powered terminal assistant.
+* [ekkinox/yai](https://github.com/ekkinox/yai) ⭐ 868 | 🐛 28 | 🌐 Go | 📅 2024-07-31 - Your AI powered terminal assistant.
 * [kha7iq/pingme](https://github.com/kha7iq/pingme) ⭐ 862 | 🐛 4 | 🌐 Go | 📅 2026-07-15 - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 * [ublue-os/fleek](https://github.com/ublue-os/fleek) ⚠️ Archived - \[deprecated] Own your $HOME
 * [allaboutapps/integresql](https://github.com/allaboutapps/integresql) ⭐ 806 | 🐛 9 | 🌐 Go | 📅 2024-01-30 - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
@@ -2180,7 +2180,7 @@
 * [KarnerTh/mermerd](https://github.com/KarnerTh/mermerd) ⭐ 616 | 🐛 10 | 🌐 Go | 📅 2026-05-22 - Create Mermaid-Js ERD diagrams from existing tables
 * [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) ⭐ 586 | 🐛 41 | 🌐 Go | 📅 2024-06-06 - Using a Yubikey for SSH Authentication on Windows Seamlessly
 * [rupor-github/wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) ⭐ 571 | 🐛 1 | 🌐 Go | 📅 2025-10-13 - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
-* [Azure/azure-dev](https://github.com/Azure/azure-dev) ⭐ 566 | 🐛 635 | 🌐 Go | 📅 2026-08-22 - A developer CLI that reduces the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - co
+* [Azure/azure-dev](https://github.com/Azure/azure-dev) ⭐ 566 | 🐛 637 | 🌐 Go | 📅 2026-08-22 - A developer CLI that reduces the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - co
 * [radekg/terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) ⚠️ Archived - Ansible with Terraform 0.14.x
 * [minamijoyo/hcledit](https://github.com/minamijoyo/hcledit) ⭐ 554 | 🐛 20 | 🌐 Go | 📅 2026-05-05 - A command line editor for HCL
 * [GoogleCloudPlatform/cloud-run-button](https://github.com/GoogleCloudPlatform/cloud-run-button) ⭐ 553 | 🐛 55 | 🌐 Go | 📅 2026-07-10 - Let anyone deploy your GitHub repos to Google Cloud Run with a single click
@@ -2199,9 +2199,9 @@
 * [OneOfOne/xxhash](https://github.com/OneOfOne/xxhash) ⭐ 446 | 🐛 4 | 🌐 Go | 📅 2022-10-07 - A native implementation of the excellent XXHash hashing algorithm.
 * [piranha/gostatic](https://github.com/piranha/gostatic) ⭐ 444 | 🐛 16 | 🌐 Go | 📅 2023-03-02 - Fast static site generator
 * [driusan/de](https://github.com/driusan/de) ⭐ 433 | 🐛 17 | 🌐 Go | 📅 2020-05-02 - A Programmer's Text Editor
-* [Azure/azure-container-networking](https://github.com/Azure/azure-container-networking) ⭐ 433 | 🐛 117 | 🌐 Go | 📅 2026-08-22 - Azure Container Networking Solutions for Linux and Windows Containers
+* [Azure/azure-container-networking](https://github.com/Azure/azure-container-networking) ⭐ 433 | 🐛 118 | 🌐 Go | 📅 2026-08-23 - Azure Container Networking Solutions for Linux and Windows Containers
 * [irevenko/tsukae](https://github.com/irevenko/tsukae) ⭐ 431 | 🐛 0 | 🌐 Go | 📅 2021-04-19 - 🐚📊 Show off your most used shell commands
-* [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) ⭐ 428 | 🐛 44 | 🌐 Go | 📅 2026-08-22 - Toolkit for cloud-native application lifecycle management
+* [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) ⭐ 429 | 🐛 44 | 🌐 Go | 📅 2026-08-23 - Toolkit for cloud-native application lifecycle management
 * [tidwall/pretty](https://github.com/tidwall/pretty) ⭐ 418 | 🐛 6 | 🌐 Go | 📅 2022-10-01 - Efficient JSON beautifier and compactor for Go
 * [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) ⭐ 416 | 🐛 49 | 🌐 Go | 📅 2023-11-07 - Beautiful, integrated, OpenAPI documentation.
 * [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) ⚠️ Archived - A "Cloud" for SQLite databases.  Collaborative development for your data. 😊
@@ -2221,7 +2221,7 @@
 * [icecrime/poule](https://github.com/icecrime/poule) ⭐ 334 | 🐛 8 | 🌐 Go | 📅 2019-01-03 - :chicken: A framework for GitHub automation
 * [aws/session-manager-plugin](https://github.com/aws/session-manager-plugin) ⭐ 319 | 🐛 74 | 🌐 Go | 📅 2026-06-17 - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances
 * [GoogleCloudPlatform/docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) ⭐ 316 | 🐛 21 | 🌐 Go | 📅 2026-08-19 - A Docker credential helper for GCR users
-* [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) ⭐ 315 | 🐛 9 | 🌐 Go | 📅 2026-08-22 - Terraform Provider for Google Cloud Platform (Beta)
+* [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) ⭐ 315 | 🐛 9 | 🌐 Go | 📅 2026-08-23 - Terraform Provider for Google Cloud Platform (Beta)
 * [unidoc/unipdf-examples](https://github.com/unidoc/unipdf-examples) ⭐ 309 | 🐛 2 | 🌐 Go | 📅 2026-08-03 - Examples for creating and processing PDF files with UniPDF <https://github.com/unidoc/unipdf> ⭐ 3,103 | 🐛 8 | 🌐 Go | 📅 2026-07-31
 * [alexmacarthur/local-docker-db](https://github.com/alexmacarthur/local-docker-db) ⭐ 299 | 🐛 3 | 🌐 Go | 📅 2024-05-04 - A bunch o' Docker Compose files used to quickly spin up local databases.
 * [apicat/apicat](https://github.com/apicat/apicat) ⭐ 288 | 🐛 5 | 🌐 Go | 📅 2026-07-15 - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, dat
@@ -2246,13 +2246,13 @@
 * [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) ⭐ 209 | 🐛 6 | 🌐 Go | 📅 2024-01-29 - :shield: Shields.io Badge for your GitHub Actions
 * [lafikl/pginsight](https://github.com/lafikl/pginsight) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2016-04-15 - CLI tool to easily dig deep inside your Postgresql database.
 * [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) ⭐ 209 | 🐛 12 | 🌐 Go | 📅 2025-07-18 - :octocat: :man\_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository.
-* [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) ⚠️ Archived - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of <https://github.com/rShetty/awesome-podcasts> ⭐ 13,076 | 🐛 14 | 📅 2024-03-02
+* [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) ⚠️ Archived - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of <https://github.com/rShetty/awesome-podcasts> ⭐ 13,079 | 🐛 14 | 📅 2024-03-02
 * [vapourlang/vapour](https://github.com/vapourlang/vapour) ⭐ 204 | 🐛 31 | 🌐 Go | 📅 2024-10-30 - Typed superset of R
 * [GitJournal/git-auto-sync](https://github.com/GitJournal/git-auto-sync) ⭐ 201 | 🐛 17 | 🌐 Go | 📅 2024-07-16 - Automatically Sync Git Repos
-* [ubuntu/WSL](https://github.com/ubuntu/WSL) ⭐ 200 | 🐛 17 | 🌐 Go | 📅 2026-08-19 - Ubuntu WSL image build and launcher code.
+* [ubuntu/WSL](https://github.com/ubuntu/WSL) ⭐ 201 | 🐛 17 | 🌐 Go | 📅 2026-08-19 - Ubuntu WSL image build and launcher code.
 * [CenturyLinkLabs/zodiac](https://github.com/CenturyLinkLabs/zodiac) ⭐ 200 | 🐛 2 | 🌐 Go | 📅 2020-01-24 - A lightweight tool for easy deployment and rollback of dockerized applications.
 * [jaxxstorm/aws-sso-creds](https://github.com/jaxxstorm/aws-sso-creds) ⭐ 194 | 🐛 5 | 🌐 Go | 📅 2026-08-20 - Get AWS SSO temporary creds from an SSO profile
-* [aztfmod/terraform-provider-azurecaf](https://github.com/aztfmod/terraform-provider-azurecaf) ⭐ 187 | 🐛 68 | 🌐 Go | 📅 2026-08-19 - Terraform provider for the Terraform platform engineering for Azure
+* [aztfmod/terraform-provider-azurecaf](https://github.com/aztfmod/terraform-provider-azurecaf) ⭐ 187 | 🐛 69 | 🌐 Go | 📅 2026-08-19 - Terraform provider for the Terraform platform engineering for Azure
 * [alexandrst88/terraform-variables-generator](https://github.com/alexandrst88/terraform-variables-generator) ⭐ 185 | 🐛 3 | 🌐 Go | 📅 2020-12-25 - Simple Tool for Generate Variables file from Terraform Configuration
 * [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) ⭐ 184 | 🐛 3 | 🌐 Go | 📅 2025-07-15 - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 * [mactat/framed](https://github.com/mactat/framed) ⭐ 181 | 🐛 1 | 🌐 Go | 📅 2026-05-30 - Architect your project with Framed: effortless files and directories management
@@ -2262,7 +2262,7 @@
 * [dkaslovsky/textnote](https://github.com/dkaslovsky/textnote) ⭐ 175 | 🐛 2 | 🌐 Go | 📅 2023-11-28 - Simple tool for creating and organizing daily notes on the command line
 * [chand1012/git2gpt](https://github.com/chand1012/git2gpt) ⭐ 171 | 🐛 3 | 🌐 Go | 📅 2025-09-26 - Convert a Git repo into a ChatGPT prompt!
 * [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 171 | 🐛 0 | 🌐 Go | 📅 2026-08-15 - This is a CLI tool to execute Google Apps Script (GAS) at own terminal on local PC. Also this CLI tool can be used for managing files in Google Drive for OAuth2 and Service Account.
-* [npackd/npackd](https://github.com/npackd/npackd) ⭐ 171 | 🐛 4 | 🌐 Go | 📅 2026-08-22 - Package manager for Microsoft Windows: Wiki, bug tracker, mirror of the default repositories
+* [npackd/npackd](https://github.com/npackd/npackd) ⭐ 171 | 🐛 4 | 🌐 Go | 📅 2026-08-23 - Package manager for Microsoft Windows: Wiki, bug tracker, mirror of the default repositories
 * [spacelift-io/spacectl](https://github.com/spacelift-io/spacectl) ⭐ 170 | 🐛 9 | 🌐 Go | 📅 2026-08-21 - Spacelift client and CLI
 * [StabbyCutyou/moldova](https://github.com/StabbyCutyou/moldova) ⭐ 168 | 🐛 0 | 🌐 Go | 📅 2017-09-04 - A lightweight templating system for generating random data
 * [antham/chyle](https://github.com/antham/chyle) ⭐ 163 | 🐛 2 | 🌐 Go | 📅 2026-08-22 - Changelog generator : use a git repository and various data sources and publish the result on external services
@@ -2333,7 +2333,7 @@
 * [int128/wslexec](https://github.com/int128/wslexec) ⚠️ Archived - A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
 * [depscloud/depscloud](https://github.com/depscloud/depscloud) ⭐ 45 | 🐛 57 | 🌐 Go | 📅 2026-08-16 - Index and query dependencies across your company's private repositories.
 * [einride/gh-dependabot](https://github.com/einride/gh-dependabot) ⭐ 44 | 🐛 5 | 🌐 Go | 📅 2026-08-01 - GitHub CLI extension for reviewing Dependabot PRs.
-* [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) ⭐ 42 | 🐛 0 | 🌐 Go | 📅 2026-08-22 - 🗞 My personal RSS feed
+* [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) ⭐ 42 | 🐛 0 | 🌐 Go | 📅 2026-08-23 - 🗞 My personal RSS feed
 * [snwfdhmp/duck](https://github.com/snwfdhmp/duck) ⭐ 40 | 🐛 0 | 🌐 Go | 📅 2018-02-12 - Command snippet framework w/ repository (cloud & self hosted)
 * [GoogleCloudPlatform/deploystack-three-tier-app](https://github.com/GoogleCloudPlatform/deploystack-three-tier-app) ⭐ 39 | 🐛 11 | 🌐 Go | 📅 2026-01-06 -
 * [sarifsystems/sarif](https://github.com/sarifsystems/sarif) ⭐ 39 | 🐛 7 | 🌐 Go | 📅 2023-03-07 - A distributed system serving as a personal assistant
@@ -2413,7 +2413,7 @@
 * [vaughany/vcms](https://github.com/vaughany/vcms) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2023-02-25 - Vaughany's Computer Monitoring System.
 * [PhilippHeuer/dotfiles-cli](https://github.com/PhilippHeuer/dotfiles-cli) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-08-12 - stateful cli to install dotfiles into your home directory
 * [subfuzion/codesnip](https://github.com/subfuzion/codesnip) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-09-26 - Code snippets and posts
-* [rstudio/package-manager-rpackagerewriter](https://github.com/rstudio/package-manager-rpackagerewriter) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-08-17 -
+* [rstudio/package-manager-rpackagerewriter](https://github.com/rstudio/package-manager-rpackagerewriter) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2026-08-23 -
 * [golangid/anoman](https://github.com/golangid/anoman) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2019-02-06 - Very simple README generator for your repository
 * [mgramin/pg\_prompter](https://github.com/mgramin/pg_prompter) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2021-11-02 -
 * [openanalytics/rdepot-cli](https://github.com/openanalytics/rdepot-cli) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-05-07 - CLI for RDepot
@@ -2445,9 +2445,9 @@
 
 ## Groovy
 
-* [gradle/gradle](https://github.com/gradle/gradle) ⭐ 18,791 | 🐛 3,460 | 🌐 Groovy | 📅 2026-08-22 - Adaptable, fast automation for all
-* [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) ⭐ 9,651 | 🐛 28 | 🌐 Groovy | 📅 2024-07-12 - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-* [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) ⭐ 3,470 | 🐛 430 | 🌐 Groovy | 📅 2026-08-21 - A DSL for data-driven computational pipelines
+* [gradle/gradle](https://github.com/gradle/gradle) ⭐ 18,790 | 🐛 3,460 | 🌐 Groovy | 📅 2026-08-23 - Adaptable, fast automation for all
+* [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) ⭐ 9,652 | 🐛 28 | 🌐 Groovy | 📅 2024-07-12 - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+* [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) ⭐ 3,471 | 🐛 431 | 🌐 Groovy | 📅 2026-08-23 - A DSL for data-driven computational pipelines
 * [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) ⭐ 859 | 🐛 296 | 🌐 Groovy | 📅 2026-08-10 - a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
 * [embeddedartistry/templates](https://github.com/embeddedartistry/templates) ⭐ 424 | 🐛 2 | 🌐 Groovy | 📅 2023-10-10 - Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)
 * [TWCable/grabbit](https://github.com/TWCable/grabbit) ⭐ 129 | 🐛 89 | 🌐 Groovy | 📅 2020-05-19 - Grabbit - Fast Content Sync tool for AEM/CQ
@@ -2455,16 +2455,16 @@
 
 ## HCL
 
-* [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) ⭐ 7,939 | 🐛 10 | 🌐 Python | 📅 2026-06-02 - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-* [antonputra/tutorials](https://github.com/antonputra/tutorials) ⭐ 4,673 | 🐛 42 | 🌐 HCL | 📅 2026-05-17 - DevOps Tutorials
+* [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) ⭐ 7,941 | 🐛 10 | 🌐 Python | 📅 2026-06-02 - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+* [antonputra/tutorials](https://github.com/antonputra/tutorials) ⭐ 4,675 | 🐛 42 | 🌐 HCL | 📅 2026-05-17 - DevOps Tutorials
 * [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) ⭐ 3,247 | 🐛 24 | 🌐 HCL | 📅 2023-12-13 - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 * [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) ⭐ 2,530 | 🐛 15 | 🌐 HCL | 📅 2026-03-20 - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
-* [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) ⭐ 2,088 | 🐛 7 | 🌐 HCL | 📅 2026-08-21 - End-to-end modular samples and landing zones toolkit for Terraform on GCP.
+* [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) ⭐ 2,088 | 🐛 8 | 🌐 HCL | 📅 2026-08-21 - End-to-end modular samples and landing zones toolkit for Terraform on GCP.
 * [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) ⭐ 1,540 | 🐛 15 | 🌐 HCL | 📅 2026-08-20 - Shows how the CFT modules can be composed to build a secure cloud foundation
 * [env0/terratag](https://github.com/env0/terratag) ⭐ 1,055 | 🐛 7 | 🌐 Go | 📅 2026-07-03 - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 * [terraform-google-modules/terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) ⭐ 962 | 🐛 18 | 🌐 HCL | 📅 2026-07-10 - Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs
-* [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) ⭐ 961 | 🐛 1 | 🌐 HCL | 📅 2026-08-06 - Terraform module to create AWS RDS resources 🇺🇦
-* [Azure/terraform](https://github.com/Azure/terraform) ⭐ 927 | 🐛 79 | 🌐 HCL | 📅 2026-08-20 - Source code for the Azure Marketplace Terraform development VM package.
+* [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) ⭐ 962 | 🐛 1 | 🌐 HCL | 📅 2026-08-06 - Terraform module to create AWS RDS resources 🇺🇦
+* [Azure/terraform](https://github.com/Azure/terraform) ⭐ 927 | 🐛 79 | 🌐 HCL | 📅 2026-08-23 - Source code for the Azure Marketplace Terraform development VM package.
 * [futurice/terraform-examples](https://github.com/futurice/terraform-examples) ⭐ 884 | 🐛 18 | 🌐 HCL | 📅 2024-05-28 - Terraform samples for all the major clouds you can copy and paste. The future, co-created.
 * [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) ⚠️ Archived - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 * [cloudposse/terraform-null-label](https://github.com/cloudposse/terraform-null-label) ⭐ 711 | 🐛 4 | 🌐 HCL | 📅 2026-01-01 - Terraform Module to define a consistent naming convention by (namespace, stage, name, \[attributes])
@@ -2520,8 +2520,8 @@
 * [40net-cloud/fortinet-azure-solutions](https://github.com/40net-cloud/fortinet-azure-solutions) ⭐ 83 | 🐛 2 | 🌐 HCL | 📅 2026-08-21 - A set of Azure Templates for getting you started in Azure with Fortinet solutions. This repository is a place for beta releases and work on the latest templates to be published on github.com/fortinet
 * [dhoer/terraform\_examples](https://github.com/dhoer/terraform_examples) ⭐ 81 | 🐛 2 | 🌐 HCL | 📅 2018-03-20 - Terraform AWS Windows examples
 * [ahmetb/cloud-run-multi-region-terraform](https://github.com/ahmetb/cloud-run-multi-region-terraform) ⭐ 81 | 🐛 0 | 🌐 HCL | 📅 2022-06-19 - Deploy a Cloud Run app to all available regions using Terraform.
-* [freeCodeCamp/infra](https://github.com/freeCodeCamp/infra) ⭐ 80 | 🐛 7 | 🌐 HCL | 📅 2026-08-22 - > freeCodeCamp.org's infrastructure-as-code
-* [cloudxeus/terraform-azure](https://github.com/cloudxeus/terraform-azure) ⭐ 79 | 🐛 2 | 🌐 HCL | 📅 2023-08-06 -
+* [freeCodeCamp/infra](https://github.com/freeCodeCamp/infra) ⭐ 80 | 🐛 7 | 🌐 HCL | 📅 2026-08-23 - > freeCodeCamp.org's infrastructure-as-code
+* [cloudxeus/terraform-azure](https://github.com/cloudxeus/terraform-azure) ⭐ 78 | 🐛 2 | 🌐 HCL | 📅 2023-08-06 -
 * [claranet/terraform-azurerm-regions](https://github.com/claranet/terraform-azurerm-regions) ⭐ 75 | 🐛 0 | 🌐 HCL | 📅 2026-08-14 - Terraform module to handle Azure Regions
 * [Azure/terraform-azurerm-avm-template](https://github.com/Azure/terraform-azurerm-avm-template) ⭐ 74 | 🐛 5 | 🌐 HCL | 📅 2026-08-13 - Template repo for Azure Verified Modules using Terraform
 * [HoussemDellai/AzureDevOpsPipelines-Templates](https://github.com/HoussemDellai/AzureDevOpsPipelines-Templates) ⭐ 72 | 🐛 5 | 🌐 HCL | 📅 2022-06-16 - This project shows how to use YAML templates in Azure DevOps Pipelines.
@@ -2558,8 +2558,8 @@
 * [paulbouwer/terraform-azure-quickstarts-samples](https://github.com/paulbouwer/terraform-azure-quickstarts-samples) ⭐ 28 | 🐛 0 | 🌐 HCL | 📅 2017-04-20 - Reference Azure Terraform templates for the most common Azure deployment patterns.
 * [kumarvna/terraform-azurerm-app-service](https://github.com/kumarvna/terraform-azurerm-app-service) ⭐ 28 | 🐛 2 | 🌐 HCL | 📅 2022-06-08 - Terraform module to deploy Azure App Service for hosting web applications on both Windows and Linux-based environments with optional resources
 * [duffney/terraform-in20hours](https://github.com/duffney/terraform-in20hours) ⭐ 28 | 🐛 0 | 🌐 HCL | 📅 2020-12-23 - Learning Terraform in 20 Hours
-* [mazzasaverio/terraform-gcp-cloud-run](https://github.com/mazzasaverio/terraform-gcp-cloud-run) ⭐ 27 | 🐛 0 | 🌐 HCL | 📅 2024-04-09 - Terraform code to instantiate a Cloud Run V2 connected to a Postgres Cloud SQL, on which the pgvector extension will be enabled, with a connection to Redis and continuous deployment through the automa
 * [ned1313/ado-labs-github-actions](https://github.com/ned1313/ado-labs-github-actions) ⭐ 27 | 🐛 3 | 🌐 HCL | 📅 2024-07-03 - Demo files for the Azure DevOps Labs episode about GitHub Actions and Terraform
+* [mazzasaverio/terraform-gcp-cloud-run](https://github.com/mazzasaverio/terraform-gcp-cloud-run) ⭐ 26 | 🐛 0 | 🌐 HCL | 📅 2024-04-09 - Terraform code to instantiate a Cloud Run V2 connected to a Postgres Cloud SQL, on which the pgvector extension will be enabled, with a connection to Redis and continuous deployment through the automa
 * [hashicorp-education/learn-terraform-spotify](https://github.com/hashicorp-education/learn-terraform-spotify) ⭐ 25 | 🐛 1 | 🌐 HCL | 📅 2023-03-08 - Create a playlist on Spotify by writing it as a Terraform configuration
 * [Azure-Samples/azd-starter-terraform](https://github.com/Azure-Samples/azd-starter-terraform) ⭐ 24 | 🐛 1 | 🌐 HCL | 📅 2026-03-27 - Starter template with Terraform as infrastructure provider for Azure Developer CLI (azd).
 * [Azure-Terraform/terraform-azurerm-storage-account](https://github.com/Azure-Terraform/terraform-azurerm-storage-account) ⭐ 24 | 🐛 4 | 🌐 HCL | 📅 2025-04-02 -
@@ -2568,7 +2568,7 @@
 * [Einsteinish/Terraform-Turotials](https://github.com/Einsteinish/Terraform-Turotials) ⭐ 22 | 🐛 0 | 🌐 HCL | 📅 2021-11-25 - Introductory Terraform Tutorials
 * [kumarvna/terraform-azuread-service-principal](https://github.com/kumarvna/terraform-azuread-service-principal) ⭐ 21 | 🐛 0 | 🌐 HCL | 📅 2022-11-02 - Terraform module to create a service principal and configure access to Azure resources
 * [hashicorp-education/learn-terraform-azure](https://github.com/hashicorp-education/learn-terraform-azure) ⭐ 20 | 🐛 1 | 🌐 HCL | 📅 2023-03-07 -
-* [asdf-community/infrastructure](https://github.com/asdf-community/infrastructure) ⭐ 20 | 🐛 30 | 🌐 HCL | 📅 2026-08-21 - Infrastructure configuration files
+* [asdf-community/infrastructure](https://github.com/asdf-community/infrastructure) ⭐ 20 | 🐛 29 | 🌐 HCL | 📅 2026-08-22 - Infrastructure configuration files
 * [andreipintica/azure-terrafy-handsonlab](https://github.com/andreipintica/azure-terrafy-handsonlab) ⭐ 20 | 🐛 0 | 🌐 HCL | 📅 2022-05-13 - Azure Terrafy hands on lab
 * [markti/terraform-github-azure-terraformer](https://github.com/markti/terraform-github-azure-terraformer) ⭐ 19 | 🐛 3 | 🌐 HCL | 📅 2024-07-21 - GitHub Modules
 * [terraform-azurerm-examples/terraform-bootstrap](https://github.com/terraform-azurerm-examples/terraform-bootstrap) ⭐ 16 | 🐛 1 | 🌐 HCL | 📅 2024-03-08 - Bootstraps an environment for Terraform use. Script plus Terraform files. Outputs for backend and azurerm provider.
@@ -2661,67 +2661,67 @@
 
 ## HLSL
 
-* [Hammster/windows-terminal-shaders](https://github.com/Hammster/windows-terminal-shaders) ⭐ 632 | 🐛 5 | 🌐 HLSL | 📅 2026-01-24 - A small collection of terminal shaders
+* [Hammster/windows-terminal-shaders](https://github.com/Hammster/windows-terminal-shaders) ⭐ 633 | 🐛 5 | 🌐 HLSL | 📅 2026-01-24 - A small collection of terminal shaders
 
 ## HTML
 
-* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,003 | 🐛 83 | 🌐 Python | 📅 2026-08-18 - :books: Freely available programming books
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,743 | 🐛 68 | 🌐 HTML | 📅 2026-08-22 - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 133,720 | 🐛 11 | 🌐 HTML | 📅 2026-08-22 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-* [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,679 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20 - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 79,091 | 🐛 153 | 🌐 Python | 📅 2026-08-20 - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
-* [docker/awesome-compose](https://github.com/docker/awesome-compose) ⭐ 46,146 | 🐛 416 | 🌐 HTML | 📅 2026-08-15 - Awesome Docker Compose samples
-* [tabler/tabler](https://github.com/tabler/tabler) ⭐ 41,498 | 🐛 69 | 🌐 Astro | 📅 2026-08-20 - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-* [google/styleguide](https://github.com/google/styleguide) ⭐ 39,522 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - Style guides for Google-originated open-source projects
+* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,074 | 🐛 83 | 🌐 Python | 📅 2026-08-18 - :books: Freely available programming books
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,803 | 🐛 68 | 🌐 HTML | 📅 2026-08-23 - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 134,257 | 🐛 11 | 🌐 HTML | 📅 2026-08-23 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,707 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-20 - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 79,230 | 🐛 153 | 🌐 Python | 📅 2026-08-20 - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+* [docker/awesome-compose](https://github.com/docker/awesome-compose) ⭐ 46,154 | 🐛 416 | 🌐 HTML | 📅 2026-08-15 - Awesome Docker Compose samples
+* [tabler/tabler](https://github.com/tabler/tabler) ⭐ 41,534 | 🐛 69 | 🌐 Astro | 📅 2026-08-20 - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+* [google/styleguide](https://github.com/google/styleguide) ⭐ 39,524 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - Style guides for Google-originated open-source projects
 * [foundation/foundation-sites](https://github.com/foundation/foundation-sites) ⭐ 29,787 | 🐛 80 | 🌐 HTML | 📅 2025-01-21 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-* [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ⭐ 27,311 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - Documentation that simply works
-* [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) ⭐ 25,425 | 🐛 541 | 🌐 HTML | 📅 2026-07-25 - Modern JavaScript Tutorial
+* [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ⭐ 27,315 | 🐛 1 | 🌐 Python | 📅 2026-08-09 - Documentation that simply works
+* [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) ⭐ 25,428 | 🐛 541 | 🌐 HTML | 📅 2026-07-25 - Modern JavaScript Tutorial
 * [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) ⭐ 21,486 | 🐛 1 | 🌐 HTML | 📅 2026-08-21 - Free Bootstrap 4 Admin Dashboard Template
-* [google/fonts](https://github.com/google/fonts) ⭐ 20,396 | 🐛 1,404 | 🌐 HTML | 📅 2026-08-21 - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-* [uikit/uikit](https://github.com/uikit/uikit) ⭐ 18,527 | 🐛 609 | 🌐 HTML | 📅 2026-08-21 - A lightweight and modular front-end framework for developing fast and powerful web interfaces
+* [google/fonts](https://github.com/google/fonts) ⭐ 20,399 | 🐛 1,404 | 🌐 HTML | 📅 2026-08-21 - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+* [uikit/uikit](https://github.com/uikit/uikit) ⭐ 18,528 | 🐛 609 | 🌐 HTML | 📅 2026-08-21 - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 * [google/web-starter-kit](https://github.com/google/web-starter-kit) ⚠️ Archived - Web Starter Kit - a workflow for multi-device websites
-* [windmill-labs/windmill](https://github.com/windmill-labs/windmill) ⭐ 17,614 | 🐛 817 | 🌐 Rust | 📅 2026-08-22 - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-* [github/opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,642 | 🐛 3 | 🌐 HTML | 📅 2026-08-13 - 📚 Community guides for open source creators
-* [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,378 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-* [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) ⭐ 15,332 | 🐛 295 | 🌐 HTML | 📅 2026-08-21 - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-* [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,231 | 🐛 7 | 🌐 HTML | 📅 2026-07-21 - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+* [windmill-labs/windmill](https://github.com/windmill-labs/windmill) ⭐ 17,635 | 🐛 817 | 🌐 Rust | 📅 2026-08-23 - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+* [github/opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,644 | 🐛 8 | 🌐 HTML | 📅 2026-08-13 - 📚 Community guides for open source creators
+* [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,377 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+* [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) ⭐ 15,333 | 🐛 296 | 🌐 HTML | 📅 2026-08-21 - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+* [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,238 | 🐛 7 | 🌐 HTML | 📅 2026-07-21 - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,695 | 🐛 10 | 🌐 HTML | 📅 2024-08-20 - A free simple responsive HTML email template
-* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) ⭐ 13,556 | 🐛 22 | 🌐 HTML | 📅 2026-08-19 - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) ⭐ 13,558 | 🐛 22 | 🌐 HTML | 📅 2026-08-19 - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) ⭐ 12,446 | 🐛 10 | 🌐 HTML | 📅 2026-08-19 - Guide to using YubiKey for GnuPG and SSH
-* [mixmark-io/turndown](https://github.com/mixmark-io/turndown) ⭐ 11,396 | 🐛 149 | 🌐 HTML | 📅 2026-06-23 - 🛏 An HTML to Markdown converter written in JavaScript
+* [mixmark-io/turndown](https://github.com/mixmark-io/turndown) ⭐ 11,397 | 🐛 149 | 🌐 HTML | 📅 2026-06-23 - 🛏 An HTML to Markdown converter written in JavaScript
 * [keen/dashboards](https://github.com/keen/dashboards) ⭐ 11,040 | 🐛 6 | 🌐 HTML | 📅 2021-11-02 - Responsive dashboard templates 📊✨
 * [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) ⭐ 10,788 | 🐛 213 | 🌐 HTML | 📅 2026-08-21 - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-* [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) ⭐ 9,640 | 🐛 25 | 🌐 HTML | 📅 2026-08-04 - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
+* [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) ⭐ 9,643 | 🐛 25 | 🌐 HTML | 📅 2026-08-04 - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 * [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) ⭐ 9,591 | 🐛 17 | 🌐 HTML | 📅 2026-08-17 - Automagically reverse-engineer REST APIs via capturing traffic
 * [themesberg/flowbite](https://github.com/themesberg/flowbite) ⭐ 9,322 | 🐛 257 | 🌐 HTML | 📅 2026-06-27 - Open-source UI component library and front-end development framework based on Tailwind CSS
 * [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) ⭐ 9,312 | 🐛 11 | 🌐 HTML | 📅 2026-05-22 - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
-* [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) ⭐ 8,352 | 🐛 211 | 🌐 HTML | 📅 2026-08-17 - Official repo for the #tidytuesday project
+* [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) ⭐ 8,354 | 🐛 211 | 🌐 HTML | 📅 2026-08-17 - Official repo for the #tidytuesday project
 * [joemccann/dillinger](https://github.com/joemccann/dillinger) ⭐ 8,273 | 🐛 155 | 🌐 TypeScript | 📅 2026-06-21 - The last Markdown editor, ever.
-* [mdn/learning-area](https://github.com/mdn/learning-area) ⭐ 7,596 | 🐛 5 | 🌐 HTML | 📅 2026-08-18 - GitHub repo for the MDN Learning Area.
-* [GetPublii/Publii](https://github.com/GetPublii/Publii) ⭐ 7,288 | 🐛 292 | 🌐 HTML | 📅 2026-08-15 - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+* [mdn/learning-area](https://github.com/mdn/learning-area) ⭐ 7,597 | 🐛 5 | 🌐 HTML | 📅 2026-08-18 - GitHub repo for the MDN Learning Area.
+* [GetPublii/Publii](https://github.com/GetPublii/Publii) ⭐ 7,288 | 🐛 293 | 🌐 HTML | 📅 2026-08-15 - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) ⭐ 6,864 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-22 - A collection of public resources about how software companies test their software
 * [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,602 | 🐛 5 | 🌐 HTML | 📅 2025-11-09 - 🍀 Local git statistics including GitHub-like contributions calendars.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) ⭐ 6,580 | 🐛 36 | 🌐 HTML | 📅 2026-04-04 - Open source CSS framework for data visualization.
 * [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) ⭐ 6,347 | 🐛 27 | 🌐 HTML | 📅 2025-11-10 - A faster youtube embed.
-* [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) ⭐ 6,308 | 🐛 10 | 🌐 HTML | 📅 2026-02-11 - Free Introduction to Bash Scripting eBook
+* [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) ⭐ 6,310 | 🐛 10 | 🌐 HTML | 📅 2026-02-11 - Free Introduction to Bash Scripting eBook
 * [swyxio/ai-notes](https://github.com/swyxio/ai-notes) ⭐ 6,246 | 🐛 8 | 🌐 HTML | 📅 2026-02-16 - notes for software engineers getting up to speed on new AI developments. Serves as datastore for <https://latent.space> writing, and product brainstorming, but has cleaned up canonical references under
-* [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) ⭐ 6,216 | 🐛 294 | 🌐 HTML | 📅 2026-08-20 - Schema.org - schemas and supporting software
+* [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) ⭐ 6,218 | 🐛 294 | 🌐 HTML | 📅 2026-08-20 - Schema.org - schemas and supporting software
 * [russellsamora/scrollama](https://github.com/russellsamora/scrollama) ⭐ 5,999 | 🐛 11 | 🌐 HTML | 📅 2025-11-13 - Scrollytelling with IntersectionObserver.
 * [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) ⭐ 5,964 | 🐛 22 | 🌐 HTML | 📅 2024-08-14 - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 * [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) ⭐ 5,823 | 🐛 24 | 🌐 HTML | 📅 2026-05-25 - ✨ Build a beautiful and simple website in literally minutes. Demo at <https://beautifuljekyll.com>
 * [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,385 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - OctoLinker — Links together, what belongs together
-* [observablehq/plot](https://github.com/observablehq/plot) ⭐ 5,356 | 🐛 346 | 🌐 HTML | 📅 2026-07-13 - A concise API for exploratory data visualization implementing a layered grammar of graphics
-* [kubernetes/website](https://github.com/kubernetes/website) ⭐ 5,345 | 🐛 1,016 | 🌐 HTML | 📅 2026-08-22 - Kubernetes website and documentation repo:
+* [observablehq/plot](https://github.com/observablehq/plot) ⭐ 5,357 | 🐛 346 | 🌐 HTML | 📅 2026-07-13 - A concise API for exploratory data visualization implementing a layered grammar of graphics
+* [kubernetes/website](https://github.com/kubernetes/website) ⭐ 5,345 | 🐛 1,023 | 🌐 HTML | 📅 2026-08-23 - Kubernetes website and documentation repo:
 * [andybrewer/mvp](https://github.com/andybrewer/mvp) ⭐ 5,128 | 🐛 0 | 🌐 HTML | 📅 2026-02-27 - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 * [tholman/github-corners](https://github.com/tholman/github-corners) ⭐ 4,996 | 🐛 17 | 🌐 HTML | 📅 2025-01-01 - A fresher "Fork me on GitHub" callout.
-* [kevquirk/simple.css](https://github.com/kevquirk/simple.css) ⭐ 4,980 | 🐛 0 | 🌐 HTML | 📅 2026-07-19 - Simple.css is a CSS template that allows you to make a good looking website really quickly.
+* [kevquirk/simple.css](https://github.com/kevquirk/simple.css) ⭐ 4,981 | 🐛 0 | 🌐 HTML | 📅 2026-07-19 - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 * [shower/shower](https://github.com/shower/shower) ⭐ 4,874 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-17 - Shower HTML presentation engine
 * [mark-when/markwhen](https://github.com/mark-when/markwhen) ⭐ 4,866 | 🐛 92 | 🌐 HTML | 📅 2023-12-11 - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-* [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) ⭐ 4,763 | 🐛 6 | 🌐 HTML | 📅 2018-07-29 - All the patterns
-* [zimfw/zimfw](https://github.com/zimfw/zimfw) ⭐ 4,674 | 🐛 24 | 🌐 Shell | 📅 2026-08-17 - Zim: Modular, customizable, and blazing fast Zsh framework
+* [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) ⭐ 4,764 | 🐛 6 | 🌐 HTML | 📅 2018-07-29 - All the patterns
+* [zimfw/zimfw](https://github.com/zimfw/zimfw) ⭐ 4,675 | 🐛 24 | 🌐 Shell | 📅 2026-08-17 - Zim: Modular, customizable, and blazing fast Zsh framework
 * [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) ⚠️ Archived - A curated list of awesome Webpack resources, libraries and tools
 * [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) ⭐ 4,634 | 🐛 1 | 🌐 HTML | 📅 2026-08-05 - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
-* [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) ⭐ 4,528 | 🐛 73 | 🌐 HTML | 📅 2026-08-12 - Open source emojis for designers, developers and everyone else!
+* [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) ⭐ 4,531 | 🐛 74 | 🌐 HTML | 📅 2026-08-12 - Open source emojis for designers, developers and everyone else!
 * [oxalorg/sakura](https://github.com/oxalorg/sakura) ⭐ 4,386 | 🐛 19 | 🌐 HTML | 📅 2026-04-07 - :cherry\_blossom: a minimal css framework/theme.
 * [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) ⭐ 4,099 | 🐛 51 | 🌐 HTML | 📅 2026-07-21 - The comprehensive Markdown reference guide.
 * [xz/new.css](https://github.com/xz/new.css) ⭐ 4,042 | 🐛 37 | 🌐 HTML | 📅 2026-08-10 - A classless CSS framework to write modern websites using only HTML.
@@ -2730,26 +2730,26 @@
 * [bansal/pattern.css](https://github.com/bansal/pattern.css) ⭐ 3,932 | 🐛 18 | 🌐 HTML | 📅 2022-03-26 - CSS only library to fill empty background with beautiful patterns.
 * [0atman/noboilerplate](https://github.com/0atman/noboilerplate) ⭐ 3,868 | 🐛 5 | 🌐 HTML | 📅 2026-05-24 - Code for my talks on the No Boilerplate channel
 * [stisla/stisla](https://github.com/stisla/stisla) ⭐ 3,760 | 🐛 0 | 🌐 CSS | 📅 2026-07-06 - Free Bootstrap Admin Template
-* [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) ⭐ 3,708 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - Database documentation built easy
+* [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) ⭐ 3,710 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - Database documentation built easy
 * [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) ⭐ 3,675 | 🐛 314 | 🌐 HTML | 📅 2026-02-15 - JQuery multiselect plugin based on Twitter Bootstrap.
-* [krishnakumarsekar/awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) ⭐ 3,648 | 🐛 9 | 🌐 HTML | 📅 2024-05-07 - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
-* [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) ⭐ 3,630 | 🐛 46 | 🌐 HTML | 📅 2025-05-02 - A curated list of awesome articles, websites and resources about mental health in the software industry.
-* [vercel/geist-font](https://github.com/vercel/geist-font) ⭐ 3,587 | 🐛 53 | 🌐 HTML | 📅 2026-07-14 -
+* [krishnakumarsekar/awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) ⭐ 3,647 | 🐛 9 | 🌐 HTML | 📅 2024-05-07 - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
+* [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) ⭐ 3,631 | 🐛 46 | 🌐 HTML | 📅 2025-05-02 - A curated list of awesome articles, websites and resources about mental health in the software industry.
+* [vercel/geist-font](https://github.com/vercel/geist-font) ⭐ 3,588 | 🐛 53 | 🌐 HTML | 📅 2026-07-14 -
 * [clauswilke/dataviz](https://github.com/clauswilke/dataviz) ⭐ 3,515 | 🐛 32 | 🌐 HTML | 📅 2022-07-27 - A book covering the fundamentals of data visualization
 * [betterspecs/betterspecs](https://github.com/betterspecs/betterspecs) ⭐ 3,498 | 🐛 34 | 🌐 HTML | 📅 2024-11-14 - RSpec Best Practices
 * [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) ⭐ 3,325 | 🐛 3 | 🌐 HTML | 📅 2026-03-04 - free flexbox templates built with the bulma css framework
 * [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) ⭐ 3,104 | 🐛 85 | 🌐 HTML | 📅 2026-06-18 - A minimalist blog theme for hugo.
 * [bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets) ⭐ 2,978 | 🐛 15 | 🌐 HTML | 📅 2022-05-27 - A collection of helpful snippets to use inside of browser devtools
-* [google/docsy](https://github.com/google/docsy) ⭐ 2,958 | 🐛 192 | 🌐 JavaScript | 📅 2026-08-21 - Hugo theme for open source documentation
+* [google/docsy](https://github.com/google/docsy) ⭐ 2,959 | 🐛 192 | 🌐 JavaScript | 📅 2026-08-21 - Hugo theme for open source documentation
 * [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) ⭐ 2,754 | 🐛 4 | 🌐 HTML | 📅 2026-08-14 - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
 * [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) ⭐ 2,434 | 🐛 6 | 🌐 HTML | 📅 2026-08-17 - A curated list for awesome cloud native tools, software and tutorials.  - <https://jimmysong.io/awesome-cloud-native/>
 * [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) ⭐ 2,426 | 🐛 16 | 🌐 HTML | 📅 2019-12-07 - Code examples for “Interactive Data Visualization for the Web”
-* [elementary-data/elementary](https://github.com/elementary-data/elementary) ⭐ 2,396 | 🐛 26 | 🌐 HTML | 📅 2026-08-22 - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
+* [elementary-data/elementary](https://github.com/elementary-data/elementary) ⭐ 2,396 | 🐛 27 | 🌐 HTML | 📅 2026-08-23 - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 * [thuliteio/doks](https://github.com/thuliteio/doks) ⭐ 2,354 | 🐛 56 | 🌐 HTML | 📅 2026-04-06 - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 * [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) ⭐ 2,281 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 * [Azure/AKS](https://github.com/Azure/AKS) ⭐ 2,137 | 🐛 397 | 🌐 TypeScript | 📅 2026-08-19 - Azure Kubernetes Service
 * [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) ⭐ 1,959 | 🐛 207 | 🌐 HTML | 📅 2024-08-21 - :sunglasses: List of helpful resources added by the community for the community!
-* [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) ⭐ 1,927 | 🐛 1 | 🌐 HTML | 📅 2026-08-18 - Globally Set Explorer Folder Views
+* [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) ⭐ 1,929 | 🐛 1 | 🌐 HTML | 📅 2026-08-18 - Globally Set Explorer Folder Views
 * [maple3142/GDIndex](https://github.com/maple3142/GDIndex) ⭐ 1,874 | 🐛 57 | 🌐 HTML | 📅 2023-07-10 - A Google Drive Index built with Vue Running on CloudFlare Workers
 * [simonw/tools](https://github.com/simonw/tools) ⭐ 1,834 | 🐛 48 | 🌐 HTML | 📅 2026-08-17 - Assorted tools
 * [pikock/bootstrap-magic](https://github.com/pikock/bootstrap-magic) ⭐ 1,794 | 🐛 33 | 🌐 HTML | 📅 2019-01-19 - Bootstrap themes generator made with AngularJS
@@ -2763,19 +2763,19 @@
 * [jadjoubran/webdash](https://github.com/jadjoubran/webdash) ⭐ 1,535 | 🐛 10 | 🌐 HTML | 📅 2018-07-14 - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 * [antonmedv/finder](https://github.com/antonmedv/finder) ⭐ 1,484 | 🐛 19 | 🌐 HTML | 📅 2025-11-20 - CSS Selector Generator 🗺
 * [simonw/til](https://github.com/simonw/til) ⭐ 1,448 | 🐛 36 | 🌐 HTML | 📅 2026-07-29 - Today I Learned
-* [MicrosoftEdge/MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) ⭐ 1,442 | 🐛 244 | 🌐 HTML | 📅 2026-08-19 - Home for explainer documents originated by the Microsoft Edge team
+* [MicrosoftEdge/MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) ⭐ 1,443 | 🐛 244 | 🌐 HTML | 📅 2026-08-19 - Home for explainer documents originated by the Microsoft Edge team
 * [business-science/free\_r\_tips](https://github.com/business-science/free_r_tips) ⭐ 1,420 | 🐛 11 | 🌐 HTML | 📅 2024-11-17 - Free R-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized code tutorials every week.
 * [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) ⭐ 1,413 | 🐛 18 | 🌐 HTML | 📅 2024-06-26 - Minimal URL shortener that can be entirely hosted on GitHub pages.
 * [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) ⭐ 1,404 | 🐛 6 | 🌐 HTML | 📅 2025-08-21 - A guide to modern front-end web development / engineering.
 * [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) ⚠️ Archived - Start your own digital garden using this Jekyll template 🌱
-* [ArjanCodes/examples](https://github.com/ArjanCodes/examples) ⭐ 1,235 | 🐛 16 | 🌐 HTML | 📅 2026-08-19 - All the code examples I use in my videos
+* [ArjanCodes/examples](https://github.com/ArjanCodes/examples) ⭐ 1,236 | 🐛 16 | 🌐 HTML | 📅 2026-08-19 - All the code examples I use in my videos
 * [twbs/bootstrap-npm-starter](https://github.com/twbs/bootstrap-npm-starter) ⚠️ Archived - Starter template for new building with Bootstrap 4 in npm projects.
 * [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) ⭐ 1,211 | 🐛 16 | 🌐 HTML | 📅 2023-10-16 - Bash Academy - The Bash Guide
 * [carlosperate/awesome-microbit](https://github.com/carlosperate/awesome-microbit) ⭐ 1,194 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 - A curated list of BBC micro:bit resources.
-* [ropensci/skimr](https://github.com/ropensci/skimr) ⭐ 1,142 | 🐛 20 | 🌐 HTML | 📅 2026-01-08 - A frictionless, pipeable approach to dealing with summary statistics
+* [ropensci/skimr](https://github.com/ropensci/skimr) ⭐ 1,141 | 🐛 20 | 🌐 HTML | 📅 2026-01-08 - A frictionless, pipeable approach to dealing with summary statistics
 * [wesbos/hot-tips](https://github.com/wesbos/hot-tips) ⭐ 1,127 | 🐛 8 | 🌐 HTML | 📅 2026-04-09 - The code behind my hot tips
 * [holtzy/data\_to\_viz](https://github.com/holtzy/data_to_viz) ⭐ 1,123 | 🐛 96 | 🌐 HTML | 📅 2024-10-18 - Leading to the dataviz you need
-* [hak5/omg-payloads](https://github.com/hak5/omg-payloads) ⭐ 1,090 | 🐛 9 | 🌐 HTML | 📅 2025-11-25 - Official payload library for the O.MG line of products from Mischief Gadgets
+* [hak5/omg-payloads](https://github.com/hak5/omg-payloads) ⭐ 1,090 | 🐛 10 | 🌐 HTML | 📅 2025-11-25 - Official payload library for the O.MG line of products from Mischief Gadgets
 * [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) ⭐ 1,076 | 🐛 9 | 🌐 HTML | 📅 2025-06-18 - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 * [OHDSI/CommonDataModel](https://github.com/OHDSI/CommonDataModel) ⭐ 1,075 | 🐛 84 | 🌐 HTML | 📅 2026-08-21 - Definition and DDLs for the OMOP Common Data Model (CDM)
 * [techwithtim/Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) ⭐ 1,010 | 🐛 99 | 🌐 HTML | 📅 2024-10-17 - Code for the note storing flask web app made during a YouTube video.
@@ -2787,7 +2787,7 @@
 * [brentthorne/posterdown](https://github.com/brentthorne/posterdown) ⭐ 880 | 🐛 40 | 🌐 HTML | 📅 2021-12-15 - Use RMarkdown to generate PDF Conference Posters via HTML
 * [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) ⭐ 871 | 🐛 21 | 🌐 HTML | 📅 2026-08-17 - Go backend for LibreSpeed
 * [awslabs/aws-js-s3-explorer](https://github.com/awslabs/aws-js-s3-explorer) ⭐ 864 | 🐛 27 | 🌐 HTML | 📅 2026-06-17 - AWS JavaScript S3 Explorer is a JavaScript application that uses AWS's JavaScript SDK and S3 APIs to make the contents of an S3 bucket easy to browse via a web browser.
-* [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) ⭐ 842 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-22 - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
+* [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) ⭐ 842 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-23 - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
 * [TwilioDevEd/introduction-to-apis-notes](https://github.com/TwilioDevEd/introduction-to-apis-notes) ⚠️ Archived - Introduction to APIs - v2
 * [matteobrusa/Password-protection-for-static-pages](https://github.com/matteobrusa/Password-protection-for-static-pages) ⭐ 751 | 🐛 12 | 🌐 HTML | 📅 2021-11-22 - Password protection for static pages
 * [rstudio/rstudio-conf](https://github.com/rstudio/rstudio-conf) ⭐ 750 | 🐛 0 | 🌐 HTML | 📅 2026-07-27 - Materials for rstudio::conf
@@ -2810,13 +2810,13 @@
 * [jgm/pandoc-templates](https://github.com/jgm/pandoc-templates) ⭐ 559 | 🐛 1 | 🌐 HTML | 📅 2026-08-12 - Templates for pandoc, tagged to release
 * [cuttlebelle/cuttlebelle](https://github.com/cuttlebelle/cuttlebelle) ⭐ 553 | 🐛 18 | 🌐 HTML | 📅 2023-06-12 - The react static site generator that separates editing and code concerns
 * [nishantpainter/personal-kanban](https://github.com/nishantpainter/personal-kanban) ⭐ 552 | 🐛 12 | 🌐 HTML | 📅 2023-10-04 - 📌 Personal Kanban Board is an agile project management tool that helps you visualise your work, limit your work-in-progress (WIP) and to craft & optimise your work flow to get the maximum output. To a
-* [nstrayer/cv](https://github.com/nstrayer/cv) ⭐ 537 | 🐛 15 | 🌐 HTML | 📅 2025-04-02 - My CV built using RMarkdown and the pagedown package.
+* [nstrayer/cv](https://github.com/nstrayer/cv) ⭐ 538 | 🐛 15 | 🌐 HTML | 📅 2025-04-02 - My CV built using RMarkdown and the pagedown package.
 * [jdrouet/mrml](https://github.com/jdrouet/mrml) ⭐ 504 | 🐛 22 | 🌐 HTML | 📅 2026-08-11 - Implementation of mjml in rust
 * [themeselection/bootstrap-cheatsheet](https://github.com/themeselection/bootstrap-cheatsheet) ⭐ 472 | 🐛 2 | 🌐 HTML | 📅 2025-08-27 - The ultimate cheatsheet for Bootstrap5 🚀
 * [radiant-rstats/radiant](https://github.com/radiant-rstats/radiant) ⭐ 466 | 🐛 36 | 🌐 HTML | 📅 2026-01-10 - Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate.
 * [awesome-br/awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) ⭐ 465 | 🐛 19 | 🌐 HTML | 📅 2022-12-06 -
 * [ckissi/responsive-html-email-templates](https://github.com/ckissi/responsive-html-email-templates) ⭐ 455 | 🐛 2 | 🌐 HTML | 📅 2019-04-09 - Collection of Free responsive HTML templates for Startups
-* [MicrosoftDocs/edge-developer](https://github.com/MicrosoftDocs/edge-developer) ⭐ 446 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-21 - Developer documentation for Edge.
+* [MicrosoftDocs/edge-developer](https://github.com/MicrosoftDocs/edge-developer) ⭐ 446 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-23 - Developer documentation for Edge.
 * [darekkay/static-marks](https://github.com/darekkay/static-marks) ⭐ 444 | 🐛 9 | 🌐 HTML | 📅 2024-05-23 - Shareable bookmarks
 * [kevin-powell/reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp) ⭐ 433 | 🐛 4 | 🌐 HTML | 📅 2023-09-04 - Course files for the Responsive Web Design Bootcamp: \[<https://scrimba.com/course/gresponsive/>]
 * [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) ⭐ 432 | 🐛 26 | 🌐 HTML | 📅 2026-08-14 - A home for compiler team planning documents, meeting minutes, and other such things.
@@ -2943,13 +2943,13 @@
 * [PrettyPrinted/flask\_auth\_scotch](https://github.com/PrettyPrinted/flask_auth_scotch) ⭐ 122 | 🐛 9 | 🌐 HTML | 📅 2022-01-02 -
 * [actions/jekyll-build-pages](https://github.com/actions/jekyll-build-pages) ⭐ 121 | 🐛 12 | 🌐 HTML | 📅 2026-08-17 - A simple GitHub Action for producing Jekyll build artifacts compatible with GitHub Pages.
 * [EagerAI/fastai](https://github.com/EagerAI/fastai) ⭐ 121 | 🐛 6 | 🌐 HTML | 📅 2025-02-15 - R interface to fast.ai
-* [pnp/blog](https://github.com/pnp/blog) ⭐ 119 | 🐛 18 | 🌐 HTML | 📅 2026-08-21 - holds all blogs published on the Microsoft 365 Platform Community blog
+* [pnp/blog](https://github.com/pnp/blog) ⭐ 119 | 🐛 19 | 🌐 HTML | 📅 2026-08-21 - holds all blogs published on the Microsoft 365 Platform Community blog
 * [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website) ⭐ 119 | 🐛 204 | 🌐 JavaScript | 📅 2026-08-22 - My HUGO Website that I use for Videos, Blogs, and Redirects
 * [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) ⭐ 118 | 🐛 1 | 🌐 HTML | 📅 2023-01-11 - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 * [pryley/star-rating.js](https://github.com/pryley/star-rating.js) ⭐ 117 | 🐛 0 | 🌐 HTML | 📅 2024-04-30 - This zero-dependency ES6 module transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element.
 * [ben-aaron188/rgpt3](https://github.com/ben-aaron188/rgpt3) ⭐ 117 | 🐛 6 | 🌐 HTML | 📅 2024-11-29 - Making requests from R to the GPT models
 * [jpsider/RestPS](https://github.com/jpsider/RestPS) ⭐ 116 | 🐛 17 | 🌐 HTML | 📅 2025-08-31 - Simple ReST Framework for Powershell
-* [Azure/AppService](https://github.com/Azure/AppService) ⭐ 113 | 🐛 3 | 🌐 HTML | 📅 2026-08-22 - Blog posts from the App Service team
+* [Azure/AppService](https://github.com/Azure/AppService) ⭐ 113 | 🐛 3 | 🌐 HTML | 📅 2026-08-23 - Blog posts from the App Service team
 * [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) ⭐ 113 | 🐛 2 | 🌐 HTML | 📅 2026-07-30 - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
 * [holtzy/Pimp-my-rmd](https://github.com/holtzy/Pimp-my-rmd) ⭐ 113 | 🐛 6 | 🌐 HTML | 📅 2022-02-22 - A few tips about R markdown
 * [asheroto/Extension-Exporter](https://github.com/asheroto/Extension-Exporter) ⭐ 112 | 🐛 1 | 🌐 HTML | 📅 2025-02-11 - Chrome extension to export installed extension names and URLs to an HTML file. Reimagined edition of 'Export links of all extensions', now with enhanced security and a redesigned icon.
@@ -2963,7 +2963,7 @@
 * [Rajaniraiyn/windows11](https://github.com/Rajaniraiyn/windows11) ⭐ 105 | 🐛 3 | 🌐 HTML | 📅 2023-05-07 - Want to experience Windows 11 now within your browser?
 * [healthchecks/dashboard](https://github.com/healthchecks/dashboard) ⭐ 104 | 🐛 0 | 🌐 HTML | 📅 2025-08-05 - A standalone dashboard page showing the status of the checks in your Healthchecks.io account.
 * [wizardg/paintstrap](https://github.com/wizardg/paintstrap) ⭐ 102 | 🐛 5 | 🌐 HTML | 📅 2017-08-08 - Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
-* [OCA/account-invoice-reporting](https://github.com/OCA/account-invoice-reporting) ⭐ 100 | 🐛 22 | 🌐 HTML | 📅 2026-08-20 - Odoo Invoicing reports
+* [OCA/account-invoice-reporting](https://github.com/OCA/account-invoice-reporting) ⭐ 100 | 🐛 23 | 🌐 HTML | 📅 2026-08-20 - Odoo Invoicing reports
 * [ronidas39/LLMtutorial](https://github.com/ronidas39/LLMtutorial) ⭐ 100 | 🐛 4 | 🌐 HTML | 📅 2025-04-08 -
 * [tidymodels/tidymodels.org-legacy](https://github.com/tidymodels/tidymodels.org-legacy) ⚠️ Archived - Legacy Source of tidymodels.org
 * [pablo14/funModeling](https://github.com/pablo14/funModeling) ⭐ 100 | 🐛 4 | 🌐 HTML | 📅 2026-02-17 - R package: funModeling: data cleaning, importance variable analysis and model perfomance
@@ -3034,10 +3034,10 @@
 * [Azure-Samples/app-service-web-html-get-started](https://github.com/Azure-Samples/app-service-web-html-get-started) ⚠️ Archived - This basic HTML+CSS+JS site is used by the getting started content to demonstrate how easy it is to develop a web app and deploy it to Azure App Service.
 * [kaybenleroll/data\_workshops](https://github.com/kaybenleroll/data_workshops) ⭐ 59 | 🐛 4 | 🌐 HTML | 📅 2026-07-21 - This repository contains all the files for the various workshops created as part of Dublin R
 * [Toniiiio/imageclipr](https://github.com/Toniiiio/imageclipr) ⭐ 59 | 🐛 5 | 🌐 HTML | 📅 2021-10-30 - RStudio Addin: Copy Image from Clipboard into RMarkdown .Rmd file
-* [kbroman/kbroman.github.io](https://github.com/kbroman/kbroman.github.io) ⭐ 58 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - Karl Broman's website
+* [kbroman/kbroman.github.io](https://github.com/kbroman/kbroman.github.io) ⭐ 58 | 🐛 0 | 🌐 HTML | 📅 2026-08-23 - Karl Broman's website
 * [smach/R4JournalismBook](https://github.com/smach/R4JournalismBook) ⭐ 58 | 🐛 1 | 🌐 HTML | 📅 2024-09-17 - Companion site for my book Practical R for Mass Communication & Journalism, part of the CRC Press R Series
 * [JassaRich/Inventory-Management-Admin-Dashboard](https://github.com/JassaRich/Inventory-Management-Admin-Dashboard) ⭐ 57 | 🐛 0 | 🌐 HTML | 📅 2023-12-06 - FREE INVENTORY MANAGEMENT ADMIN DASHBOARD TEMPLATE 9 BOOTSTRAP 5
-* [tomjoht/tomjoht.github.io](https://github.com/tomjoht/tomjoht.github.io) ⭐ 57 | 🐛 2 | 🌐 HTML | 📅 2026-08-20 - blog for I'd Rather Be Writing
+* [tomjoht/tomjoht.github.io](https://github.com/tomjoht/tomjoht.github.io) ⭐ 57 | 🐛 2 | 🌐 HTML | 📅 2026-08-22 - blog for I'd Rather Be Writing
 * [rd-alliance/metadata-directory](https://github.com/rd-alliance/metadata-directory) ⭐ 57 | 🐛 5 | 🌐 HTML | 📅 2026-08-13 - Prototype metadata directory for the Research Data Alliance:
 * [app-generator/ecommerce-flask-stripe](https://github.com/app-generator/ecommerce-flask-stripe) ⭐ 57 | 🐛 2 | 🌐 HTML | 📅 2025-03-05 - Flask Stripe Sample - Soft UI Design (Free Sample) | AppSeed
 * [StefanoCecere/markdown\_pandoc\_book\_template](https://github.com/StefanoCecere/markdown_pandoc_book_template) ⭐ 57 | 🐛 1 | 🌐 HTML | 📅 2021-06-06 - a template to create pdf/ePub/html/docx books by Markdown via Pandoc
@@ -3102,7 +3102,7 @@
 * [anthilemoon/tw-digital-garden](https://github.com/anthilemoon/tw-digital-garden) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2020-05-03 - Create a digital garden with TiddlyWiki.
 * [JohnCoene/how-to-build-htmlwidgets](https://github.com/JohnCoene/how-to-build-htmlwidgets) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2020-11-27 - Material - How to build htmlwidgets workshop
 * [ColinFay/craneur](https://github.com/ColinFay/craneur) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2018-11-22 - Create your own R Archive Network
-* [outline/website](https://github.com/outline/website) ⭐ 34 | 🐛 1 | 🌐 HTML | 📅 2026-08-19 - Marketing website for the Outline knowledge base.
+* [outline/website](https://github.com/outline/website) ⭐ 34 | 🐛 1 | 🌐 HTML | 📅 2026-08-23 - Marketing website for the Outline knowledge base.
 * [rinpharma/2020\_presentations](https://github.com/rinpharma/2020_presentations) ⭐ 34 | 🐛 0 | 🌐 HTML | 📅 2020-11-04 -
 * [maloriejhughes/Dashboarding-Tutorial](https://github.com/maloriejhughes/Dashboarding-Tutorial) ⭐ 34 | 🐛 0 | 🌐 HTML | 📅 2019-11-08 - Presentation, pro tips, and tools for dashboarding like a boss: <https://maloriejhughes.github.io/Dashboarding-Tutorial/>
 * [baranovskypd/goodpress](https://github.com/baranovskypd/goodpress) ⭐ 33 | 🐛 12 | 🌐 HTML | 📅 2023-06-20 - WIP!! :warning: R Package to Write Posts from R Markdown to Wordpress :warning:
@@ -3310,7 +3310,7 @@
 * [timathom/marc2linkedart](https://github.com/timathom/marc2linkedart) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2023-04-12 - Specifications to convert MARC 21 records to Linked Art JSON-LD
 * [djnavarro/slides-starting-rmarkdown](https://github.com/djnavarro/slides-starting-rmarkdown) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2022-07-02 -
 * [matt-dray/rostrum-blog](https://github.com/matt-dray/rostrum-blog) ⚠️ Archived - :memo::bug: Blog: superseded source code for rostrum.blog
-* [r-devel/r-dev-web](https://github.com/r-devel/r-dev-web) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - Mirrors <https://developer.r-project.org> sources
+* [r-devel/r-dev-web](https://github.com/r-devel/r-dev-web) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-08-23 - Mirrors <https://developer.r-project.org> sources
 * [mammykins/App-cherry\_picker](https://github.com/mammykins/App-cherry_picker) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2017-03-20 - A Shiny app for mapping School specific variables by Local Education Authority with Leaflet in R
 * [DavisVaughan/2020-06-01\_dplyr-vctrs-compat](https://github.com/DavisVaughan/2020-06-01_dplyr-vctrs-compat) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2020-06-02 -
 * [o2r-project/ctv-computational-environments](https://github.com/o2r-project/ctv-computational-environments) ⭐ 6 | 🐛 8 | 🌐 HTML | 📅 2019-08-07 - A CRAN task view for computational environments and reproducibility
@@ -3557,24 +3557,24 @@
 
 ## Haml
 
-* [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) ⭐ 6,671 | 🐛 42 | 🌐 Haml | 📅 2026-08-21 - If you build software, keep a changelog.
+* [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) ⭐ 6,672 | 🐛 42 | 🌐 Haml | 📅 2026-08-21 - If you build software, keep a changelog.
 
 ## Handlebars
 
-* [yeun/open-color](https://github.com/yeun/open-color) ⭐ 5,557 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Color scheme for UI design.
+* [yeun/open-color](https://github.com/yeun/open-color) ⭐ 5,558 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Color scheme for UI design.
 * [electron/electronjs.org-old](https://github.com/electron/electronjs.org-old) ⚠️ Archived - Electron website
 * [rithvikvibhu/GHLocalApi](https://github.com/rithvikvibhu/GHLocalApi) ⭐ 466 | 🐛 7 | 🌐 Handlebars | 📅 2026-04-13 - (Unofficial) Google Home local API documentation.
-* [sourcemeta/awesome-jsonschema](https://github.com/sourcemeta/awesome-jsonschema) ⭐ 169 | 🐛 13 | 🌐 Handlebars | 📅 2026-05-12 - A curated list of awesome JSON Schema resources, tutorials, tools, and more
+* [sourcemeta/awesome-jsonschema](https://github.com/sourcemeta/awesome-jsonschema) ⭐ 169 | 🐛 12 | 🌐 Handlebars | 📅 2026-08-22 - A curated list of awesome JSON Schema resources, tutorials, tools, and more
 
 ## Haskell
 
-* [jgm/pandoc](https://github.com/jgm/pandoc) ⭐ 45,974 | 🐛 1,036 | 🌐 Haskell | 📅 2026-08-22 - Universal markup converter
-* [koalaman/shellcheck](https://github.com/koalaman/shellcheck) ⭐ 39,909 | 🐛 1,140 | 🌐 Haskell | 📅 2026-08-04 - ShellCheck, a static analysis tool for shell scripts
-* [PostgREST/postgrest](https://github.com/PostgREST/postgrest) ⭐ 27,615 | 🐛 391 | 🌐 Haskell | 📅 2026-08-22 - REST API for any Postgres database
+* [jgm/pandoc](https://github.com/jgm/pandoc) ⭐ 45,982 | 🐛 1,035 | 🌐 Haskell | 📅 2026-08-23 - Universal markup converter
+* [koalaman/shellcheck](https://github.com/koalaman/shellcheck) ⭐ 39,913 | 🐛 1,139 | 🌐 Haskell | 📅 2026-08-04 - ShellCheck, a static analysis tool for shell scripts
+* [PostgREST/postgrest](https://github.com/PostgREST/postgrest) ⭐ 27,620 | 🐛 391 | 🌐 Haskell | 📅 2026-08-22 - REST API for any Postgres database
 * [hadolint/hadolint](https://github.com/hadolint/hadolint) ⭐ 12,367 | 🐛 203 | 🌐 Haskell | 📅 2026-08-17 - Dockerfile linter, validate inline bash, written in Haskell
 * [purescript/purescript](https://github.com/purescript/purescript) ⭐ 8,901 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08 - A strongly-typed language that compiles to JavaScript
 * [elm/compiler](https://github.com/elm/compiler) ⭐ 7,883 | 🐛 304 | 🌐 Haskell | 📅 2026-07-13 - Compiler for Elm, a functional language for reliable webapps.
-* [commercialhaskell/stack](https://github.com/commercialhaskell/stack) ⭐ 4,077 | 🐛 610 | 🌐 Haskell | 📅 2026-08-21 - The Haskell Tool Stack
+* [commercialhaskell/stack](https://github.com/commercialhaskell/stack) ⭐ 4,077 | 🐛 607 | 🌐 Haskell | 📅 2026-08-22 - The Haskell Tool Stack
 * [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) ⚠️ Archived - A Dependently Typed Functional Programming Language
 * [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) ⭐ 3,358 | 🐛 67 | 🌐 Haskell | 📅 2026-05-10 - A shell script which checks your $HOME for unwanted files and directories.
 * [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) ⭐ 2,866 | 🐛 121 | 🌐 Haskell | 📅 2026-08-12 - A static website compiler library in Haskell
@@ -3595,86 +3595,86 @@
 
 ## Haxe
 
-* [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) ⭐ 6,918 | 🐛 1,161 | 🌐 Haxe | 📅 2026-08-20 - Haxe - The Cross-Platform Toolkit
+* [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) ⭐ 6,917 | 🐛 1,161 | 🌐 Haxe | 📅 2026-08-20 - Haxe - The Cross-Platform Toolkit
 
 ## Inno Setup
 
-* [DomGries/InnoDependencyInstaller](https://github.com/DomGries/InnoDependencyInstaller) ⭐ 728 | 🐛 0 | 🌐 Inno Setup | 📅 2026-08-21 - Download and install any dependency such as .NET, Visual C++ or SQL Server during your application's installation!
+* [DomGries/InnoDependencyInstaller](https://github.com/DomGries/InnoDependencyInstaller) ⭐ 730 | 🐛 0 | 🌐 Inno Setup | 📅 2026-08-21 - Download and install any dependency such as .NET, Visual C++ or SQL Server during your application's installation!
 * [hardwario/bch-toolchain-windows](https://github.com/hardwario/bch-toolchain-windows) - HARDWARIO Toolchain for Windows
 
 ## JSON
 
-* [upptime/upptime](https://github.com/upptime/upptime) ⭐ 17,142 | 🐛 65 | 🌐 Markdown | 📅 2026-08-22 - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+* [upptime/upptime](https://github.com/upptime/upptime) ⭐ 17,142 | 🐛 65 | 🌐 Markdown | 📅 2026-08-23 - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 * [microsoft/Application-Insights-Workbooks](https://github.com/microsoft/Application-Insights-Workbooks) ⭐ 645 | 🐛 57 | 🌐 JSON | 📅 2026-08-19 - Templates for Azure Monitor Workbooks
 
 ## Java
 
-* [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ⭐ 81,335 | 🐛 512 | 🌐 Java | 📅 2026-08-21 - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-* [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,502 | 🐛 3,341 | 🌐 Java | 📅 2026-08-22 - Free universal database tool and SQL client
-* [keycloak/keycloak](https://github.com/keycloak/keycloak) ⭐ 36,339 | 🐛 3,113 | 🌐 Java | 📅 2026-08-22 - Open Source Identity and Access Management For Modern Applications and Services
-* [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) ⭐ 34,386 | 🐛 186 | 🌐 Java | 📅 2026-08-22 - A browser automation framework and ecosystem.
-* [apolloconfig/apollo](https://github.com/apolloconfig/apollo) ⭐ 29,799 | 🐛 159 | 🌐 Java | 📅 2026-08-22 - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,682 | 🐛 5,722 | 🌐 Java | 📅 2026-08-22 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-* [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,481 | 🐛 3,615 | 🌐 Java | 📅 2026-08-22 - Jenkins automation server
-* [dataease/dataease](https://github.com/dataease/dataease) ⭐ 24,357 | 🐛 43 | 🌐 Java | 📅 2026-08-22 - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
-* [google/gson](https://github.com/google/gson) ⭐ 24,228 | 🐛 340 | 🌐 Java | 📅 2026-08-14 - A Java serialization/deserialization library to convert Java Objects into JSON and back
-* [openjdk/jdk](https://github.com/openjdk/jdk) ⭐ 23,259 | 🐛 417 | 🌐 Java | 📅 2026-08-22 - JDK main-line development <https://openjdk.org/projects/jdk>
-* [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) ⭐ 20,478 | 🐛 156 | 🌐 Java | 📅 2026-08-22 - IntelliJ IDEA Community Edition & IntelliJ Platform
-* [questdb/questdb](https://github.com/questdb/questdb) ⭐ 17,270 | 🐛 920 | 🌐 Java | 📅 2026-08-22 - QuestDB is a high performance, open-source, time-series database
-* [neo4j/neo4j](https://github.com/neo4j/neo4j) ⭐ 17,110 | 🐛 240 | 🌐 Java | 📅 2026-08-07 - Graphs for Everyone
+* [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ⭐ 81,345 | 🐛 513 | 🌐 Java | 📅 2026-08-21 - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+* [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,515 | 🐛 3,343 | 🌐 Java | 📅 2026-08-23 - Free universal database tool and SQL client
+* [keycloak/keycloak](https://github.com/keycloak/keycloak) ⭐ 36,350 | 🐛 3,129 | 🌐 Java | 📅 2026-08-23 - Open Source Identity and Access Management For Modern Applications and Services
+* [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) ⭐ 34,386 | 🐛 187 | 🌐 Java | 📅 2026-08-23 - A browser automation framework and ecosystem.
+* [apolloconfig/apollo](https://github.com/apolloconfig/apollo) ⭐ 29,798 | 🐛 159 | 🌐 Java | 📅 2026-08-22 - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,682 | 🐛 5,723 | 🌐 Java | 📅 2026-08-23 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+* [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,481 | 🐛 3,608 | 🌐 Java | 📅 2026-08-23 - Jenkins automation server
+* [dataease/dataease](https://github.com/dataease/dataease) ⭐ 24,361 | 🐛 43 | 🌐 Java | 📅 2026-08-23 - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
+* [google/gson](https://github.com/google/gson) ⭐ 24,227 | 🐛 341 | 🌐 Java | 📅 2026-08-14 - A Java serialization/deserialization library to convert Java Objects into JSON and back
+* [openjdk/jdk](https://github.com/openjdk/jdk) ⭐ 23,262 | 🐛 416 | 🌐 Java | 📅 2026-08-23 - JDK main-line development <https://openjdk.org/projects/jdk>
+* [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) ⭐ 20,478 | 🐛 156 | 🌐 Java | 📅 2026-08-23 - IntelliJ IDEA Community Edition & IntelliJ Platform
+* [questdb/questdb](https://github.com/questdb/questdb) ⭐ 17,270 | 🐛 920 | 🌐 Java | 📅 2026-08-23 - QuestDB is a high performance, open-source, time-series database
+* [neo4j/neo4j](https://github.com/neo4j/neo4j) ⭐ 17,114 | 🐛 242 | 🌐 Java | 📅 2026-08-07 - Graphs for Everyone
 * [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) ⭐ 15,274 | 🐛 168 | 🌐 Java | 📅 2026-08-19 - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-* [elastic/logstash](https://github.com/elastic/logstash) ⭐ 14,924 | 🐛 2,249 | 🌐 Java | 📅 2026-08-21 - Logstash - transport and process your logs, events, or other data
-* [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) ⭐ 14,443 | 🐛 64 | 🌐 Java | 📅 2026-08-22 - Your entire server infrastructure at your fingertips
-* [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,439 | 🐛 251 | 🌐 Java | 📅 2026-07-15 - 🏗 Build container images for your Java applications.
-* [apache/druid](https://github.com/apache/druid) ⭐ 14,045 | 🐛 798 | 🌐 Java | 📅 2026-08-22 - Apache Druid: a high performance real-time analytics database.
-* [debezium/debezium](https://github.com/debezium/debezium) ⭐ 13,034 | 🐛 103 | 🌐 Java | 📅 2026-08-22 - Change data capture for a variety of databases. Please log issues at <https://issues.redhat.com/browse/DBZ>.
-* [datahub-project/datahub](https://github.com/datahub-project/datahub) ⭐ 12,564 | 🐛 1,226 | 🌐 Python | 📅 2026-08-22 - The Metadata Platform for your Data and AI Stack
+* [elastic/logstash](https://github.com/elastic/logstash) ⭐ 14,923 | 🐛 2,249 | 🌐 Java | 📅 2026-08-21 - Logstash - transport and process your logs, events, or other data
+* [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) ⭐ 14,448 | 🐛 65 | 🌐 Java | 📅 2026-08-22 - Your entire server infrastructure at your fingertips
+* [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,440 | 🐛 251 | 🌐 Java | 📅 2026-07-15 - 🏗 Build container images for your Java applications.
+* [apache/druid](https://github.com/apache/druid) ⭐ 14,045 | 🐛 786 | 🌐 Java | 📅 2026-08-23 - Apache Druid: a high performance real-time analytics database.
+* [debezium/debezium](https://github.com/debezium/debezium) ⭐ 13,039 | 🐛 101 | 🌐 Java | 📅 2026-08-23 - Change data capture for a variety of databases. Please log issues at <https://issues.redhat.com/browse/DBZ>.
+* [datahub-project/datahub](https://github.com/datahub-project/datahub) ⭐ 12,567 | 🐛 1,228 | 🌐 Python | 📅 2026-08-23 - The Metadata Platform for your Data and AI Stack
 * [clojure/clojure](https://github.com/clojure/clojure) ⭐ 10,952 | 🐛 0 | 🌐 Java | 📅 2026-07-29 - The Clojure programming language
 * [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) ⭐ 10,451 | 🐛 154 | 🌐 Java | 📅 2026-08-21 - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
-* [flyway/flyway](https://github.com/flyway/flyway) ⭐ 10,020 | 🐛 254 | 🌐 Java | 📅 2026-08-13 - Flyway by Redgate • Database Migrations Made Easy.
-* [apache/seatunnel](https://github.com/apache/seatunnel) ⭐ 9,569 | 🐛 673 | 🌐 Java | 📅 2026-08-22 - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
-* [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) ⭐ 8,000 | 🐛 234 | 🌐 TypeScript | 📅 2026-08-20 - SVG library for React Native, React Native Web, and plain React web projects.
-* [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) ⭐ 7,532 | 🐛 190 | 🌐 Java | 📅 2026-08-19 - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
-* [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) ⭐ 6,197 | 🐛 19 | 🌐 Java | 📅 2026-05-08 - A list of useful Java frameworks, libraries, software and hello worlds examples
-* [microsoft/typespec](https://github.com/microsoft/typespec) ⭐ 5,824 | 🐛 1,078 | 🌐 Java | 📅 2026-08-22 -
-* [liquibase/liquibase](https://github.com/liquibase/liquibase) ⭐ 5,593 | 🐛 249 | 🌐 Java | 📅 2026-08-21 - Main Liquibase Source
-* [apache/maven](https://github.com/apache/maven) ⭐ 5,319 | 🐛 786 | 🌐 Java | 📅 2026-08-22 - Apache Maven core
+* [flyway/flyway](https://github.com/flyway/flyway) ⭐ 10,022 | 🐛 256 | 🌐 Java | 📅 2026-08-13 - Flyway by Redgate • Database Migrations Made Easy.
+* [apache/seatunnel](https://github.com/apache/seatunnel) ⭐ 9,571 | 🐛 658 | 🌐 Java | 📅 2026-08-23 - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+* [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) ⭐ 8,000 | 🐛 235 | 🌐 TypeScript | 📅 2026-08-20 - SVG library for React Native, React Native Web, and plain React web projects.
+* [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) ⭐ 7,532 | 🐛 191 | 🌐 Java | 📅 2026-08-19 - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+* [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) ⭐ 6,198 | 🐛 19 | 🌐 Java | 📅 2026-05-08 - A list of useful Java frameworks, libraries, software and hello worlds examples
+* [microsoft/typespec](https://github.com/microsoft/typespec) ⭐ 5,824 | 🐛 1,080 | 🌐 Java | 📅 2026-08-22 -
+* [liquibase/liquibase](https://github.com/liquibase/liquibase) ⭐ 5,594 | 🐛 248 | 🌐 Java | 📅 2026-08-23 - Main Liquibase Source
+* [apache/maven](https://github.com/apache/maven) ⭐ 5,318 | 🐛 787 | 🌐 Java | 📅 2026-08-23 - Apache Maven core
 * [Sayi/poi-tl](https://github.com/Sayi/poi-tl) ⭐ 5,138 | 🐛 64 | 🌐 Java | 📅 2026-08-08 - Generate awesome word(docx) with template
 * [rstudio/rstudio](https://github.com/rstudio/rstudio) ⭐ 5,044 | 🐛 1,340 | 🌐 Java | 📅 2026-08-22 - RStudio is an integrated development environment (IDE) for R
-* [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,704 | 🐛 505 | 🌐 Java | 📅 2026-08-21 - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+* [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,705 | 🐛 505 | 🌐 Java | 📅 2026-08-21 - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 * [jlegewie/zotfile](https://github.com/jlegewie/zotfile) ⭐ 4,365 | 🐛 300 | 🌐 Java | 📅 2024-04-16 - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
-* [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) ⭐ 3,734 | 🐛 28 | 🌐 Java | 📅 2026-08-21 - Library for OpenAPI 3 with spring-boot
-* [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) ⭐ 2,959 | 🐛 23 | 🌐 Java | 📅 2024-09-10 - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
-* [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) ⭐ 2,825 | 🐛 159 | 🌐 Java | 📅 2026-07-28 - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
-* [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) ⭐ 2,629 | 🐛 59 | 🌐 Java | 📅 2026-04-08 - Supplementary resources for the AWS Lambda Developer Guide
-* [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) ⭐ 2,616 | 🐛 347 | 🌐 Java | 📅 2026-08-21 - An Open Standard for lineage metadata collection
-* [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) ⭐ 2,567 | 🐛 535 | 🌐 Java | 📅 2026-08-22 - This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at <https://docs.microsoft.com/java/azure/> or our versioned
+* [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) ⭐ 3,736 | 🐛 28 | 🌐 Java | 📅 2026-08-21 - Library for OpenAPI 3 with spring-boot
+* [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) ⭐ 2,960 | 🐛 23 | 🌐 Java | 📅 2024-09-10 - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
+* [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) ⭐ 2,824 | 🐛 159 | 🌐 Java | 📅 2026-07-28 - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
+* [awsdocs/aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) ⭐ 2,628 | 🐛 59 | 🌐 Java | 📅 2026-04-08 - Supplementary resources for the AWS Lambda Developer Guide
+* [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) ⭐ 2,616 | 🐛 354 | 🌐 Java | 📅 2026-08-23 - An Open Standard for lineage metadata collection
+* [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) ⭐ 2,566 | 🐛 535 | 🌐 Java | 📅 2026-08-23 - This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at <https://docs.microsoft.com/java/azure/> or our versioned
 * [Swagger2Markup/swagger2markup](https://github.com/Swagger2Markup/swagger2markup) ⭐ 2,507 | 🐛 80 | 🌐 Java | 📅 2022-04-26 - A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentat
-* [metasfresh/metasfresh](https://github.com/metasfresh/metasfresh) ⭐ 2,406 | 🐛 2,962 | 🌐 Java | 📅 2026-08-21 - We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
+* [metasfresh/metasfresh](https://github.com/metasfresh/metasfresh) ⭐ 2,406 | 🐛 2,958 | 🌐 Java | 📅 2026-08-23 - We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
 * [smithy-lang/smithy](https://github.com/smithy-lang/smithy) ⭐ 2,343 | 🐛 87 | 🌐 Java | 📅 2026-08-19 - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
-* [gaul/s3proxy](https://github.com/gaul/s3proxy) ⭐ 2,318 | 🐛 82 | 🌐 Java | 📅 2026-08-22 - Access other storage backends via the S3 API
+* [gaul/s3proxy](https://github.com/gaul/s3proxy) ⭐ 2,318 | 🐛 80 | 🌐 Java | 📅 2026-08-23 - Access other storage backends via the S3 API
 * [MarquezProject/marquez](https://github.com/MarquezProject/marquez) ⭐ 2,265 | 🐛 249 | 🌐 Java | 📅 2026-08-11 - Collect, aggregate, and visualize a data ecosystem's metadata
 * [itext/itext-java](https://github.com/itext/itext-java) ⭐ 2,254 | 🐛 77 | 🌐 Java | 📅 2026-08-21 - iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabi
 * [lightbody/browsermob-proxy](https://github.com/lightbody/browsermob-proxy) ⭐ 2,200 | 🐛 239 | 🌐 Java | 📅 2024-05-30 - A free utility to help web developers watch and manipulate network traffic from their AJAX applications.
 * [apache/atlas](https://github.com/apache/atlas) ⭐ 2,135 | 🐛 158 | 🌐 Java | 📅 2026-08-21 - Apache Atlas
-* [validator/validator](https://github.com/validator/validator) ⭐ 1,975 | 🐛 1 | 🌐 Java | 📅 2026-08-21 - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+* [validator/validator](https://github.com/validator/validator) ⭐ 1,976 | 🐛 1 | 🌐 Java | 📅 2026-08-21 - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 * [airbnb/AirMapView](https://github.com/airbnb/AirMapView) ⭐ 1,877 | 🐛 26 | 🌐 Java | 📅 2025-11-06 - A view abstraction to provide a map user interface with various underlying map providers
-* [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) ⭐ 1,825 | 🐛 0 | 🌐 Java | 📅 2026-08-22 - Free database schema discovery and comprehension tool
-* [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) ⭐ 1,730 | 🐛 474 | 🌐 Java | 📅 2026-08-21 - Postgresql JDBC Driver
+* [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) ⭐ 1,826 | 🐛 2 | 🌐 Java | 📅 2026-08-23 - Free database schema discovery and comprehension tool
+* [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) ⭐ 1,731 | 🐛 496 | 🌐 Java | 📅 2026-08-23 - Postgresql JDBC Driver
 * [Netflix/metacat](https://github.com/Netflix/metacat) ⭐ 1,690 | 🐛 56 | 🌐 Java | 📅 2026-08-21 -
 * [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) ⭐ 1,512 | 🐛 0 | 🌐 Java | 📅 2026-03-03 - 🔖 It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate.
-* [projectnessie/nessie](https://github.com/projectnessie/nessie) ⭐ 1,497 | 🐛 163 | 🌐 Java | 📅 2026-08-21 - Nessie: Transactional Catalog for Data Lakes with Git-like semantics
-* [opendiffy/diffy](https://github.com/opendiffy/diffy) ⭐ 1,460 | 🐛 18 | 🌐 Java | 📅 2026-05-18 -
+* [projectnessie/nessie](https://github.com/projectnessie/nessie) ⭐ 1,497 | 🐛 163 | 🌐 Java | 📅 2026-08-22 - Nessie: Transactional Catalog for Data Lakes with Git-like semantics
+* [opendiffy/diffy](https://github.com/opendiffy/diffy) ⭐ 1,461 | 🐛 18 | 🌐 Java | 📅 2026-05-18 -
 * [GoogleCloudPlatform/bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) ⭐ 1,447 | 🐛 29 | 🌐 Java | 📅 2026-08-18 - Retail banking sample application showcasing Kubernetes and Google Cloud
 * [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,424 | 🐛 125 | 🌐 Java | 📅 2026-07-08 - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
-* [objectionary/eo](https://github.com/objectionary/eo) ⭐ 1,409 | 🐛 191 | 🌐 Java | 📅 2026-08-22 - EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-calculus
+* [objectionary/eo](https://github.com/objectionary/eo) ⭐ 1,413 | 🐛 151 | 🌐 Java | 📅 2026-08-23 - EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-calculus
 * [warmuuh/milkman](https://github.com/warmuuh/milkman) ⭐ 1,339 | 🐛 16 | 🌐 Java | 📅 2026-08-04 - An Extensible Request/Response Workbench
 * [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils) ⭐ 1,306 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2026-07-03 - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
-* [xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform) ⭐ 1,300 | 🐛 233 | 🌐 Java | 📅 2026-08-22 - The XWiki platform
+* [xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform) ⭐ 1,301 | 🐛 235 | 🌐 Java | 📅 2026-08-23 - The XWiki platform
 * [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) ⭐ 1,152 | 🐛 31 | 🌐 Java | 📅 2023-01-03 - react-native wrapper for android BottomSheetBehavior
 * [OpenAPITools/openapi-diff](https://github.com/OpenAPITools/openapi-diff) ⭐ 1,096 | 🐛 81 | 🌐 Java | 📅 2026-08-14 - Utility for comparing two OpenAPI specifications.
 * [gaia-app/gaia](https://github.com/gaia-app/gaia) ⭐ 1,080 | 🐛 75 | 🌐 Java | 📅 2023-03-30 - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
-* [wso2/product-apim](https://github.com/wso2/product-apim) ⭐ 1,020 | 🐛 656 | 🌐 Java | 📅 2026-08-22 - Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.
+* [wso2/product-apim](https://github.com/wso2/product-apim) ⭐ 1,021 | 🐛 656 | 🌐 Java | 📅 2026-08-23 - Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.
 * [paulfitz/daff](https://github.com/paulfitz/daff) ⭐ 922 | 🐛 47 | 🌐 Java | 📅 2026-05-27 - align and compare tables
 * [odpi/egeria](https://github.com/odpi/egeria) ⭐ 920 | 🐛 49 | 🌐 Java | 📅 2026-08-22 - Egeria core
 * [miguelhincapie/CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior) ⭐ 916 | 🐛 36 | 🌐 Java | 📅 2024-08-20 - Custom BottomSheetBehavior for Android that mimic Google Maps behavior
@@ -3686,17 +3686,17 @@
 * [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) ⭐ 788 | 🐛 2 | 🌐 Java | 📅 2026-08-21 - Zettelkasten-Developer-Builds
 * [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) ⭐ 748 | 🐛 8 | 🌐 Java | 📅 2024-02-08 - "Technology Gold mine" to collect and share materials/resources
 * [support-project/knowledge](https://github.com/support-project/knowledge) ⭐ 729 | 🐛 151 | 🌐 Java | 📅 2022-09-08 - Free Knowledge Management System
-* [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) ⭐ 674 | 🐛 5 | 🌐 HTML | 📅 2026-04-07 - Serves files from github, bitbucket and gitlab, but with the correct content types
+* [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) ⭐ 675 | 🐛 5 | 🌐 HTML | 📅 2026-04-07 - Serves files from github, bitbucket and gitlab, but with the correct content types
 * [datacleaner/DataCleaner](https://github.com/datacleaner/DataCleaner) ⭐ 651 | 🐛 205 | 🌐 Java | 📅 2026-07-27 - The premier open source Data Quality solution
 * [oracle/fastr](https://github.com/oracle/fastr) ⭐ 648 | 🐛 81 | 🌐 Java | 📅 2026-07-30 - A high-performance implementation of the R programming language, built on GraalVM.
 * [openanalytics/shinyproxy](https://github.com/openanalytics/shinyproxy) ⭐ 613 | 🐛 71 | 🌐 Java | 📅 2026-08-13 - ShinyProxy - Open Source Enterprise Deployment for Shiny and data science apps
-* [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) ⭐ 612 | 🐛 139 | 🌐 Java | 📅 2026-08-20 - The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
+* [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) ⭐ 612 | 🐛 141 | 🌐 Java | 📅 2026-08-20 - The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
 * [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) ⭐ 557 | 🐛 0 | 🌐 Java | 📅 2024-01-04 - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 * [GoogleCloudPlatform/spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) ⭐ 549 | 🐛 276 | 🌐 Java | 📅 2026-08-03 - New home for Spring Cloud GCP development starting with version 2.0.
 * [eclipse-archived/golo-lang](https://github.com/eclipse-archived/golo-lang) ⚠️ Archived - Golo - a lightweight dynamic language for the JVM.
 * [neoedmund/neoeedit](https://github.com/neoedmund/neoeedit) ⭐ 474 | 🐛 0 | 🌐 Java | 📅 2026-07-02 - neoeedit - a smart, light, powerful text editor.
+* [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) ⭐ 444 | 🐛 70 | 🌐 Java | 📅 2026-08-22 - Gravitee.io - OpenSource API Management
 * [hgqapp/atlassian-agent](https://github.com/hgqapp/atlassian-agent) ⭐ 444 | 🐛 4 | 🌐 Java | 📅 2024-04-08 - Atlassian's productions crack.
-* [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) ⭐ 443 | 🐛 70 | 🌐 Java | 📅 2026-08-22 - Gravitee.io - OpenSource API Management
 * [aws-samples/aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) ⭐ 437 | 🐛 15 | 🌐 Java | 📅 2024-04-16 - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
 * [structurizr/lite](https://github.com/structurizr/lite) ⚠️ Archived - Structurizr Lite
 * [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) ⭐ 373 | 🐛 29 | 🌐 Java | 📅 2026-08-18 - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
@@ -3725,7 +3725,7 @@
 * [suewonjp/civilizer](https://github.com/suewonjp/civilizer) ⭐ 84 | 🐛 2 | 🌐 Java | 📅 2018-05-12 - Civilizer - Tool to efficiently manage your data/knowledge/idea
 * [Novartis/YADA](https://github.com/Novartis/YADA) ⭐ 82 | 🐛 23 | 🌐 Java | 📅 2022-11-16 - Open-source Data Ops
 * [lovejjfg/PowerRefresh](https://github.com/lovejjfg/PowerRefresh) ⭐ 66 | 🐛 0 | 🌐 Java | 📅 2019-04-28 - Support nested scroll for refresh and load more.
-* [googleapis/discovery-artifact-manager](https://github.com/googleapis/discovery-artifact-manager) ⭐ 62 | 🐛 25 | 🌐 Java | 📅 2026-08-22 - The Discovery Artifact Manager is intended to facilitate testing, publishing, and synchronization of generators and artifacts for client libraries and generated code samples of Google APIs defined by
+* [googleapis/discovery-artifact-manager](https://github.com/googleapis/discovery-artifact-manager) ⭐ 62 | 🐛 25 | 🌐 Java | 📅 2026-08-23 - The Discovery Artifact Manager is intended to facilitate testing, publishing, and synchronization of generators and artifacts for client libraries and generated code samples of Google APIs defined by
 * [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 * [CourseOrchestra/2bass](https://github.com/CourseOrchestra/2bass) ⭐ 44 | 🐛 12 | 🌐 Java | 📅 2024-11-12 - DB schema as code tool
 * [w3c/rdfvalidator-ng](https://github.com/w3c/rdfvalidator-ng) ⭐ 40 | 🐛 4 | 🌐 Java | 📅 2024-02-20 - A simple Servlet to validate RDF files
@@ -3772,24 +3772,24 @@
 
 ## JavaScript
 
-* [usebruno/bruno](https://github.com/usebruno/bruno) ⭐ 46,474 | 🐛 1,828 | 🌐 JavaScript | 📅 2026-08-21 - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-* [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) ⭐ 18,102 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-20 - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
-* [automatisch/automatisch](https://github.com/automatisch/automatisch) ⭐ 13,943 | 🐛 287 | 🌐 JavaScript | 📅 2026-02-11 - The open source Zapier alternative. Build workflow automation without spending time and money.
-* [mozilla/readability](https://github.com/mozilla/readability) ⭐ 11,406 | 🐛 310 | 🌐 JavaScript | 📅 2026-08-04 - A standalone version of the readability lib
+* [usebruno/bruno](https://github.com/usebruno/bruno) ⭐ 46,496 | 🐛 1,828 | 🌐 JavaScript | 📅 2026-08-21 - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+* [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) ⭐ 18,103 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-20 - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+* [automatisch/automatisch](https://github.com/automatisch/automatisch) ⭐ 13,944 | 🐛 287 | 🌐 JavaScript | 📅 2026-02-11 - The open source Zapier alternative. Build workflow automation without spending time and money.
+* [mozilla/readability](https://github.com/mozilla/readability) ⭐ 11,409 | 🐛 310 | 🌐 JavaScript | 📅 2026-08-04 - A standalone version of the readability lib
 * [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) ⭐ 9,376 | 🐛 93 | 🌐 JavaScript | 📅 2024-08-16 - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 * [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) ⭐ 9,193 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-18 - A javascript text differencing implementation.
-* [lencx/Noi](https://github.com/lencx/Noi) ⭐ 9,018 | 🐛 225 | 🌐 TypeScript | 📅 2026-08-21 - 🚀 Power Your World with AI - Explore, Extend, Empower.
+* [lencx/Noi](https://github.com/lencx/Noi) ⭐ 9,019 | 🐛 225 | 🌐 TypeScript | 📅 2026-08-21 - 🚀 Power Your World with AI - Explore, Extend, Empower.
 * [ejci/favico.js](https://github.com/ejci/favico.js) ⭐ 8,678 | 🐛 57 | 🌐 JavaScript | 📅 2017-10-05 - Make use of your favicon with badges, images or videos
 * [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) ⭐ 8,508 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-11 - WebSocket emulation - Javascript client
 * [expressjs/morgan](https://github.com/expressjs/morgan) ⭐ 8,199 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-20 - HTTP request logger middleware for node.js
 * [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) ⭐ 7,832 | 🐛 110 | 🌐 JavaScript | 📅 2022-09-21 - Draws simple SVG sequence diagrams from textual representation of the diagram
 * [umdjs/umd](https://github.com/umdjs/umd) ⭐ 7,436 | 🐛 43 | 🌐 JavaScript | 📅 2024-11-26 - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
 * [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) ⭐ 7,122 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-14 - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
-* [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) ⭐ 6,932 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-08 - Keep iFrames sized to their content.
-* [js-org/js.org](https://github.com/js-org/js.org) ⭐ 5,837 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-22 - Dedicated to JavaScript and its awesome community since 2015
-* [rajnandan1/kener](https://github.com/rajnandan1/kener) ⭐ 5,123 | 🐛 76 | 🌐 Svelte | 📅 2026-08-20 - Kener is a Modern Self hosted Status Page, batteries included
-* [amzn/style-dictionary](https://github.com/amzn/style-dictionary) ⭐ 4,778 | 🐛 237 | 🌐 JavaScript | 📅 2026-08-22 - A build system for creating cross-platform styles.
-* [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) ⭐ 4,557 | 🐛 22 | 🌐 JavaScript | 📅 2021-11-23 - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
+* [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) ⭐ 6,931 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-08 - Keep iFrames sized to their content.
+* [js-org/js.org](https://github.com/js-org/js.org) ⭐ 5,837 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-23 - Dedicated to JavaScript and its awesome community since 2015
+* [rajnandan1/kener](https://github.com/rajnandan1/kener) ⭐ 5,126 | 🐛 76 | 🌐 Svelte | 📅 2026-08-20 - Kener is a Modern Self hosted Status Page, batteries included
+* [amzn/style-dictionary](https://github.com/amzn/style-dictionary) ⭐ 4,779 | 🐛 237 | 🌐 JavaScript | 📅 2026-08-22 - A build system for creating cross-platform styles.
+* [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) ⭐ 4,558 | 🐛 22 | 🌐 JavaScript | 📅 2021-11-23 - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 * [sindresorhus/file-type](https://github.com/sindresorhus/file-type) ⭐ 4,320 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - Detect the file type of a file, stream, or data
 * [KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js) ⭐ 3,841 | 🐛 72 | 🌐 JavaScript | 📅 2026-08-04 - Gmail JavaScript API
 * [ghosh/Micromodal](https://github.com/ghosh/Micromodal) ⭐ 3,658 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-08 - ⭕   Tiny javascript library for creating accessible modal dialogs
@@ -3801,7 +3801,7 @@
 * [andrewfiorillo/sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) ⭐ 2,260 | 🐛 9 | 🌐 JavaScript | 📅 2019-10-23 - A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and pattern fills.
 * [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) ⭐ 2,110 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-09 - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 * [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) ⭐ 1,899 | 🐛 138 | 🌐 JavaScript | 📅 2026-02-11 - RapiDoc -WebComponent for OpenAPI Spec
-* [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) ⭐ 1,835 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-05 - Web-based tool converts GitHub repository contents into a single formatted text file
+* [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) ⭐ 1,836 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-05 - Web-based tool converts GitHub repository contents into a single formatted text file
 * [jsdelivr/bootstrapcdn](https://github.com/jsdelivr/bootstrapcdn) ⭐ 1,371 | 🐛 11 | 🌐 JavaScript | 📅 2026-06-20 - Free Bootstrap CDN hosting
 * [mdn/js-examples](https://github.com/mdn/js-examples) ⭐ 1,256 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-18 - Code examples that accompany the MDN JavaScript/ECMAScript documentation
 * [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) ⭐ 1,168 | 🐛 15 | 🌐 JavaScript | 📅 2025-07-23 - Collection of CSS styles to make simple websites look nicer
@@ -3814,7 +3814,7 @@
 * [Mermade/oas-kit](https://github.com/Mermade/oas-kit) ⭐ 747 | 🐛 45 | 🌐 JavaScript | 📅 2023-10-27 - Convert Swagger 2.0 definitions to OpenAPI 3.0 and resolve/validate/lint
 * [sindresorhus/find-up](https://github.com/sindresorhus/find-up) ⭐ 643 | 🐛 1 | 🌐 JavaScript | 📅 2025-09-16 - Find a file or directory by walking up parent directories
 * [IBM/openapi-validator](https://github.com/IBM/openapi-validator) ⭐ 634 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-14 - Configurable and extensible validator/linter for OpenAPI documents
-* [johakr/html5-slot-machine](https://github.com/johakr/html5-slot-machine) ⭐ 621 | 🐛 9 | 🌐 JavaScript | 📅 2026-02-14 - Modern casino slot machine game using only plain JavaScript (Web Animations API)
+* [johakr/html5-slot-machine](https://github.com/johakr/html5-slot-machine) ⭐ 622 | 🐛 9 | 🌐 JavaScript | 📅 2026-02-14 - Modern casino slot machine game using only plain JavaScript (Web Animations API)
 * [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) ⭐ 595 | 🐛 41 | 🌐 TypeScript | 📅 2026-07-31 - Developer-centric site to create awareness of JWTs and troubleshoot them.
 * [google/palette.js](https://github.com/google/palette.js) ⚠️ Archived - Script for generating colour palettes for use with graphs, charts and cartography.
 * [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables) ⭐ 551 | 🐛 37 | 🌐 JavaScript | 📅 2023-09-02 - PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
@@ -3827,7 +3827,7 @@
 * [nobleclem/jQuery-MultiSelect](https://github.com/nobleclem/jQuery-MultiSelect) ⭐ 302 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-02 - Turn a multiselect list into a nice and easy to use list with checkboxes.
 * [bladefist/JsonUtils](https://github.com/bladefist/JsonUtils) ⭐ 297 | 🐛 28 | 🌐 JavaScript | 📅 2022-07-19 - Json to C#, VB.Net, Javascript and SQL Server Table
 * [tks18/gindex-v4](https://github.com/tks18/gindex-v4) ⭐ 252 | 🐛 15 | 🌐 JavaScript | 📅 2021-11-01 - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
-* [Snowflyt/typora-copilot](https://github.com/Snowflyt/typora-copilot) ⭐ 248 | 🐛 14 | 🌐 TypeScript | 📅 2026-01-14 - GitHub Copilot plugin for Typora on both Windows, macOS and Linux, provided through Copilot.vim.
+* [Snowflyt/typora-copilot](https://github.com/Snowflyt/typora-copilot) ⭐ 249 | 🐛 14 | 🌐 TypeScript | 📅 2026-01-14 - GitHub Copilot plugin for Typora on both Windows, macOS and Linux, provided through Copilot.vim.
 * [GoogleChromeLabs/postcss-jit-props](https://github.com/GoogleChromeLabs/postcss-jit-props) ⭐ 237 | 🐛 17 | 🌐 JavaScript | 📅 2026-06-15 - A CSS custom property helper based on PostCSS. Supply a pool of variables and this plugin will add them to the stylesheet as they are used.
 * [sanity-io/groq-cli](https://github.com/sanity-io/groq-cli) ⭐ 236 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-07 - Run GROQ in your command line
 * [pgrabovets/json-view](https://github.com/pgrabovets/json-view) ⭐ 229 | 🐛 8 | 🌐 JavaScript | 📅 2025-12-03 - This is a javascript library for displaying json data into a DOM.
@@ -3892,7 +3892,7 @@
 * [tanaikech/MimeTypeApp](https://github.com/tanaikech/MimeTypeApp) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-04 - This is a Google Apps Script library for converting files from various MIME types to a specified target MIME type. The library accepts both file IDs and blobs as input values.
 * [oobianom/nextGenShinyApps](https://github.com/oobianom/nextGenShinyApps) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-01 - Create Exceptional R Shiny Dashboards and Apps. Empowering You with Cutting-Edge Tools for Building the Future of Shiny Applications.
 * [hilmanski/openai-function-calling-example](https://github.com/hilmanski/openai-function-calling-example) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-28 - Example of using function calling and connecting it to an external API
-* [Kong/design-tokens](https://github.com/Kong/design-tokens) ⭐ 12 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-22 - Kong UI Design Tokens and Style Dictionary
+* [Kong/design-tokens](https://github.com/Kong/design-tokens) ⭐ 12 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-23 - Kong UI Design Tokens and Style Dictionary
 * [CivicTechAtlanta/mapsforus](https://github.com/CivicTechAtlanta/mapsforus) ⭐ 12 | 🐛 10 | 🌐 JavaScript | 📅 2017-09-09 - Leaflet maps auto-generated from Google Docs!
 * [vivinkv6/openai-projects](https://github.com/vivinkv6/openai-projects) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-26 - Projects build using Openai API
 * [sangafabrice/markdown-to-html-shortcut](https://github.com/sangafabrice/markdown-to-html-shortcut) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-09 - Windows 10/11 context menu shortcut for converting a Markdown file to an HTML file.
@@ -3956,4 +3956,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
